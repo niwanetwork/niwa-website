@@ -15,3 +15,11 @@ To **edit a file**:
 
 To **propose changes**:
 * Click on the Issues tab, select the green "New issue" button, and propose the change you would like to see.
+
+## Authorship
+This website was originally created by ???.
+
+Website is currently maintained by NIWA's webteam:
+* SuperHamster ([KevinPayravi](https://github.com/KevinPayravi))
+* Archaic
+* Tacopill
