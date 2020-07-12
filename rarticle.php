@@ -1,7 +1,6 @@
 <?php
 $rurl = array(
 				"http://bulbapedia.bulbagarden.net/wiki/Special:Random",
-				"http://dkwiki.com/Special:Random",
 				"https://fireemblemwiki.org/wiki/Special:Random",
 				"http://goldensunwiki.net/Special:Random",
 				"http://starfoxwiki.info/Special:Random",

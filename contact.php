@@ -19,7 +19,6 @@ include('_header.php');
 		<option value="coordinator">NIWA Coordinator</option>
 		<option value="armswiki">ARMS Institute</option>
     	<option value="bulbapedia">Bulbapedia</option>
-        <option value="dkwiki">Donkey Kong Wiki</option>
         <option value="dqwiki">Dragon Quest Wiki</option>
         <option value="fewiki">Fire Emblem Wiki</option>
 		<option value="fzerowiki">F-Zero Wiki</option>

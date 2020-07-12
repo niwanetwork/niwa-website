@@ -23,18 +23,6 @@ $bulbapedia = array(
 				'discord' => 'http://discord.gg/bulbagarden' ,
 			  );
 
-$dkwiki = array(
-				'logo' => '../images/members/donkeykongwiki.png' ,
-				'icon' => '../images/members/icons/donkeykongwiki.png' ,
-				'site' => 'http://www.dkwiki.com/' ,
-				'url' => 'http://www.dkwiki.com/' , 
-				'forums' => 'http://www.dkwiki.com/Forum:Index' ,
-				'chat' => 'http://www.dkwiki.com/DKWiki:IRC' ,
-				#'twitter' => '' ,
-				#'facebook' => '' ,
-				#'discord' => '' ,
-			  );
-
 $dqwiki = array(
 				'logo' => '../images/members/dragonquestwiki.png' ,
 				'icon' => '../images/members/icons/dragonquestwiki.png' ,
