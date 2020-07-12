@@ -91,15 +91,6 @@ A part of the Bulbagarden community, Bulbapedia was founded on December 21st, 20
 </div>
 
 <div class='member'>
-<div class='logo'><a href='".$dkwiki["url"]."'><img src='".$dkwiki["logo"]."' alt='Donkey Kong Wiki' /></a></div>
-<div class='description'>
-<div class='links'><a href='".$dkwiki["url"]."'>Donkey Kong Wiki</a> <a href='".$dkwiki["forums"]."'>Forums</a> <a href='".$dkwiki["chat"]."'>Chat</a></div>
-Founded at Wikia on May 25th, 2008, Donkey Kong Wiki is dedicated to Nintendo's longest-running series, covering everything from the inaugural 1981 arcade classic right up to the present day. With their new-found independence, the wiki's members continue to build the best resource for DK information around.
-</div>
-<p style='clear: both;'></p>
-</div>
-
-<div class='member'>
 <div class='logo'><a href='".$dqwiki["url"]."'><img src='".$dqwiki["logo"]."' alt='Dragon Quest Wiki' /></a></div>
 <div class='description'>
 <div class='links'><a href='".$dqwiki["url"]."'>Dragon Quest Wiki</a> <a href='".$dqwiki["forums"]."'>Forums</a></div>
