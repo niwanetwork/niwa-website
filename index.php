@@ -10,7 +10,6 @@ $topbar = off;
 <p>
 <a href='".$armswiki["url"]."'><img src='".$armswiki["logo"]."' alt='ARMS Institute' height='150' /></a>
 <a href='".$bulbapedia["url"]."'><img src='".$bulbapedia["logo"]."' alt='Bulbapedia' height='150' /></a>
-<a href='".$dkwiki["url"]."'><img src='".$dkwiki["logo"]."' alt='Donkey Kong Wiki' height='150' /></a>
 <a href='".$dqwiki["url"]."'><img src='".$dqwiki["logo"]."' alt='Dragon Quest Wiki' height='150' /></a>
 <a href='".$fewiki["url"]."'><img src='".$fewiki["logo"]."' alt='Fire Emblem Wiki' height='150' /></a>
 <a href='".$fzerowiki["url"]."'><img src='".$fzerowiki["logo"]."' alt='F-Zero Wiki' height='150' /></a>
