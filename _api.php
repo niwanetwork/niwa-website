@@ -123,13 +123,13 @@ $lylatwiki = array(
 $mariowiki = array(
 				'logo' => '../images/members/supermariowiki.png' ,
 				'icon' => '../images/members/icons/supermariowiki.png' ,
-				'site' => 'http://www.mariowiki.com/' ,
-				'url' => 'http://www.mariowiki.com/Main_Page' , 
-				'forums' => 'http://www.marioboards.com/' ,
-				'chat' => 'http://www.mariowiki.com/Special:WebChat' ,
+				'site' => 'https://www.mariowiki.com/' ,
+				'url' => 'https://www.mariowiki.com/' , 
+				'forums' => 'https://www.marioboards.com/' ,
+				'chat' => 'https://www.mariowiki.com/Help:Chat' ,
 				'twitter' => 'https://twitter.com/SMWikiOfficial' ,
 				'facebook' => 'https://www.facebook.com/smwiki' ,
-				#'discord' => '' ,
+				'discord' => 'https://discord.gg/w48g6zm' ,
 			  );
 			  
 $mariowikide = array(
@@ -205,28 +205,16 @@ $nookipedia = array(
 				'discord' => 'https://discord.gg/cpQ5tJV' ,
 			  );
 
-$pikifanon = array(
-				'logo' => '../images/members/pikifanon.png' ,
-				'icon' => '../images/members/icons/pikifanon.png' ,
-				'site' => 'http://www.pikminfanon.com/' ,
-				'url' => 'http://www.pikminfanon.com/Main_Page' , 
-				'forums' => 'http://www.pikminfanon.com/Forum:Index' ,
-				'chat' => 'http://www.pikminwiki.com/Special:WebChat' ,
-				#'twitter' => '' ,
-				#'facebook' => '' ,
-				#'discord' => '' ,
-			  );
-
 $pikipedia = array(
 				'logo' => '../images/members/pikipedia.png' ,
 				'icon' => '../images/members/icons/pikipedia.png' ,
-				'site' => 'http://www.pikminwiki.com/' ,
-				'url' => 'http://www.pikminwiki.com/Main_Page' , 
-				'forums' => 'http://www.pikminwiki.com/Forum:Index' ,
-				'chat' => 'http://www.pikminwiki.com/Special:WebChat' ,
+				'site' => 'https://www.pikminwiki.com/' ,
+				'url' => 'https://www.pikminwiki.com/' , 
+				'forums' => 'https://www.pikminwiki.com/Forum:Index' ,
+				'chat' => 'https://www.pikminwiki.com/Help:Chat' ,
 				'twitter' => 'https://twitter.com/PikipediaTweets' ,
-				'facebook' => 'https://www.facebook.com/Pikipedia/' ,
-				#'discord' => '' ,
+				'facebook' => 'https://www.facebook.com/Pikipedia' ,
+				'discord' => 'https://discord.gg/msMKc3G' ,
 			  );
 
 $pokemoncentral = array(
@@ -244,10 +232,10 @@ $pokemoncentral = array(
 $smashwiki = array(
 				'logo' => '../images/members/smashwiki.png' ,
 				'icon' => '../images/members/icons/smashwiki.png' ,
-				'site' => 'http://www.ssbwiki.com/' ,
-				'url' => 'http://www.ssbwiki.com/' , 
-				'forums' => 'http://www.ssbwiki.com/Forum:Index' ,
-				'chat' => 'http://www.ssbwiki.com/SmashWiki:IRC' ,
+				'site' => 'https://www.ssbwiki.com/' ,
+				'url' => 'https://www.ssbwiki.com/' , 
+				'forums' => 'https://www.ssbwiki.com/Forum:Index' ,
+				'chat' => 'https://www.ssbwiki.com/SmashWiki:IRC' ,
 				#'twitter' => '' ,
 				#'facebook' => '' ,
 				'discord' => 'https://discord.gg/wDR5jR2' ,
