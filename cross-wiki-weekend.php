@@ -30,7 +30,8 @@ include('_header.php');
 		<li><a href="cross-wiki-weekend-2016.php">Cross-Wiki Weekend 2016</a> (Sep 23-25)</li>
 		<li><a href="cross-wiki-weekend-2017.php">Cross-Wiki Weekend 2017</a> (Sep 22-24)</li>
 		<li><a href="cross-wiki-weekend-2018.php">Cross-Wiki Weekend 2018</a> (Sep 21-23)</li>
-		<li><a href="cross-wiki-weekend-2018.php">Cross-Wiki Weekend 2019</a> (Sep 20-22)</li>
+		<li><a href="cross-wiki-weekend-2019.php">Cross-Wiki Weekend 2019</a> (Sep 20-22)</li>
+		<li><a href="cross-wiki-weekend-2020.php">Cross-Wiki Weekend 2020</a> (Sep 18-20)</li>
 	</ul>
 
 	<h1>Goals</h1>
