@@ -226,7 +226,7 @@ $pokemoncentral = [
 	'chat' => 'https://telegram.me/pcentralchat' ,
 	'twitter' => 'https://twitter.com/pokemoncentral' ,
 	'facebook' => 'https://www.facebook.com/pokemoncentral' ,
-	#'discord' => '' ,
+	'discord' => 'https://discord.gg/WX4RrRf' ,
 ];
 
 $smashwiki = [
@@ -298,7 +298,7 @@ $wikiboundit = [
 	#'chat' => '' ,
 	'twitter' => 'https://twitter.com/wikibound_it' ,
 	'facebook' => 'https://www.facebook.com/WikiBoundITA' ,
-	#'discord' => '' ,
+	'discord' => 'https://discord.gg/7TqG99n' ,
 ];
 
 $wikirby = [
@@ -319,7 +319,7 @@ $xenopediait = [
 	'site' => 'https://www.xenopedia.it' ,
 	'url' => 'https://www.xenopedia.it/Pagina_principale' ,
 	#'forums' => '' ,
-	'chat' => 'https://t.me/joinchat/A4qJ_kg-AjED1rlxBhabFA' ,
+	'chat' => 'https://t.me/XenobladeRAlpha' ,
 	'twitter' => 'https://twitter.com/XenobladeRAlpha' ,
 	'facebook' => 'https://www.facebook.com/XenobladeRAlpha' ,
 	'discord' => 'https://discord.gg/A9vZCUP' ,
