@@ -283,7 +283,7 @@ THE SOFTWARE IS PROVIDED 'AS IS', WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLI
 	<section id='content2'>
 		L'anniversario di Nintendo cadr&#224; il 23 settembre. Per celebrarlo NIWA sta organizzando un <b>Cross-Wiki Weekend</b>!
 		<br><br>
-		Dal <b>20 al 22 settembre</b> siete tutti invitati a modificare costruttivamente almeno un wiki di NIWA al quale non avete mai (o raramente) contribuito.
+		Dal <b>18 al 21 settembre</b> siete tutti invitati a modificare costruttivamente almeno un wiki di NIWA al quale non avete mai (o raramente) contribuito.
 		Che si tratti di inserire dei nuovi contenuti, caricare un'immagine o aggiungere un riferimento, il nostro desiderio &#232; che portiate la vostra esperienza e la vostra passione su un nuovo wiki.
 		<br><br>
 		Al termine dell'evento, un partecipante sorteggiato casualmente vincer&#224; una <b>Nintendo eShop Card da $20</b>! Quando l'evento sar&#224; concluso potrete inviare le vostre modifiche attraverso il pulsante situato in fondo a questa pagina.
@@ -396,9 +396,6 @@ THE SOFTWARE IS PROVIDED 'AS IS', WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLI
 		Una volta concluso l'evento, siete pregati di segnalare i vostri contributi compilando il seguente modulo entro il <b>30 settembre</b>.
 		Compilare questo modulo &#232; necessario per partecipare all'estrazione del premio. 
 		<br><br>
-		<div style="width: 100%; text-align: center;">
-			<a href="https://niwa.typeform.com/to/tUzhdR"><div class="button">Submit</div></a>
-		</div>
 
 		<br><br>
 
@@ -413,6 +410,7 @@ THE SOFTWARE IS PROVIDED 'AS IS', WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLI
 
 		<br><br>
 
+		<!--
 		<h1 id="Conclusion">Conclusione</h1>
 		Grazie a tutti per aver partecipato! Hanno preso parte all'evento un totale di 13 contributori, sia nuovi che vecchi. Sono stati effettuati contributi all'interno di 11 wiki di NIWA, provenienti dai membri di 7 wiki di NIWA oltre che dal pubblico esterno. Grazie ai seguenti partecipanti:
 		<table style="width: 100%;">
@@ -466,7 +464,7 @@ THE SOFTWARE IS PROVIDED 'AS IS', WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLI
 			Il vincitore verr&#224; estratto con un sorteggio casuale dopo che i contributi verranno giudicati su una scala da 1 a 10 dagli organizzatori dell'evento. Gli organizzatori non possono vincere il premio.
 		</span>
 	</section>
-
+	-->
 </div>
 
 <?php 
