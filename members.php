@@ -192,8 +192,17 @@ Founded in August 2005 on Wikia, Nookipedia was originally known as Animal Cross
 <div class='member'>
 <div class='logo'><a href='".$pikipedia["url"]."'><img src='".$pikipedia["logo"]."' alt='Pikipedia' /></a></div>
 <div class='description'>
-<div class='links'><a href='".$pikipedia["url"]."'>Pikipedia</a> <a href='".$pikipedia["forums"]."'>Forums</a> <a href='".$pikipedia["chat"]."'>Chat</a> <a href='".$pikipedia["twitter"]."'>Twitter</a> <a href='".$pikipedia["facebook"]."'>Facebook</a></div>
+<div class='links'><a href='".$pikipedia["url"]."'>Pikipedia</a> <a href='".$pikipedia["forums"]."'>Forums</a> <a href='".$pikipedia["chat"]."'>Chat</a> <a href='".$pikipedia["discord"]."'>Discord</a> <a href='".$pikipedia["twitter"]."'>Twitter</a> <a href='".$pikipedia["facebook"]."'>Facebook</a></div>
 Pikipedia, also known as Pikmin Wiki, was founded by Dark Lord Revan on Wikia in December 2005. In September 2010, with NIWA's help, Pikipedia moved away from Wikia to become independent. Pikipedia is working towards their goal of being the foremost source for everything Pikmin.
+</div>
+<p style='clear: both;'></p>
+</div>
+
+<div class='member'>
+<div class='logo'><a href='".$pikifanon["url"]."'><img src='".$pikifanon["logo"]."' alt='Pikmin Fanon' /></a></div>
+<div class='description'>
+<div class='links'><a href='".$pikifanon["url"]."'>Pikmin Fanon</a> <a href='".$pikifanon["forums"]."'>Forums</a> <a href='".$pikifanon["discord"]."'>Discord</a>
+Pikmin Fanon is a Pikmin wiki for fan stories (fanon). Founded back on November 1st, 2008 by Rocky0718 as a part of Wikia, Pikmin Fanon has been independent since September 14th, 2010. Check them out for fan created stories based around the Pikmin series.
 </div>
 <p style='clear: both;'></p>
 </div>
@@ -228,7 +237,7 @@ StrategyWiki was founded in December 2005 by former member Brandon Suit with the
 <div class='member'>
 <div class='logo'><a href='".$mariowiki["url"]."'><img src='".$mariowiki["logo"]."' alt='Super Mario Wiki' /></a></div>
 <div class='description'>
-<div class='links'><a href='".$mariowiki["url"]."'>Super Mario Wiki</a> <a href='".$mariowiki["forums"]."'>Forums</a> <a href='".$mariowiki["chat"]."'>Chat</a> <a href='".$mariowiki["twitter"]."'>Twitter</a> <a href='".$mariowiki["facebook"]."'>Facebook</a></div>
+<div class='links'><a href='".$mariowiki["url"]."'>Super Mario Wiki</a> <a href='".$mariowiki["forums"]."'>Forums</a> <a href='".$mariowiki["chat"]."'>Chat</a> <a href='".$mariowiki["discord"]."'>Discord</a> <a href='".$mariowiki["twitter"]."'>Twitter</a> <a href='".$mariowiki["facebook"]."'>Facebook</a></div>
 Online since August 12th, 2005, when it was founded by Steve Shinn, Super Mario Wiki has you covered for anything Mario, Donkey Kong, Wario, Luigi, Yoshi - the whole gang in fact. With its own large community in its accompanying forum, Super Mario Wiki is not only a great encyclopedia, but a fansite for you to talk anything Mario.
 </div>
 <p style='clear: both;'></p>

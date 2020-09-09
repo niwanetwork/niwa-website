@@ -31,6 +31,7 @@ include('_header.php');
         <option value="nintendowiki">Nintendo Wiki</option>
         <option value="nookipedia">Nookipedia</option>
         <option value="pikipedia">Pikipedia</option>
+        <option value="pikminfanon">Pikmin Fanon</option>
         <option value="smashwiki">SmashWiki</option>
         <option value="starfywiki">Starfy Wiki</option>
         <option value="strategywiki">StrategyWiki</option>

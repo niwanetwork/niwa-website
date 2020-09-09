@@ -13,6 +13,7 @@ $rurl = [
 	"https://mutecity.org/wiki/Special:Random",
 	"https://nookipedia.com/wiki/Special:Random",
 	"https://www.pikminwiki.com/Special:Random",
+	"https://www.pikminfanon.com/wiki/Special:Random",
 	"https://splatoonwiki.org/wiki/Special:Random",
 	"https://www.ssbwiki.com/Special:Random",
 	"https://starfoxwiki.info/wiki/Special:Random",
