@@ -22,6 +22,7 @@ $topbar = off;
 <a href='".$nintendowiki["url"]."'><img src='".$nintendowiki["logo"]."' alt='Nintendo Wiki' height='150' /></a>
 <a href='".$nookipedia["url"]."'><img src='".$nookipedia["logo"]."' alt='Nookipedia' height='150' /></a>
 <a href='".$pikipedia["url"]."'><img src='".$pikipedia["logo"]."' alt='Pikipedia' height='150' /></a>
+<a href='".$pikifanon["url"]."'><img src='".$pikifanon["logo"]."' alt='Pikmin Fanon' height='150' /></a>
 <a href='".$smashwiki["url"]."'><img src='".$smashwiki["logo"]."' alt='SmashWiki' height='150' /></a>
 <a href='".$starfywiki["url"]."'><img src='".$starfywiki["logo"]."' alt='Starfy Wiki' height='150' /></a>
 <a href='".$strategywiki["url"]."'><img src='".$strategywiki["logo"]."' alt='StrategyWiki' height='150' /></a>
