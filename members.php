@@ -199,6 +199,15 @@ Pikipedia, also known as Pikmin Wiki, was founded by Dark Lord Revan on Wikia in
 </div>
 
 <div class='member'>
+<div class='logo'><a href='".$pikifanon["url"]."'><img src='".$pikifanon["logo"]."' alt='Pikmin Fanon' /></a></div>
+<div class='description'>
+<div class='links'><a href='".$pikifanon["url"]."'>Pikmin Fanon</a> <a href='".$pikifanon["forums"]."'>Forums</a> <a href='".$pikifanon["chat"]."'>Chat</a></div>
+Pikmin Fanon is a Pikmin wiki for fan stories (fanon). Founded back on November 1st, 2008 by Rocky0718 as a part of Wikia, Pikmin Fanon has been independent since September 14th, 2010. Check them out for fan created stories based around the Pikmin series.
+</div>
+<p style='clear: both;'></p>
+</div>
+
+<div class='member'>
 <div class='logo'><a href='".$smashwiki["url"]."'><img src='".$smashwiki["logo"]."' alt='SmashWiki' /></a></div>
 <div class='description'>
 <div class='links'><a href='".$smashwiki["url"]."'>SmashWiki</a> <a href='".$smashwiki["forums"]."'>Forums</a> <a href='".$smashwiki["chat"]."'>Chat</a> <a href='".$smashwiki["discord"]."'>Discord</a></div>
