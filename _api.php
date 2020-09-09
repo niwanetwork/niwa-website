@@ -211,10 +211,22 @@ $pikipedia = [
 	'site' => 'https://www.pikminwiki.com/' ,
 	'url' => 'https://www.pikminwiki.com/' ,
 	'forums' => 'https://www.pikminwiki.com/Forum:Index' ,
-	'chat' => 'https://www.pikminwiki.com/Help:Chat' ,
+	'chat' => 'https://www.pikminwiki.com/Pikipedia:Chat' ,
 	'twitter' => 'https://twitter.com/PikipediaTweets' ,
 	'facebook' => 'https://www.facebook.com/Pikipedia' ,
 	'discord' => 'https://discord.gg/msMKc3G' ,
+];
+
+$pikifanon = [
+	'logo' => '../images/members/pikifanon.png' ,
+	'icon' => '../images/members/icons/pikifanon.png' ,
+	'site' => 'https://www.pikminfanon.com/' ,
+	'url' => 'https://www.pikminfanon.com/wiki/Main_Page' , 
+	'forums' => 'https://www.pikminfanon.com/wiki/Forum:Index' ,
+	# 'chat' => '' ,
+	#'twitter' => '' ,
+	#'facebook' => '' ,
+	#'discord' => '' ,
 ];
 
 $pokemoncentral = [
