@@ -226,7 +226,7 @@ $pikifanon = [
 	#'chat' => '' ,
 	#'twitter' => '' ,
 	#'facebook' => '' ,
-	#'discord' => '' ,
+	'discord' => 'https://discord.gg/msMKc3G' ,
 ];
 
 $pokemoncentral = [
