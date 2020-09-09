@@ -219,7 +219,7 @@ $pikipedia = [
 
 $pikifanon = [
 	'logo' => '../images/members/pikifanon.png' ,
-	'icon' => '../images/members/icons/pikifanon.png' ,
+	'icon' => '../images/members/icons/pikminfanon.png' ,
 	'site' => 'https://www.pikminfanon.com/' ,
 	'url' => 'https://www.pikminfanon.com/wiki/Main_Page' , 
 	'forums' => 'https://www.pikminfanon.com/wiki/Forum:Index' ,
