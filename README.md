@@ -5,7 +5,8 @@ These are the files for the NIWA website (http://niwanetwork.org/), a PHP projec
 The files most users will be concerned about are:
 * `_api.php`, which holds member metadata (logos and links)
 * `members.php`, the page that shows member data (contains structure, names, descriptions; rest of data pulled from `_api.php`)
-* `images/members`, where site logos are stored
+* `images/icons`, where site icons are stored
+* `images/logos`, where site logos are stored
 
 Not all files for the website are in this repository, for either security or privacy reasons (for example, the email script is not included as it includes email addresses).
 
