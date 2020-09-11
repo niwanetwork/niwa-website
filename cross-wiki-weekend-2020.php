@@ -161,7 +161,7 @@ THE SOFTWARE IS PROVIDED 'AS IS', WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLI
 			</tr>
 			<tr>	
 				<td style="padding: 8px 4px; text-align: center; width: 25%;"><a style="font-weight: normal;" href="https://strategywiki.org/wiki/StrategyWiki:Community_Portal"><img src="/images/logos/strategywiki.png" alt="StrategyWiki" width="90px"><br/>Community Portal</a></td>
-				<td style="padding: 8px 4px; text-align: center; width: 25%;"><a style="color:#53C651;" href="https://www.mariowiki.com/MarioWiki:Cross-Wiki_Weekend"><img src="/images/logos/supermariowiki.png" alt="Super Mario Wiki" width="90px"><br/><b>Cross-Wiki Guide</b></a></td>
+				<td style="padding: 8px 4px; text-align: center; width: 25%;"><a style="color:#53C651;" href="https://www.mariowiki.com/MarioWiki:Cross-Wiki_Weekend"><img src="/images/logos/mariowiki.png" alt="Super Mario Wiki" width="90px"><br/><b>Cross-Wiki Guide</b></a></td>
 				<td style="padding: 8px 4px; text-align: center; width: 25%;"><a style="color:#53C651;" href="https://wikibound.info/wiki/WikiBound:Cross-Wiki_Weekend"><img src="/images/logos/wikibound.png" alt="WikiBound" width="90px"><br/><b>Cross-Wiki Guide</b></a></td>
 				<td style="padding: 8px 4px; text-align: center; width: 25%;"><a style="color:#53C651;" href="http://wikirby.com/wiki/WiKirby:Cross-Wiki_Weekend"><img src="/images/logos/wikirby.png" alt="WiKirby" width="90px"><br/><b>Cross-Wiki Guide</b></a></td>
 			</tr>
@@ -366,7 +366,7 @@ THE SOFTWARE IS PROVIDED 'AS IS', WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLI
 			</tr>
 			<tr>	
 				<td style="padding: 8px 4px; text-align: center; width: 25%;"><a style="font-weight: normal;" href="https://strategywiki.org/wiki/StrategyWiki:Community_Portal"><img src="/images/logos/strategywiki.png" alt="StrategyWiki" width="90px"><br/>Community Portal</a></td>
-				<td style="padding: 8px 4px; text-align: center; width: 25%;"><a style="color:#53C651;" href="https://www.mariowiki.com/MarioWiki:Cross-Wiki_Weekend"><img src="/images/logos/supermariowiki.png" alt="Super Mario Wiki" width="90px"><br/><b>Cross-Wiki Guide</b></a></td>
+				<td style="padding: 8px 4px; text-align: center; width: 25%;"><a style="color:#53C651;" href="https://www.mariowiki.com/MarioWiki:Cross-Wiki_Weekend"><img src="/images/logos/mariowiki.png" alt="Super Mario Wiki" width="90px"><br/><b>Cross-Wiki Guide</b></a></td>
 				<td style="padding: 8px 4px; text-align: center; width: 25%;"><a style="color:#53C651;" href="https://wikibound.info/wiki/WikiBound:Cross-Wiki_Weekend"><img src="/images/logos/wikibound.png" alt="WikiBound" width="90px"><br/><b>Cross-Wiki Guide</b></a></td>
 				<td style="padding: 8px 4px; text-align: center; width: 25%;"><a style="color:#53C651;" href="http://wikirby.com/wiki/WiKirby:Cross-Wiki_Weekend"><img src="/images/logos/wikirby.png" alt="WiKirby" width="90px"><br/><b>Cross-Wiki Guide</b></a></td>
 			</tr>
