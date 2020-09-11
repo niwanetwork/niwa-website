@@ -136,37 +136,37 @@ THE SOFTWARE IS PROVIDED 'AS IS', WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLI
 		<h3 style="text-align: center;">English Wikis</h3>
 		<table style="margin: 5px; width: 100%;">
 			<tr>
-				<td style="padding: 8px 4px; text-align: center; width: 25%;"><a style="font-weight: normal;" href="https://armswiki.org/wiki/ARMS_Institute:To_Do"><img src="http://www.niwanetwork.org/images/members/armswiki.png" alt="ARMS Institute" width="90px"><br/>To-Do List</a></td>
-				<td style="padding: 8px 4px; text-align: center; width: 25%;"><a style="font-weight: normal;" href="https://bulbapedia.bulbagarden.net/wiki/Help:Contents"><img src="http://www.niwanetwork.org/images/members/bulbapedia.png" alt="Bulbapedia" width="90px"><br/>Contents</a></td>
-				<td style="padding: 8px 4px; text-align: center; width: 25%;"><a style="font-weight: normal;" href="http://dragon-quest.org/wiki/Dragon_Quest_Wiki:Community_portal"><img src="http://www.niwanetwork.org/images/members/dragonquestwiki.png" alt="Dragon Quest Wiki" width="90px"><br/>Community Portal</a></td>
-				<td style="padding: 8px 4px; text-align: center; width: 25%;"><a style="color:#53C651;" href="https://www.fireemblemwiki.org/wiki/Fire_Emblem_Wiki:Cross-Wiki_Weekend"><img src="http://www.niwanetwork.org/images/members/fireemblemwiki.png" alt="Fire Emblem Wiki" width="90px"><br/><b>Cross-Wiki Guide</b></a></td>
+				<td style="padding: 8px 4px; text-align: center; width: 25%;"><a style="font-weight: normal;" href="https://armswiki.org/wiki/ARMS_Institute:To_Do"><img src="/images/logos/armswiki.png" alt="ARMS Institute" width="90px"><br/>To-Do List</a></td>
+				<td style="padding: 8px 4px; text-align: center; width: 25%;"><a style="font-weight: normal;" href="https://bulbapedia.bulbagarden.net/wiki/Help:Contents"><img src="/images/logos/bulbapedia.png" alt="Bulbapedia" width="90px"><br/>Contents</a></td>
+				<td style="padding: 8px 4px; text-align: center; width: 25%;"><a style="font-weight: normal;" href="http://dragon-quest.org/wiki/Dragon_Quest_Wiki:Community_portal"><img src="/images/logos/dragonquestwiki.png" alt="Dragon Quest Wiki" width="90px"><br/>Community Portal</a></td>
+				<td style="padding: 8px 4px; text-align: center; width: 25%;"><a style="color:#53C651;" href="https://www.fireemblemwiki.org/wiki/Fire_Emblem_Wiki:Cross-Wiki_Weekend"><img src="/images/logos/fireemblemwiki.png" alt="Fire Emblem Wiki" width="90px"><br/><b>Cross-Wiki Guide</b></a></td>
 			</tr>
 			<tr>
-				<td style="padding: 8px 4px; text-align: center; width: 25%;"><a style="color:#53C651;" href="http://mutecity.org/wiki/F-Zero_Wiki:Cross-Wiki_Weekend"><img src="http://www.niwanetwork.org/images/members/fzerowiki.png" alt="F-Zero Wiki" width="90px"><br/><b>Cross-Wiki Guide</b></a></td>
-				<td style="padding: 8px 4px; text-align: center; width: 25%;"><a style="font-weight: normal;" href="https://goldensunwiki.net/wiki/Help:Contents"><img src="http://www.niwanetwork.org/images/members/goldensununiverse.png" alt="Golden Sun Universe" width="90px"><br/>Contents</a></td>
-				<td style="padding: 8px 4px; text-align: center; width: 25%;"><a style="font-weight: normal;" href="https://harddrop.com/wiki/Tetris_Wiki"><img src="http://www.niwanetwork.org/images/members/harddrop.png" alt="Hard Drop Wiki" width="90px"><br/>Main Page</a></td>
-				<td style="padding: 8px 4px; text-align: center; width: 25%;"><a style="color:#53C651;" href="http://www.kidicaruswiki.org/Icaruspedia:Cross-Wiki_Weekend"><img src="http://www.niwanetwork.org/images/members/icaruspedia.png" alt="Icaruspedia" width="90px"><br/>Cross-Wiki Guide</a></td>
+				<td style="padding: 8px 4px; text-align: center; width: 25%;"><a style="color:#53C651;" href="http://mutecity.org/wiki/F-Zero_Wiki:Cross-Wiki_Weekend"><img src="/images/logos/fzerowiki.png" alt="F-Zero Wiki" width="90px"><br/><b>Cross-Wiki Guide</b></a></td>
+				<td style="padding: 8px 4px; text-align: center; width: 25%;"><a style="font-weight: normal;" href="https://goldensunwiki.net/wiki/Help:Contents"><img src="/images/logos/goldensununiverse.png" alt="Golden Sun Universe" width="90px"><br/>Contents</a></td>
+				<td style="padding: 8px 4px; text-align: center; width: 25%;"><a style="font-weight: normal;" href="https://harddrop.com/wiki/Tetris_Wiki"><img src="/images/logos/harddrop.png" alt="Hard Drop Wiki" width="90px"><br/>Main Page</a></td>
+				<td style="padding: 8px 4px; text-align: center; width: 25%;"><a style="color:#53C651;" href="http://www.kidicaruswiki.org/Icaruspedia:Cross-Wiki_Weekend"><img src="/images/logos/icaruspedia.png" alt="Icaruspedia" width="90px"><br/>Cross-Wiki Guide</a></td>
 			</tr>
 			<tr>
-				<td style="padding: 8px 4px; text-align: center; width: 25%;"><a style="color:#53C651;" href="https://splatoonwiki.org/wiki/Inkipedia:Cross-Wiki_Weekend"><img src="http://www.niwanetwork.org/images/members/inkipedia.png" alt="Inkipedia" width="90px"><br/><b>Cross-Wiki Guide</b></a></td>
-				<td style="padding: 8px 4px; text-align: center; width: 25%;"><a style="color:#53C651;" href="https://starfoxwiki.info/wiki/Lylat_Wiki:Cross-Wiki_Weekend"><img src="http://www.niwanetwork.org/images/members/lylatwiki.png" alt="Lylat Wiki" width="90px"><br/>Cross-Wiki Guide</a></td>
-				<td style="padding: 8px 4px; text-align: center; width: 25%;"><a style="font-weight: normal;" href="https://www.metroidwiki.org/wiki/Metroid_Wiki:Maintenance"><img src="http://www.niwanetwork.org/images/members/metroidwiki.png" alt="Metroid Wiki" width="90px"><br/>Maintenance</a></td>
-				<td style="padding: 8px 4px; text-align: center; width: 25%;"><a style="color:#53C651;" href="http://www.niwanetwork.org/wiki/NintendoWiki:Cross-Wiki_Weekend"><img src="http://www.niwanetwork.org/images/members/nintendowiki.png" alt="NintendoWiki" width="90px"><br/><b>Cross-Wiki Guide</b></a></td>
+				<td style="padding: 8px 4px; text-align: center; width: 25%;"><a style="color:#53C651;" href="https://splatoonwiki.org/wiki/Inkipedia:Cross-Wiki_Weekend"><img src="/images/logos/inkipedia.png" alt="Inkipedia" width="90px"><br/><b>Cross-Wiki Guide</b></a></td>
+				<td style="padding: 8px 4px; text-align: center; width: 25%;"><a style="color:#53C651;" href="https://starfoxwiki.info/wiki/Lylat_Wiki:Cross-Wiki_Weekend"><img src="/images/logos/lylatwiki.png" alt="Lylat Wiki" width="90px"><br/>Cross-Wiki Guide</a></td>
+				<td style="padding: 8px 4px; text-align: center; width: 25%;"><a style="font-weight: normal;" href="https://www.metroidwiki.org/wiki/Metroid_Wiki:Maintenance"><img src="/images/logos/metroidwiki.png" alt="Metroid Wiki" width="90px"><br/>Maintenance</a></td>
+				<td style="padding: 8px 4px; text-align: center; width: 25%;"><a style="color:#53C651;" href="http://www.niwanetwork.org/wiki/NintendoWiki:Cross-Wiki_Weekend"><img src="/images/logos/nintendowiki.png" alt="NintendoWiki" width="90px"><br/><b>Cross-Wiki Guide</b></a></td>
 			</tr>
 			<tr>			
-				<td style="padding: 8px 4px; text-align: center; width: 25%;"><a style="color:#53C651;" href="https://nookipedia.com/wiki/Nookipedia:Cross-Wiki_Weekend"><img src="http://www.niwanetwork.org/images/members/nookipedia.png" alt="Nookipedia" width="90px"><br/><b>Cross-Wiki Guide</b></a></td>
-				<td style="padding: 8px 4px; text-align: center; width: 25%;"><a style="color:#53C651;" href="https://www.pikminwiki.com/Pikipedia:Cross-Wiki_Weekend"><img src="http://www.niwanetwork.org/images/members/pikipedia.png" alt="Pikipedia" width="90px"><br/><b>Cross-Wiki Guide</b></a></td>
-				<td style="padding: 8px 4px; text-align: center; width: 25%;"><a style="color:#53C651;" href="https://www.ssbwiki.com/SmashWiki:Cross-Wiki_Weekend"><img src="http://www.niwanetwork.org/images/members/smashwiki.png" alt="SmashWiki" width="90px"><br/><b>Cross-Wiki Guide</b></a></td>
-				<td style="padding: 8px 4px; text-align: center; width: 25%;"><a style="font-weight: normal;" href="http://www.starfywiki.org/wiki/Starfy_Wiki:Community_portal"><img src="http://www.niwanetwork.org/images/members/starfywiki.png" alt="Starfy Wiki" width="90px"><br/>Community Portal</a></td>
+				<td style="padding: 8px 4px; text-align: center; width: 25%;"><a style="color:#53C651;" href="https://nookipedia.com/wiki/Nookipedia:Cross-Wiki_Weekend"><img src="/images/logos/nookipedia.png" alt="Nookipedia" width="90px"><br/><b>Cross-Wiki Guide</b></a></td>
+				<td style="padding: 8px 4px; text-align: center; width: 25%;"><a style="color:#53C651;" href="https://www.pikminwiki.com/Pikipedia:Cross-Wiki_Weekend"><img src="/images/logos/pikipedia.png" alt="Pikipedia" width="90px"><br/><b>Cross-Wiki Guide</b></a></td>
+				<td style="padding: 8px 4px; text-align: center; width: 25%;"><a style="color:#53C651;" href="https://www.ssbwiki.com/SmashWiki:Cross-Wiki_Weekend"><img src="/images/logos/smashwiki.png" alt="SmashWiki" width="90px"><br/><b>Cross-Wiki Guide</b></a></td>
+				<td style="padding: 8px 4px; text-align: center; width: 25%;"><a style="font-weight: normal;" href="http://www.starfywiki.org/wiki/Starfy_Wiki:Community_portal"><img src="/images/logos/starfywiki.png" alt="Starfy Wiki" width="90px"><br/>Community Portal</a></td>
 			</tr>
 			<tr>	
-				<td style="padding: 8px 4px; text-align: center; width: 25%;"><a style="font-weight: normal;" href="https://strategywiki.org/wiki/StrategyWiki:Community_Portal"><img src="http://www.niwanetwork.org/images/members/strategywiki.png" alt="StrategyWiki" width="90px"><br/>Community Portal</a></td>
-				<td style="padding: 8px 4px; text-align: center; width: 25%;"><a style="color:#53C651;" href="https://www.mariowiki.com/MarioWiki:Cross-Wiki_Weekend"><img src="http://www.niwanetwork.org/images/members/supermariowiki.png" alt="Super Mario Wiki" width="90px"><br/><b>Cross-Wiki Guide</b></a></td>
-				<td style="padding: 8px 4px; text-align: center; width: 25%;"><a style="color:#53C651;" href="https://wikibound.info/wiki/WikiBound:Cross-Wiki_Weekend"><img src="http://www.niwanetwork.org/images/members/wikibound.png" alt="WikiBound" width="90px"><br/><b>Cross-Wiki Guide</b></a></td>
-				<td style="padding: 8px 4px; text-align: center; width: 25%;"><a style="color:#53C651;" href="http://wikirby.com/wiki/WiKirby:Cross-Wiki_Weekend"><img src="http://www.niwanetwork.org/images/members/wikirby.png" alt="WiKirby" width="90px"><br/><b>Cross-Wiki Guide</b></a></td>
+				<td style="padding: 8px 4px; text-align: center; width: 25%;"><a style="font-weight: normal;" href="https://strategywiki.org/wiki/StrategyWiki:Community_Portal"><img src="/images/logos/strategywiki.png" alt="StrategyWiki" width="90px"><br/>Community Portal</a></td>
+				<td style="padding: 8px 4px; text-align: center; width: 25%;"><a style="color:#53C651;" href="https://www.mariowiki.com/MarioWiki:Cross-Wiki_Weekend"><img src="/images/logos/supermariowiki.png" alt="Super Mario Wiki" width="90px"><br/><b>Cross-Wiki Guide</b></a></td>
+				<td style="padding: 8px 4px; text-align: center; width: 25%;"><a style="color:#53C651;" href="https://wikibound.info/wiki/WikiBound:Cross-Wiki_Weekend"><img src="/images/logos/wikibound.png" alt="WikiBound" width="90px"><br/><b>Cross-Wiki Guide</b></a></td>
+				<td style="padding: 8px 4px; text-align: center; width: 25%;"><a style="color:#53C651;" href="http://wikirby.com/wiki/WiKirby:Cross-Wiki_Weekend"><img src="/images/logos/wikirby.png" alt="WiKirby" width="90px"><br/><b>Cross-Wiki Guide</b></a></td>
 			</tr>
 			<tr>	
-				<td style="padding: 8px 4px; text-align: center; width: 25%;"><a style="color:#53C651;" href="https://zelda.gamepedia.com/Zelda_Wiki:Cross-Wiki_Weekend"><img src="http://www.niwanetwork.org/images/members/zeldawiki.png" alt="Zelda Wiki" width="90px"><br/><b>Cross-Wiki Guide</b></a></td>
+				<td style="padding: 8px 4px; text-align: center; width: 25%;"><a style="color:#53C651;" href="https://zelda.gamepedia.com/Zelda_Wiki:Cross-Wiki_Weekend"><img src="/images/logos/zeldawiki.png" alt="Zelda Wiki" width="90px"><br/><b>Cross-Wiki Guide</b></a></td>
 				<td style="padding: 8px 4px; text-align: center; width: 25%;"> </td>
 				<td style="padding: 8px 4px; text-align: center; width: 25%;"> </td>
 				<td style="padding: 8px 4px; text-align: center; width: 25%;"> </td>
@@ -176,9 +176,9 @@ THE SOFTWARE IS PROVIDED 'AS IS', WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLI
 		<h3 style="text-align: center;">Italian Wikis</h3>
 		<table style="margin: 5px; width: 100%;">
 			<tr>
-				<td style="padding: 8px 4px; text-align: center; width: 25%;"><a style="color:#53C651;" href="https://wiki.pokemoncentral.it/Meta:Cross-Wiki_Weekend"><img src="http://niwanetwork.org/images/members/pokemoncentral.png" alt="Pokémon Central Wiki" width="90px"><br/>Cross-Wiki Guide</a></td>
-				<td style="padding: 8px 4px; text-align: center; width: 25%;"><a style="color:#53C651;" href="https://www.mariocastle.it/wiki/Super_Mario_Wiki:Cross-Wiki_Weekend"><img src="http://niwanetwork.org/images/members/mariowikiit.png" alt="Super Mario Wiki (IT)" width="90px"><br/>Cross-Wiki Guide</a></td>
-				<td style="padding: 8px 4px; text-align: center; width: 25%;"><a style="color:#53C651;" href="https://www.xenopedia.it/Meta:Cross-Wiki_Weekend"><img src="http://niwanetwork.org/images/members/xenopediait.png" alt="Xenopedia (IT)" width="90px"><br/>Cross-Wiki Guide</a></td>
+				<td style="padding: 8px 4px; text-align: center; width: 25%;"><a style="color:#53C651;" href="https://wiki.pokemoncentral.it/Meta:Cross-Wiki_Weekend"><img src="/images/logos/pokemoncentral.png" alt="Pokémon Central Wiki" width="90px"><br/>Cross-Wiki Guide</a></td>
+				<td style="padding: 8px 4px; text-align: center; width: 25%;"><a style="color:#53C651;" href="https://www.mariocastle.it/wiki/Super_Mario_Wiki:Cross-Wiki_Weekend"><img src="/images/logos/mariowikiit.png" alt="Super Mario Wiki (IT)" width="90px"><br/>Cross-Wiki Guide</a></td>
+				<td style="padding: 8px 4px; text-align: center; width: 25%;"><a style="color:#53C651;" href="https://www.xenopedia.it/Meta:Cross-Wiki_Weekend"><img src="/images/logos/xenopediait.png" alt="Xenopedia (IT)" width="90px"><br/>Cross-Wiki Guide</a></td>
 			</tr>
 		</table>
 
@@ -339,37 +339,37 @@ THE SOFTWARE IS PROVIDED 'AS IS', WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLI
 		<h3 style="text-align: center;">Wiki in inglese</h3>
 		<table style="margin: 5px; width: 100%;">
 			<tr>
-				<td style="padding: 8px 4px; text-align: center; width: 25%;"><a style="font-weight: normal;" href="https://armswiki.org/wiki/ARMS_Institute:To_Do"><img src="http://www.niwanetwork.org/images/members/armswiki.png" alt="ARMS Institute" width="90px"><br/>To-Do List</a></td>
-				<td style="padding: 8px 4px; text-align: center; width: 25%;"><a style="font-weight: normal;" href="https://bulbapedia.bulbagarden.net/wiki/Help:Contents"><img src="http://www.niwanetwork.org/images/members/bulbapedia.png" alt="Bulbapedia" width="90px"><br/>Contents</a></td>
-				<td style="padding: 8px 4px; text-align: center; width: 25%;"><a style="font-weight: normal;" href="http://dragon-quest.org/wiki/Dragon_Quest_Wiki:Community_portal"><img src="http://www.niwanetwork.org/images/members/dragonquestwiki.png" alt="Dragon Quest Wiki" width="90px"><br/>Community Portal</a></td>
-				<td style="padding: 8px 4px; text-align: center; width: 25%;"><a style="color:#53C651;" href="https://www.fireemblemwiki.org/wiki/Fire_Emblem_Wiki:Cross-Wiki_Weekend"><img src="http://www.niwanetwork.org/images/members/fireemblemwiki.png" alt="Fire Emblem Wiki" width="90px"><br/><b>Cross-Wiki Guide</b></a></td>
+				<td style="padding: 8px 4px; text-align: center; width: 25%;"><a style="font-weight: normal;" href="https://armswiki.org/wiki/ARMS_Institute:To_Do"><img src="/images/logos/armswiki.png" alt="ARMS Institute" width="90px"><br/>To-Do List</a></td>
+				<td style="padding: 8px 4px; text-align: center; width: 25%;"><a style="font-weight: normal;" href="https://bulbapedia.bulbagarden.net/wiki/Help:Contents"><img src="/images/logos/bulbapedia.png" alt="Bulbapedia" width="90px"><br/>Contents</a></td>
+				<td style="padding: 8px 4px; text-align: center; width: 25%;"><a style="font-weight: normal;" href="http://dragon-quest.org/wiki/Dragon_Quest_Wiki:Community_portal"><img src="/images/logos/dragonquestwiki.png" alt="Dragon Quest Wiki" width="90px"><br/>Community Portal</a></td>
+				<td style="padding: 8px 4px; text-align: center; width: 25%;"><a style="color:#53C651;" href="https://www.fireemblemwiki.org/wiki/Fire_Emblem_Wiki:Cross-Wiki_Weekend"><img src="/images/logos/fireemblemwiki.png" alt="Fire Emblem Wiki" width="90px"><br/><b>Cross-Wiki Guide</b></a></td>
 			</tr>
 			<tr>
-				<td style="padding: 8px 4px; text-align: center; width: 25%;"><a style="color:#53C651;" href="http://mutecity.org/wiki/F-Zero_Wiki:Cross-Wiki_Weekend"><img src="http://www.niwanetwork.org/images/members/fzerowiki.png" alt="F-Zero Wiki" width="90px"><br/><b>Cross-Wiki Guide</b></a></td>
-				<td style="padding: 8px 4px; text-align: center; width: 25%;"><a style="font-weight: normal;" href="https://goldensunwiki.net/wiki/Help:Contents"><img src="http://www.niwanetwork.org/images/members/goldensununiverse.png" alt="Golden Sun Universe" width="90px"><br/>Contents</a></td>
-				<td style="padding: 8px 4px; text-align: center; width: 25%;"><a style="font-weight: normal;" href="https://harddrop.com/wiki/Tetris_Wiki"><img src="http://www.niwanetwork.org/images/members/harddrop.png" alt="Hard Drop Wiki" width="90px"><br/>Main Page</a></td>
-				<td style="padding: 8px 4px; text-align: center; width: 25%;"><a style="color:#53C651;" href="http://www.kidicaruswiki.org/Icaruspedia:Cross-Wiki_Weekend"><img src="http://www.niwanetwork.org/images/members/icaruspedia.png" alt="Icaruspedia" width="90px"><br/>Cross-Wiki Guide</a></td>
+				<td style="padding: 8px 4px; text-align: center; width: 25%;"><a style="color:#53C651;" href="http://mutecity.org/wiki/F-Zero_Wiki:Cross-Wiki_Weekend"><img src="/images/logos/fzerowiki.png" alt="F-Zero Wiki" width="90px"><br/><b>Cross-Wiki Guide</b></a></td>
+				<td style="padding: 8px 4px; text-align: center; width: 25%;"><a style="font-weight: normal;" href="https://goldensunwiki.net/wiki/Help:Contents"><img src="/images/logos/goldensununiverse.png" alt="Golden Sun Universe" width="90px"><br/>Contents</a></td>
+				<td style="padding: 8px 4px; text-align: center; width: 25%;"><a style="font-weight: normal;" href="https://harddrop.com/wiki/Tetris_Wiki"><img src="/images/logos/harddrop.png" alt="Hard Drop Wiki" width="90px"><br/>Main Page</a></td>
+				<td style="padding: 8px 4px; text-align: center; width: 25%;"><a style="color:#53C651;" href="http://www.kidicaruswiki.org/Icaruspedia:Cross-Wiki_Weekend"><img src="/images/logos/icaruspedia.png" alt="Icaruspedia" width="90px"><br/>Cross-Wiki Guide</a></td>
 			</tr>
 			<tr>
-				<td style="padding: 8px 4px; text-align: center; width: 25%;"><a style="color:#53C651;" href="https://splatoonwiki.org/wiki/Inkipedia:Cross-Wiki_Weekend"><img src="http://www.niwanetwork.org/images/members/inkipedia.png" alt="Inkipedia" width="90px"><br/><b>Cross-Wiki Guide</b></a></td>
-				<td style="padding: 8px 4px; text-align: center; width: 25%;"><a style="color:#53C651;" href="https://starfoxwiki.info/wiki/Lylat_Wiki:Cross-Wiki_Weekend"><img src="http://www.niwanetwork.org/images/members/lylatwiki.png" alt="Lylat Wiki" width="90px"><br/>Cross-Wiki Guide</a></td>
-				<td style="padding: 8px 4px; text-align: center; width: 25%;"><a style="font-weight: normal;" href="https://www.metroidwiki.org/wiki/Metroid_Wiki:Maintenance"><img src="http://www.niwanetwork.org/images/members/metroidwiki.png" alt="Metroid Wiki" width="90px"><br/>Maintenance</a></td>
-				<td style="padding: 8px 4px; text-align: center; width: 25%;"><a style="color:#53C651;" href="http://www.niwanetwork.org/wiki/NintendoWiki:Cross-Wiki_Weekend"><img src="http://www.niwanetwork.org/images/members/nintendowiki.png" alt="NintendoWiki" width="90px"><br/><b>Cross-Wiki Guide</b></a></td>
+				<td style="padding: 8px 4px; text-align: center; width: 25%;"><a style="color:#53C651;" href="https://splatoonwiki.org/wiki/Inkipedia:Cross-Wiki_Weekend"><img src="/images/logos/inkipedia.png" alt="Inkipedia" width="90px"><br/><b>Cross-Wiki Guide</b></a></td>
+				<td style="padding: 8px 4px; text-align: center; width: 25%;"><a style="color:#53C651;" href="https://starfoxwiki.info/wiki/Lylat_Wiki:Cross-Wiki_Weekend"><img src="/images/logos/lylatwiki.png" alt="Lylat Wiki" width="90px"><br/>Cross-Wiki Guide</a></td>
+				<td style="padding: 8px 4px; text-align: center; width: 25%;"><a style="font-weight: normal;" href="https://www.metroidwiki.org/wiki/Metroid_Wiki:Maintenance"><img src="/images/logos/metroidwiki.png" alt="Metroid Wiki" width="90px"><br/>Maintenance</a></td>
+				<td style="padding: 8px 4px; text-align: center; width: 25%;"><a style="color:#53C651;" href="http://www.niwanetwork.org/wiki/NintendoWiki:Cross-Wiki_Weekend"><img src="/images/logos/nintendowiki.png" alt="NintendoWiki" width="90px"><br/><b>Cross-Wiki Guide</b></a></td>
 			</tr>
 			<tr>			
-				<td style="padding: 8px 4px; text-align: center; width: 25%;"><a style="color:#53C651;" href="https://nookipedia.com/wiki/Nookipedia:Cross-Wiki_Weekend"><img src="http://www.niwanetwork.org/images/members/nookipedia.png" alt="Nookipedia" width="90px"><br/><b>Cross-Wiki Guide</b></a></td>
-				<td style="padding: 8px 4px; text-align: center; width: 25%;"><a style="color:#53C651;" href="https://www.pikminwiki.com/Pikipedia:Cross-Wiki_Weekend"><img src="http://www.niwanetwork.org/images/members/pikipedia.png" alt="Pikipedia" width="90px"><br/><b>Cross-Wiki Guide</b></a></td>
-				<td style="padding: 8px 4px; text-align: center; width: 25%;"><a style="color:#53C651;" href="https://www.ssbwiki.com/SmashWiki:Cross-Wiki_Weekend"><img src="http://www.niwanetwork.org/images/members/smashwiki.png" alt="SmashWiki" width="90px"><br/><b>Cross-Wiki Guide</b></a></td>
-				<td style="padding: 8px 4px; text-align: center; width: 25%;"><a style="font-weight: normal;" href="http://www.starfywiki.org/wiki/Starfy_Wiki:Community_portal"><img src="http://www.niwanetwork.org/images/members/starfywiki.png" alt="Starfy Wiki" width="90px"><br/>Community Portal</a></td>
+				<td style="padding: 8px 4px; text-align: center; width: 25%;"><a style="color:#53C651;" href="https://nookipedia.com/wiki/Nookipedia:Cross-Wiki_Weekend"><img src="/images/logos/nookipedia.png" alt="Nookipedia" width="90px"><br/><b>Cross-Wiki Guide</b></a></td>
+				<td style="padding: 8px 4px; text-align: center; width: 25%;"><a style="color:#53C651;" href="https://www.pikminwiki.com/Pikipedia:Cross-Wiki_Weekend"><img src="/images/logos/pikipedia.png" alt="Pikipedia" width="90px"><br/><b>Cross-Wiki Guide</b></a></td>
+				<td style="padding: 8px 4px; text-align: center; width: 25%;"><a style="color:#53C651;" href="https://www.ssbwiki.com/SmashWiki:Cross-Wiki_Weekend"><img src="/images/logos/smashwiki.png" alt="SmashWiki" width="90px"><br/><b>Cross-Wiki Guide</b></a></td>
+				<td style="padding: 8px 4px; text-align: center; width: 25%;"><a style="font-weight: normal;" href="http://www.starfywiki.org/wiki/Starfy_Wiki:Community_portal"><img src="/images/logos/starfywiki.png" alt="Starfy Wiki" width="90px"><br/>Community Portal</a></td>
 			</tr>
 			<tr>	
-				<td style="padding: 8px 4px; text-align: center; width: 25%;"><a style="font-weight: normal;" href="https://strategywiki.org/wiki/StrategyWiki:Community_Portal"><img src="http://www.niwanetwork.org/images/members/strategywiki.png" alt="StrategyWiki" width="90px"><br/>Community Portal</a></td>
-				<td style="padding: 8px 4px; text-align: center; width: 25%;"><a style="color:#53C651;" href="https://www.mariowiki.com/MarioWiki:Cross-Wiki_Weekend"><img src="http://www.niwanetwork.org/images/members/supermariowiki.png" alt="Super Mario Wiki" width="90px"><br/><b>Cross-Wiki Guide</b></a></td>
-				<td style="padding: 8px 4px; text-align: center; width: 25%;"><a style="color:#53C651;" href="https://wikibound.info/wiki/WikiBound:Cross-Wiki_Weekend"><img src="http://www.niwanetwork.org/images/members/wikibound.png" alt="WikiBound" width="90px"><br/><b>Cross-Wiki Guide</b></a></td>
-				<td style="padding: 8px 4px; text-align: center; width: 25%;"><a style="color:#53C651;" href="http://wikirby.com/wiki/WiKirby:Cross-Wiki_Weekend"><img src="http://www.niwanetwork.org/images/members/wikirby.png" alt="WiKirby" width="90px"><br/><b>Cross-Wiki Guide</b></a></td>
+				<td style="padding: 8px 4px; text-align: center; width: 25%;"><a style="font-weight: normal;" href="https://strategywiki.org/wiki/StrategyWiki:Community_Portal"><img src="/images/logos/strategywiki.png" alt="StrategyWiki" width="90px"><br/>Community Portal</a></td>
+				<td style="padding: 8px 4px; text-align: center; width: 25%;"><a style="color:#53C651;" href="https://www.mariowiki.com/MarioWiki:Cross-Wiki_Weekend"><img src="/images/logos/supermariowiki.png" alt="Super Mario Wiki" width="90px"><br/><b>Cross-Wiki Guide</b></a></td>
+				<td style="padding: 8px 4px; text-align: center; width: 25%;"><a style="color:#53C651;" href="https://wikibound.info/wiki/WikiBound:Cross-Wiki_Weekend"><img src="/images/logos/wikibound.png" alt="WikiBound" width="90px"><br/><b>Cross-Wiki Guide</b></a></td>
+				<td style="padding: 8px 4px; text-align: center; width: 25%;"><a style="color:#53C651;" href="http://wikirby.com/wiki/WiKirby:Cross-Wiki_Weekend"><img src="/images/logos/wikirby.png" alt="WiKirby" width="90px"><br/><b>Cross-Wiki Guide</b></a></td>
 			</tr>
 			<tr>	
-				<td style="padding: 8px 4px; text-align: center; width: 25%;"><a style="color:#53C651;" href="https://zelda.gamepedia.com/Zelda_Wiki:Cross-Wiki_Weekend"><img src="http://www.niwanetwork.org/images/members/zeldawiki.png" alt="Zelda Wiki" width="90px"><br/><b>Cross-Wiki Guide</b></a></td>
+				<td style="padding: 8px 4px; text-align: center; width: 25%;"><a style="color:#53C651;" href="https://zelda.gamepedia.com/Zelda_Wiki:Cross-Wiki_Weekend"><img src="/images/logos/zeldawiki.png" alt="Zelda Wiki" width="90px"><br/><b>Cross-Wiki Guide</b></a></td>
 				<td style="padding: 8px 4px; text-align: center; width: 25%;"> </td>
 				<td style="padding: 8px 4px; text-align: center; width: 25%;"> </td>
 				<td style="padding: 8px 4px; text-align: center; width: 25%;"> </td>
@@ -379,9 +379,9 @@ THE SOFTWARE IS PROVIDED 'AS IS', WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLI
 		<h3 style="text-align: center;">Wiki in italiano</h3>
 		<table style="margin: 5px; width: 100%;">
 			<tr>
-				<td style="padding: 8px 4px; text-align: center; width: 25%;"><a style="color:#53C651;" href="https://wiki.pokemoncentral.it/Meta:Cross-Wiki_Weekend"><img src="http://niwanetwork.org/images/members/pokemoncentral.png" alt="Pokémon Central Wiki" width="90px"><br/>Cross-Wiki Guide</a></td>
-				<td style="padding: 8px 4px; text-align: center; width: 25%;"><a style="color:#53C651;" href="https://www.mariocastle.it/wiki/Super_Mario_Wiki:Cross-Wiki_Weekend"><img src="http://niwanetwork.org/images/members/mariowikiit.png" alt="Super Mario Wiki (IT)" width="90px"><br/>Cross-Wiki Guide</a></td>
-				<td style="padding: 8px 4px; text-align: center; width: 25%;"><a style="color:#53C651;" href="https://www.xenopedia.it/Meta:Cross-Wiki_Weekend"><img src="http://niwanetwork.org/images/members/xenopediait.png" alt="Xenopedia (IT)" width="90px"><br/>Cross-Wiki Guide</a></td>
+				<td style="padding: 8px 4px; text-align: center; width: 25%;"><a style="color:#53C651;" href="https://wiki.pokemoncentral.it/Meta:Cross-Wiki_Weekend"><img src="/images/logos/pokemoncentral.png" alt="Pokémon Central Wiki" width="90px"><br/>Cross-Wiki Guide</a></td>
+				<td style="padding: 8px 4px; text-align: center; width: 25%;"><a style="color:#53C651;" href="https://www.mariocastle.it/wiki/Super_Mario_Wiki:Cross-Wiki_Weekend"><img src="/images/logos/mariowikiit.png" alt="Super Mario Wiki (IT)" width="90px"><br/>Cross-Wiki Guide</a></td>
+				<td style="padding: 8px 4px; text-align: center; width: 25%;"><a style="color:#53C651;" href="https://www.xenopedia.it/Meta:Cross-Wiki_Weekend"><img src="/images/logos/xenopediait.png" alt="Xenopedia (IT)" width="90px"><br/>Cross-Wiki Guide</a></td>
 			</tr>
 		</table>
 		
