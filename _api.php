@@ -1,7 +1,7 @@
 <?php
 $armswiki = [
-	'logo' => '../images/logos/armswiki.png' ,
-	'icon' => '../images/icons/armswiki.png' ,
+	'logo' => '/images/logos/armswiki.png' ,
+	'icon' => '/images/icons/armswiki.png' ,
 	'site' => 'https://armswiki.org/' ,
 	'url' => 'https://armswiki.org/wiki/Home' ,
 	/*'forums' => 'http://bmgf.bulbagarden.net/f195/' ,
@@ -12,8 +12,8 @@ $armswiki = [
 ];
 
 $bulbapedia = [
-	'logo' => '../images/logos/bulbapedia.png' ,
-	'icon' => '../images/icons/bulbapedia.png' ,
+	'logo' => '/images/logos/bulbapedia.png' ,
+	'icon' => '/images/icons/bulbapedia.png' ,
 	'site' => 'http://www.bulbagarden.net/' ,
 	'url' => 'http://bulbapedia.bulbagarden.net/wiki/Main_Page' ,
 	'forums' => 'http://bmgf.bulbagarden.net/f195/' ,
@@ -24,8 +24,8 @@ $bulbapedia = [
 ];
 
 $dqwiki = [
-	'logo' => '../images/logos/dragonquestwiki.png' ,
-	'icon' => '../images/icons/dragonquestwiki.png' ,
+	'logo' => '/images/logos/dragonquestwiki.png' ,
+	'icon' => '/images/icons/dragonquestwiki.png' ,
 	'site' => 'http://dragon-quest.org' ,
 	'url' => 'http://dragon-quest.org/wiki/Main_Page' ,
 	'forums' => 'http://www.woodus.com/forums/index.php?showforum=88' ,
@@ -36,8 +36,8 @@ $dqwiki = [
 ];
 
 $fewiki = [
-	'logo' => '../images/logos/fireemblemwiki.png' ,
-	'icon' => '../images/icons/fireemblemwiki.png' ,
+	'logo' => '/images/logos/fireemblemwiki.png' ,
+	'icon' => '/images/icons/fireemblemwiki.png' ,
 	'site' => 'https://fireemblemwiki.org/' ,
 	'url' => 'https://fireemblemwiki.org/wiki/Main_Page' ,
 	'forums' => 'http://www.niwanetwork.org/forums/index.php?board=39.0' ,
@@ -48,8 +48,8 @@ $fewiki = [
 ];
 
 $fzerowiki = [
-	'logo' => '../images/logos/fzerowiki.png' ,
-	'icon' => '../images/icons/fzerowiki.png' ,
+	'logo' => '/images/logos/fzerowiki.png' ,
+	'icon' => '/images/icons/fzerowiki.png' ,
 	'site' => 'http://mutecity.org' ,
 	'url' => 'http://mutecity.org/wiki/F-Zero_Wiki' ,
 	'forums' => 'http://mutecity.org/forums/' ,
@@ -60,8 +60,8 @@ $fzerowiki = [
 ];
 
 $gsuwiki = [
-	'logo' => '../images/logos/goldensununiverse.png' ,
-	'icon' => '../images/icons/goldensununiverse.png' ,
+	'logo' => '/images/logos/goldensununiverse.png' ,
+	'icon' => '/images/icons/goldensununiverse.png' ,
 	'site' => 'http://www.goldensunwiki.net/' ,
 	'url' => 'http://www.goldensunwiki.net/wiki/Main_Page' ,
 	'forums' => 'http://www.goldensunwiki.net/Special:AWCforum' ,
@@ -72,8 +72,8 @@ $gsuwiki = [
 ];
 
 $harddrop = [
-	'logo' => '../images/logos/harddrop.png' ,
-	'icon' => '../images/icons/harddrop.jpg' ,
+	'logo' => '/images/logos/harddrop.png' ,
+	'icon' => '/images/icons/harddrop.jpg' ,
 	'site' => 'http://harddrop.com' ,
 	'url' => 'http://harddrop.com/wiki/Main_Page' ,
 	'forums' => 'http://harddrop.com/forums/' ,
@@ -85,8 +85,8 @@ $harddrop = [
 ];
 
 $icaruspedia = [
-	'logo' => '../images/logos/icaruspedia.png' ,
-	'icon' => '../images/icons/icaruspedia.png' ,
+	'logo' => '/images/logos/icaruspedia.png' ,
+	'icon' => '/images/icons/icaruspedia.png' ,
 	'site' => 'https://www.kidicaruswiki.org' ,
 	'url' => 'https://www.kidicaruswiki.org/wiki/Main_Page' ,
 	'forums' => 'http://www.niwanetwork.org/forums/index.php?board=46.0' ,
@@ -97,8 +97,8 @@ $icaruspedia = [
 ];
 
 $inkipedia = [
-	'logo' => '../images/logos/inkipedia.png' ,
-	'icon' => '../images/icons/inkipedia.png' ,
+	'logo' => '/images/logos/inkipedia.png' ,
+	'icon' => '/images/icons/inkipedia.png' ,
 	'site' => 'https://splatoonwiki.org' ,
 	'url' => 'https://splatoonwiki.org/wiki/Main_Page' ,
 	#'forums' => '' ,
@@ -109,8 +109,8 @@ $inkipedia = [
 ];
 
 $lylatwiki = [
-	'logo' => '../images/logos/lylatwiki.png' ,
-	'icon' => '../images/icons/lylatwiki.png' ,
+	'logo' => '/images/logos/lylatwiki.png' ,
+	'icon' => '/images/icons/lylatwiki.png' ,
 	'site' => 'http://starfoxwiki.info' ,
 	'url' => 'http://starfoxwiki.info/wiki/Lylat_Wiki' ,
 	'forums' => 'http://www.niwanetwork.org/forums/index.php?board=24.0' ,
@@ -121,8 +121,8 @@ $lylatwiki = [
 ];
 
 $mariowiki = [
-	'logo' => '../images/logos/mariowiki.png' ,
-	'icon' => '../images/icons/mariowiki.png' ,
+	'logo' => '/images/logos/mariowiki.png' ,
+	'icon' => '/images/icons/mariowiki.png' ,
 	'site' => 'https://www.mariowiki.com/' ,
 	'url' => 'https://www.mariowiki.com/' ,
 	'forums' => 'https://www.marioboards.com/' ,
@@ -133,7 +133,7 @@ $mariowiki = [
 ];
 
 $mariowikide = [
-	'logo' => '../images/logos/mariowikide.png' ,
+	'logo' => '/images/logos/mariowikide.png' ,
 	#'icon' => '' ,
 	'site' => 'https://mariowiki.net/' ,
 	'url' => 'https://mariowiki.net/wiki/MarioWiki:Hauptseite' ,
@@ -146,7 +146,7 @@ $mariowikide = [
 
 
 $mariowikiit = [
-	'logo' => '../images/logos/mariowikiit.png' ,
+	'logo' => '/images/logos/mariowikiit.png' ,
 	#'icon' => '' ,
 	'site' => 'https://www.mariocastle.it/' ,
 	'url' => 'https://www.mariocastle.it/wiki/Pagina_principale' ,
@@ -158,8 +158,8 @@ $mariowikiit = [
 ];
 
 $metroidwiki = [
-	'logo' => '../images/logos/metroidwiki.png' ,
-	'icon' => '../images/icons/metroidwiki.png' ,
+	'logo' => '/images/logos/metroidwiki.png' ,
+	'icon' => '/images/icons/metroidwiki.png' ,
 	'site' => 'https://www.metroidwiki.org/' ,
 	'url' => 'https://www.metroidwiki.org/wiki/Main_Page' ,
 	'forums' => 'http://www.niwanetwork.org/forums/index.php?board=14.0' ,
@@ -170,8 +170,8 @@ $metroidwiki = [
 ];
 
 $nintendowiki = [
-	'logo' => '../images/logos/nintendowiki.png' ,
-	'icon' => '../images/icons/nintendowiki.png' ,
+	'logo' => '/images/logos/nintendowiki.png' ,
+	'icon' => '/images/icons/nintendowiki.png' ,
 	'site' => 'http://www.niwanetwork.org/wiki/' ,
 	'url' => 'http://www.niwanetwork.org/wiki/Main_Page' ,
 	'forums' => 'http://www.niwanetwork.org/forums/index.php?board=3.0' ,
@@ -182,7 +182,7 @@ $nintendowiki = [
 ];
 
 $nintendowikide = [
-	'logo' => '../images/logos/nintendowikide.png' ,
+	'logo' => '/images/logos/nintendowikide.png' ,
 	#'icon' => '' ,
 	'site' => 'https://nintendowiki.sevengamer.de/' ,
 	'url' => 'https://nintendowiki.sevengamer.de/wiki/Hauptseite' ,
@@ -194,8 +194,8 @@ $nintendowikide = [
 ];
 
 $nookipedia = [
-	'logo' => '../images/logos/nookipedia.png' ,
-	'icon' => '../images/icons/nookipedia.png' ,
+	'logo' => '/images/logos/nookipedia.png' ,
+	'icon' => '/images/icons/nookipedia.png' ,
 	'site' => 'http://nookipedia.com' ,
 	'url' => 'http://nookipedia.com/wiki/Main_Page' ,
 	'forums' => 'http://www.bulletinboardforums.net/' ,
@@ -206,8 +206,8 @@ $nookipedia = [
 ];
 
 $pikipedia = [
-	'logo' => '../images/logos/pikipedia.png' ,
-	'icon' => '../images/icons/pikipedia.png' ,
+	'logo' => '/images/logos/pikipedia.png' ,
+	'icon' => '/images/icons/pikipedia.png' ,
 	'site' => 'https://www.pikminwiki.com/' ,
 	'url' => 'https://www.pikminwiki.com/' ,
 	'forums' => 'https://www.pikminwiki.com/Forum:Index' ,
@@ -218,8 +218,8 @@ $pikipedia = [
 ];
 
 $pikifanon = [
-	'logo' => '../images/logos/pikifanon.png' ,
-	'icon' => '../images/icons/pikminfanon.png' ,
+	'logo' => '/images/logos/pikifanon.png' ,
+	'icon' => '/images/icons/pikminfanon.png' ,
 	'site' => 'https://www.pikminfanon.com/' ,
 	'url' => 'https://www.pikminfanon.com/wiki/Main_Page' ,
 	'forums' => 'https://www.pikminfanon.com/wiki/Forum:Index' ,
@@ -230,7 +230,7 @@ $pikifanon = [
 ];
 
 $pokemoncentral = [
-	'logo' => '../images/logos/pokemoncentral.png' ,
+	'logo' => '/images/logos/pokemoncentral.png' ,
 	#'icon' => '' ,
 	'site' => 'https://wiki.pokemoncentral.it/' ,
 	'url' => 'https://wiki.pokemoncentral.it/Home' ,
@@ -242,8 +242,8 @@ $pokemoncentral = [
 ];
 
 $smashwiki = [
-	'logo' => '../images/logos/smashwiki.png' ,
-	'icon' => '../images/icons/smashwiki.png' ,
+	'logo' => '/images/logos/smashwiki.png' ,
+	'icon' => '/images/icons/smashwiki.png' ,
 	'site' => 'https://www.ssbwiki.com/' ,
 	'url' => 'https://www.ssbwiki.com/' ,
 	'forums' => 'https://www.ssbwiki.com/Forum:Index' ,
@@ -254,8 +254,8 @@ $smashwiki = [
 ];
 
 $starfywiki = [
-	'logo' => '../images/logos/starfywiki.png' ,
-	'icon' => '../images/icons/starfywiki.png' ,
+	'logo' => '/images/logos/starfywiki.png' ,
+	'icon' => '/images/icons/starfywiki.png' ,
 	'site' => 'http://www.starfywiki.org/' ,
 	'url' => 'http://www.starfywiki.org/wiki/Main_Page' ,
 	'forums' => 'http://www.niwanetwork.org/forums/index.php?board=44.0' ,
@@ -266,8 +266,8 @@ $starfywiki = [
 ];
 
 $strategywiki = [
-	'logo' => '../images/logos/strategywiki.png' ,
-	'icon' => '../images/icons/strategywiki.png' ,
+	'logo' => '/images/logos/strategywiki.png' ,
+	'icon' => '/images/icons/strategywiki.png' ,
 	'site' => 'https://www.strategywiki.org/' ,
 	'url' => 'https://www.strategywiki.org/wiki/Main_Page' ,
 	'forums' => '' ,
@@ -278,8 +278,8 @@ $strategywiki = [
 ];
 
 $warswiki = [
-	'logo' => '../images/logos/warswiki.png' ,
-	'icon' => '../images/icons/warswiki.png' ,
+	'logo' => '/images/logos/warswiki.png' ,
+	'icon' => '/images/icons/warswiki.png' ,
 	'site' => 'https://www.warswiki.org' ,
 	'url' => 'https://www.warswiki.org/wiki/Main_Page' ,
 	#'forums' => 'http://www.forums.warscentral.com/' ,
@@ -290,8 +290,8 @@ $warswiki = [
 ];
 
 $wikibound = [
-	'logo' => '../images/logos/wikibound.png' ,
-	'icon' => '../images/icons/wikibound.png' ,
+	'logo' => '/images/logos/wikibound.png' ,
+	'icon' => '/images/icons/wikibound.png' ,
 	'site' => 'http://www.wikibound.info' ,
 	'url' => 'http://www.wikibound.info/wiki/WikiBound' ,
 	'forums' => 'http://www.niwanetwork.org/forums/index.php?board=28.0' ,
@@ -302,8 +302,8 @@ $wikibound = [
 ];
 
 $wikiboundit = [
-	'logo' => '../images/logos/wikiboundit.png' ,
-	'icon' => '../images/icons/wikiboundit.png' ,
+	'logo' => '/images/logos/wikiboundit.png' ,
+	'icon' => '/images/icons/wikiboundit.png' ,
 	'site' => 'https://it.wikibound.info' ,
 	'url' => 'https://it.wikibound.info/wiki/Pagina_principale' ,
 	#'forums' => '' ,
@@ -314,8 +314,8 @@ $wikiboundit = [
 ];
 
 $wikirby = [
-	'logo' => '../images/logos/wikirby.png' ,
-	'icon' => '../images/icons/wikirby.png' ,
+	'logo' => '/images/logos/wikirby.png' ,
+	'icon' => '/images/icons/wikirby.png' ,
 	'site' => 'http://wikirby.com' ,
 	'url' => 'http://wikirby.com/wiki/Main_Page' ,
 	'forums' => 'http://www.niwanetwork.org/forums/index.php?board=13.0' ,
@@ -326,8 +326,8 @@ $wikirby = [
 ];
 
 $xenopediait = [
-	'logo' => '../images/logos/xenopediait.png' ,
-	'icon' => '../images/icons/xenopediait.png' ,
+	'logo' => '/images/logos/xenopediait.png' ,
+	'icon' => '/images/icons/xenopediait.png' ,
 	'site' => 'https://www.xenopedia.it' ,
 	'url' => 'https://www.xenopedia.it/Pagina_principale' ,
 	#'forums' => '' ,
@@ -338,7 +338,7 @@ $xenopediait = [
 ];
 
 $zeldapendium = [
-	'logo' => '../images/logos/zeldapendium.png' ,
+	'logo' => '/images/logos/zeldapendium.png' ,
 	#'icon' => '' ,
 	'site' => 'https://www.zeldapendium.de/' ,
 	'url' => 'https://www.zeldapendium.de/wiki/Zeldapendium:%C3%9Cber_Zeldapendium' ,
@@ -350,8 +350,8 @@ $zeldapendium = [
 ];
 
 $zeldawiki = [
-	'logo' => '../images/logos/zeldawiki.png' ,
-	'icon' => '../images/icons/zeldawiki.png' ,
+	'logo' => '/images/logos/zeldawiki.png' ,
+	'icon' => '/images/icons/zeldawiki.png' ,
 	'site' => 'http://www.zeldawiki.org/' ,
 	'url' => 'http://www.zeldawiki.org/Main_Page' ,
 	'forums' => 'http://www.zeldawiki.org/Zelda_Wiki:About#Connected_Sites' ,
