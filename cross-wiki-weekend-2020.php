@@ -80,7 +80,7 @@ THE SOFTWARE IS PROVIDED 'AS IS', WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLI
 		From <b>September 18<sup>th</sup> - 21<sup>th</sup></b>, everyone is invited to constructively edit NIWA wikis that they have never (or infrequently) edited before.
 		Whether it's adding some new content, uploading an image, or adding a reference, we want you to take your experience and love for Nintendo to a new wiki.
 		<br><br>
-		At the end of the event, one random participant will win a <b>$20 Nintendo e-Shop Gift Card</b>! At the end of the event, submit your contributions using the button at the bottom of this page.
+		At the end of the event, one random participant will win a <b>$20/€20 Nintendo e-Shop Gift Card</b>! At the end of the event, submit your contributions using the button at the bottom of this page.
 		<br><br>
 		
 		<h1 id="Goals">Goals</h1>
@@ -253,7 +253,7 @@ THE SOFTWARE IS PROVIDED 'AS IS', WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLI
 			</tr>
 		</table>
 
-		Finally, the moment we've all been waiting for - the winner of the $20 eShop Gift Card was <b>Cookies and Creme</b> from SmashWiki. Congratulations!
+		Finally, the moment we've all been waiting for - the winner of the $20/€20 eShop Gift Card was <b>Cookies and Creme</b> from SmashWiki. Congratulations!
 	
 		<br><br>
 	
@@ -274,9 +274,9 @@ THE SOFTWARE IS PROVIDED 'AS IS', WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLI
 		<span style="font-size: 70%;">
 			Disclaimer: There is no purchase necessary to win. Participants need only meet the requirements listed in the rules above.
 			In questionable cases, final discretion of eligibility is determined by the host of the event.
-			The prize will be a $20 Nintendo e-Shop Gift Card.
+			The prize will be a $20/€20 Nintendo e-Shop Gift Card.
 			If participant is in a country where an e-Shop Gift Card is not usable (region restrictions, no e-Shop support, etc.), another prize of equal value will be coordinated with the winner.
-			Winner is determined by a random drawing after contributions are judged on a 1-10 scale by event organizers. Organizers cannot win the prize.
+			Winner is determined by a random drawing after contributions are judged on a 1-5 scale by event organizers. Organizers cannot win the prize.
 		</span>
 	</section>
 	
@@ -284,19 +284,19 @@ THE SOFTWARE IS PROVIDED 'AS IS', WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLI
 		L'anniversario di Nintendo cadr&#224; il 23 settembre. Per celebrarlo NIWA sta organizzando un <b>Cross-Wiki Weekend</b>!
 		<br><br>
 		Dal <b>18 al 21 settembre</b> siete tutti invitati a modificare costruttivamente almeno un wiki di NIWA al quale non avete mai (o raramente) contribuito.
-		Che si tratti di inserire dei nuovi contenuti, caricare un'immagine o aggiungere un riferimento, il nostro desiderio &#232; che portiate la vostra esperienza e la vostra passione su un nuovo wiki.
+		Che si tratti di inserire dei nuovi contenuti, caricare un'immagine o aggiungere un riferimento, ci piacerebbe che portaste la vostra esperienza e la vostra passione su un nuovo wiki.
 		<br><br>
-		Al termine dell'evento, un partecipante sorteggiato casualmente vincer&#224; una <b>Nintendo eShop Card da $20</b>! Quando l'evento sar&#224; concluso potrete inviare le vostre modifiche attraverso il pulsante situato in fondo a questa pagina.
+		Al termine dell'evento, un partecipante sorteggiato casualmente vincer&#224; una <b>Nintendo eShop Card da 20$/20€</b>! Quando l'evento sar&#224; concluso potrete inviare le vostre modifiche tramite il pulsante situato in fondo a questa pagina.
 		<br><br>
 		
 		<h1 id="Goals">Obiettivi</h1>
 		
-		Perch&#233; stiamo organizzando questo evento? Oltre ad essere un modo divertente per celebrare l'anniversario di Nintendo, ci auguriamo che esso...
+		Perch&#233; stiamo organizzando questo evento? Oltre ad essere un modo divertente per celebrare l'anniversario di Nintendo, ci auguriamo che...
 		<ul>
 			<li>... esponga gli utenti a nuovi wiki</li>
 			<li>... promuova la collaborazione tra wiki di NIWA</li>
 			<li>... fornisca maggiore sostegno per i wiki pi&#249; piccoli</li>
-			<li>... risulti nella nascita di nuovi utenti abituali</li>
+			<li>... faccia nascere nuovi utenti abituali</li>
 		</ul>
 
 		<div style="width: 100%; text-align: center;"><img src="/images/nintendo_characters.png" alt="La cr&#232;me de la cr&#232;me di Nintendo." width="400px"></div>
@@ -305,16 +305,16 @@ THE SOFTWARE IS PROVIDED 'AS IS', WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLI
 		
 		<h1 id="Rules">Regole</h1>
 		
-		Prima di partecipare, chiediamo gentilmente un attimo del vostro tempo per leggere queste regole... specialmente se volete una possibilit&#224; di vincere il premio!
+		Prima di partecipare, chiediamo gentilmente un attimo del vostro tempo per leggere queste regole... Specialmente se volete una possibilit&#224; di vincere il premio!
 		
 		<ul>
-			<li>L'evento inizia alle 02:01 ora italiana (00:01 UTC) di venerd&#236; 18 settembre e dura fino alle 01:59 ora italiana di luned&#236; 21 settembre (23:59 UTC di domenica 20 settembre).</li>
+			<li>L'evento inizia alle 02:01 ora italiana (00:01 UTC) di venerd&#236; 18 settembre e dura fino alle 01:59 ora italiana di marted&#236; 22 settembre (23:59 UTC di luned&#236; 21 settembre).</li>
 			<li>Per partecipare, contribuite ad almeno un <a class="special" href="http://niwanetwork.org/members.php">wiki di NIWA</a> al quale non avete mai (o raramente) contribuito.</li>
 			<li>Per tenere traccia dei vostri contributi pi&#249; facilmente, i partecipanti devono possedere un account nei wiki ai quali contribuiscono per avere una possibilit&#224; di vincere.</li>
 			<li>I contributi di ciascun utente riceveranno una valutazione da 1 a 5. Pi&#249; sostanziosi saranno i vostri contributi, pi&#249; possibilit&#224; avrete di vincere!</li>
-			<li>I contributi dovrebbero migliorare i wiki in qualche modo. I contributi pi&#249; sostanziosi risulteranno in maggiori possibilit&#224; di vittoria. Per esempio, provate a:
+			<li>I contributi dovrebbero migliorare i wiki in qualche modo. I contributi pi&#249; sostanziosi consentiranno di avere maggiori possibilit&#224; di vittoria. Per esempio, provate a:
 			<ul>
-				<li>Aggiungere testo all'interno delle voci.</li>
+				<li>Aggiungere testo all'interno delle voci;</li>
 				<li>Effettuare correzioni all'interno di paragrafi lunghi o voci intere;</li>
 				<li>Aggiungere riferimenti per verificare la provenienza delle informazioni;</li>
 				<li>Caricare immagini;</li>
@@ -402,11 +402,11 @@ THE SOFTWARE IS PROVIDED 'AS IS', WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLI
 		<h1 id="Drawing">Estrazione del premio</h1>
 		Il vincitore del concorso sar&#224; stabilito con un sorteggio casuale.
 		I contributi di ciascun utente verranno valutati con un punteggio da 1 a 5; pi&#249; sostanziosi saranno i contributi, maggiori saranno le probabilit&#224; di vittoria.
-		Assicuratevi di effettuare delle modifiche sostanziosi per avere pi&#249; possibilit&#224; di vincere il premio!
+		Assicuratevi di effettuare delle modifiche sostanziose per avere pi&#249; possibilit&#224; di vincere il premio!
 		
 		<br><br>
 
-		Sebbene gli organizzatori dell'evento siano liberi di partecipare, essi verranno esclusi dal sorteggio e di conseguenza non avranno la possibilit&#224; di vincere il premio.
+		Sebbene gli organizzatori dell'evento siano liberi di partecipare, saranno esclusi dal sorteggio e di conseguenza non avranno la possibilit&#224; di vincere il premio.
 
 		<br><br>
 
@@ -439,11 +439,12 @@ THE SOFTWARE IS PROVIDED 'AS IS', WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLI
 			</tr>
 		</table>
 
-		Infine, il momento più atteso da tutti: il vincitore della Nintendo eShop Card da $20 è Cookies and Creme di SmashWiki. Congratulazioni!
+		Infine, il momento più atteso da tutti: il vincitore della Nintendo eShop Card da 20$/20€ è Cookies and Creme di SmashWiki. Congratulazioni!
 
 		<br><br>
 	
 		Ci vediamo l'anno prossimo con una nuova edizione dell'evento!
+		-->
 	
 		<br><br>
 		
@@ -459,12 +460,11 @@ THE SOFTWARE IS PROVIDED 'AS IS', WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLI
 		<span style="font-size: 70%;">
 			Avvertenze: Non &#232; necessario effettuare alcun acquisto per vincere il premio. &#232; sufficiente che i partecipanti soddisfino i requisiti elencati nelle regole sovrastanti.
 			In casi dubbi, l'idoneit&#224; all'estrazione &#232; a discrezione degli organizzatori dell'evento.
-			La posta in palio &#232; una Nintendo eShop Card da $20.
+			La posta in palio &#232; una Nintendo eShop Card da 20$/20€.
 			Se il vincitore dovesse risiedere in un paese nel quale risulta impossibile utilizzare l'eShop Card (per esempio a causa delle restrizioni regionali, eShop non supportato in quella determinata regione, ecc.) verr&#224; contattato per stabilire un premio di pari valore.
-			Il vincitore verr&#224; estratto con un sorteggio casuale dopo che i contributi verranno giudicati su una scala da 1 a 10 dagli organizzatori dell'evento. Gli organizzatori non possono vincere il premio.
+			Il vincitore verr&#224; estratto con un sorteggio casuale dopo che i contributi verranno giudicati su una scala da 1 a 5 dagli organizzatori dell'evento. Gli organizzatori non possono vincere il premio.
 		</span>
 	</section>
-	-->
 </div>
 
 <?php 
