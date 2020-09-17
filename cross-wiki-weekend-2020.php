@@ -80,7 +80,7 @@ THE SOFTWARE IS PROVIDED 'AS IS', WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLI
 		From <b>September 18<sup>th</sup> - 21<sup>th</sup></b>, everyone is invited to constructively edit NIWA wikis that they have never (or infrequently) edited before.
 		Whether it's adding some new content, uploading an image, or adding a reference, we want you to take your experience and love for Nintendo to a new wiki.
 		<br><br>
-		At the end of the event, one random participant will win a <b>$20 Nintendo e-Shop Gift Card</b>! At the end of the event, submit your contributions using the button at the bottom of this page.
+		At the end of the event, one random participant will win a <b>$20/€20 Nintendo e-Shop Gift Card</b>! At the end of the event, submit your contributions using the button at the bottom of this page.
 		<br><br>
 		
 		<h1 id="Goals">Goals</h1>
@@ -253,7 +253,7 @@ THE SOFTWARE IS PROVIDED 'AS IS', WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLI
 			</tr>
 		</table>
 
-		Finally, the moment we've all been waiting for - the winner of the $20 eShop Gift Card was <b>Cookies and Creme</b> from SmashWiki. Congratulations!
+		Finally, the moment we've all been waiting for - the winner of the $20/€20 eShop Gift Card was <b>Cookies and Creme</b> from SmashWiki. Congratulations!
 	
 		<br><br>
 	
@@ -274,9 +274,9 @@ THE SOFTWARE IS PROVIDED 'AS IS', WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLI
 		<span style="font-size: 70%;">
 			Disclaimer: There is no purchase necessary to win. Participants need only meet the requirements listed in the rules above.
 			In questionable cases, final discretion of eligibility is determined by the host of the event.
-			The prize will be a $20 Nintendo e-Shop Gift Card.
+			The prize will be a $20/€20 Nintendo e-Shop Gift Card.
 			If participant is in a country where an e-Shop Gift Card is not usable (region restrictions, no e-Shop support, etc.), another prize of equal value will be coordinated with the winner.
-			Winner is determined by a random drawing after contributions are judged on a 1-10 scale by event organizers. Organizers cannot win the prize.
+			Winner is determined by a random drawing after contributions are judged on a 1-5 scale by event organizers. Organizers cannot win the prize.
 		</span>
 	</section>
 	
@@ -286,7 +286,7 @@ THE SOFTWARE IS PROVIDED 'AS IS', WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLI
 		Dal <b>18 al 21 settembre</b> siete tutti invitati a modificare costruttivamente almeno un wiki di NIWA al quale non avete mai (o raramente) contribuito.
 		Che si tratti di inserire dei nuovi contenuti, caricare un'immagine o aggiungere un riferimento, ci piacerebbe che portaste la vostra esperienza e la vostra passione su un nuovo wiki.
 		<br><br>
-		Al termine dell'evento, un partecipante sorteggiato casualmente vincer&#224; una <b>Nintendo eShop Card da $20</b>! Quando l'evento sar&#224; concluso potrete inviare le vostre modifiche tramite il pulsante situato in fondo a questa pagina.
+		Al termine dell'evento, un partecipante sorteggiato casualmente vincer&#224; una <b>Nintendo eShop Card da 20$/20€</b>! Quando l'evento sar&#224; concluso potrete inviare le vostre modifiche tramite il pulsante situato in fondo a questa pagina.
 		<br><br>
 		
 		<h1 id="Goals">Obiettivi</h1>
@@ -439,11 +439,12 @@ THE SOFTWARE IS PROVIDED 'AS IS', WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLI
 			</tr>
 		</table>
 
-		Infine, il momento più atteso da tutti: il vincitore della Nintendo eShop Card da $20 è Cookies and Creme di SmashWiki. Congratulazioni!
+		Infine, il momento più atteso da tutti: il vincitore della Nintendo eShop Card da 20$/20€ è Cookies and Creme di SmashWiki. Congratulazioni!
 
 		<br><br>
 	
 		Ci vediamo l'anno prossimo con una nuova edizione dell'evento!
+		-->
 	
 		<br><br>
 		
@@ -459,12 +460,11 @@ THE SOFTWARE IS PROVIDED 'AS IS', WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLI
 		<span style="font-size: 70%;">
 			Avvertenze: Non &#232; necessario effettuare alcun acquisto per vincere il premio. &#232; sufficiente che i partecipanti soddisfino i requisiti elencati nelle regole sovrastanti.
 			In casi dubbi, l'idoneit&#224; all'estrazione &#232; a discrezione degli organizzatori dell'evento.
-			La posta in palio &#232; una Nintendo eShop Card da $20.
+			La posta in palio &#232; una Nintendo eShop Card da 20$/20€.
 			Se il vincitore dovesse risiedere in un paese nel quale risulta impossibile utilizzare l'eShop Card (per esempio a causa delle restrizioni regionali, eShop non supportato in quella determinata regione, ecc.) verr&#224; contattato per stabilire un premio di pari valore.
 			Il vincitore verr&#224; estratto con un sorteggio casuale dopo che i contributi verranno giudicati su una scala da 1 a 5 dagli organizzatori dell'evento. Gli organizzatori non possono vincere il premio.
 		</span>
 	</section>
-	-->
 </div>
 
 <?php 
