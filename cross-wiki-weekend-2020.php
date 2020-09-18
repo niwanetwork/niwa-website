@@ -80,7 +80,7 @@ THE SOFTWARE IS PROVIDED 'AS IS', WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLI
 		From <b>September 18<sup>th</sup> - 21<sup>th</sup></b>, everyone is invited to constructively edit NIWA wikis that they have never (or infrequently) edited before.
 		Whether it's adding some new content, uploading an image, or adding a reference, we want you to take your experience and love for Nintendo to a new wiki.
 		<br><br>
-		At the end of the event, one random participant will win a <b>$20/€20 Nintendo e-Shop Gift Card</b>! At the end of the event, submit your contributions using the button at the bottom of this page.
+		At the end of the event, submit your contributions using the button at the bottom of this page. One random participant will win a <b>$20/€20 Nintendo e-Shop Gift Card</b>! 
 		<br><br>
 		
 		<h1 id="Goals">Goals</h1>
@@ -202,12 +202,12 @@ THE SOFTWARE IS PROVIDED 'AS IS', WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLI
 			}
 		</style>
 
-		At the end of the event, please report your contributions by filling out the following form by <b>September 30<sup>th</sup></b>.
-		Filling out the form is also how you enter yourself for a chance to win the prize.
-		<br><br>
+		After the end of the event on September 21<sup>st</sup>, there will be a link here to submit your contributions. Please pllan to submit your contributions by <b>September 30<sup>th</sup></b>.
+		Filling out the form is how you enter yourself for a chance to win the prize. Even if you do not want the prize, we encourage you to submit your contributions so that we can track participation in this event.
+		<!-- <br><br>
 		<div style="width: 100%; text-align: center;">
 			<div class="button">Submit Contributions</div>
-		</div>
+		</div> -->
 
 		<br><br>
 
