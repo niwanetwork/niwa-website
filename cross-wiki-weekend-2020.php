@@ -202,7 +202,7 @@ THE SOFTWARE IS PROVIDED 'AS IS', WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLI
 			}
 		</style>
 
-		After the end of the event on September 21<sup>st</sup>, there will be a link here to submit your contributions. Please pllan to submit your contributions by <b>September 30<sup>th</sup></b>.
+		After the end of the event on September 21<sup>st</sup>, there will be a link here to submit your contributions. Please plan to submit your contributions by <b>September 30<sup>th</sup></b>.
 		Filling out the form is how you enter yourself for a chance to win the prize. Even if you do not want the prize, we encourage you to submit your contributions so that we can track participation in this event.
 		<!-- <br><br>
 		<div style="width: 100%; text-align: center;">
