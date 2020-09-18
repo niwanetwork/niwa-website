@@ -393,8 +393,9 @@ THE SOFTWARE IS PROVIDED 'AS IS', WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLI
 		
 		<h1 id="Form">Modulo</h1>
 
-		Una volta concluso l'evento, siete pregati di segnalare i vostri contributi compilando il seguente modulo entro il <b>30 settembre</b>.
-		Compilare questo modulo &#232; necessario per partecipare all'estrazione del premio. 
+		Una volta concluso l'evento, apparirà un modulo qui. Siete pregati di compilarlo entro il <b>30 settembre</b> per segnalarci quali contributi avete effettuato.
+		Compilare questo modulo è necessario per partecipare all'estrazione del premio.
+
 		<br><br>
 
 		<br><br>
