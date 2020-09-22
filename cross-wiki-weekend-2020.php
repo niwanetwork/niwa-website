@@ -63,12 +63,12 @@ THE SOFTWARE IS PROVIDED 'AS IS', WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLI
 		display: block;
 	}
 	
-	submit {
+	.submit {
 		color: white;
 		background: #B22222;
 	}
 	
-	submit:hover {
+	.submit:hover {
 		background: #eb3223;
 		cursor: pointer;
 	}
