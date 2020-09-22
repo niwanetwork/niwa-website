@@ -62,6 +62,16 @@ THE SOFTWARE IS PROVIDED 'AS IS', WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLI
 	#tab3:checked ~ #content3 {
 		display: block;
 	}
+	
+	submit {
+		color: white;
+		background: #B22222;
+	}
+	
+	submit:hover {
+		background: #eb3223;
+		cursor: pointer;
+	}
 </style>
 
 <div id="main">
@@ -204,10 +214,14 @@ THE SOFTWARE IS PROVIDED 'AS IS', WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLI
 
 		After the end of the event on September 21<sup>st</sup>, there will be a link here to submit your contributions. Please plan to submit your contributions by <b>September 30<sup>th</sup></b>.
 		Filling out the form is how you enter yourself for a chance to win the prize. Even if you do not want the prize, we encourage you to submit your contributions so that we can track participation in this event.
-		<!-- <br><br>
-		<div style="width: 100%; text-align: center;">
-			<div class="button">Submit Contributions</div>
-		</div> -->
+
+		<br><br>
+
+		<a href="https://niwa.typeform.com/to/t2JF9YTg">
+			<div style="width: 100%; text-align: center;">
+				<div class="submit">Submit Contributions</div>
+			</div>
+		</a>
 
 		<br><br>
 
@@ -352,11 +366,16 @@ THE SOFTWARE IS PROVIDED 'AS IS', WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLI
 		<br>
 		
 		<h1 id="Form">Modulo</h1>
-
-		Una volta concluso l'evento, apparirà un modulo qui. Siete pregati di compilarlo entro il <b>30 settembre</b> per segnalarci quali contributi avete effettuato.
-		Compilare questo modulo è necessario per partecipare all'estrazione del premio.
+		
+		Una volta concluso l'evento, siete pregati di segnalare i vostri contributi compilando il seguente modulo entro il <b>30 settembre</b>. Compilare questo modulo è necessario per partecipare all'estrazione del premio.
 
 		<br><br>
+		
+		<a href="https://niwa.typeform.com/to/t2JF9YTg">
+			<div class="submit" style="width: 100%; text-align: center;">
+				<div class="submit">Submit Contributions</div>
+			</div>
+		</a>
 
 		<br><br>
 
