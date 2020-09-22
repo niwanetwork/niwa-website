@@ -212,8 +212,11 @@ THE SOFTWARE IS PROVIDED 'AS IS', WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLI
 			}
 		</style>
 
-		After the end of the event on September 21<sup>st</sup>, there will be a link here to submit your contributions. Please plan to submit your contributions by <b>September 30<sup>th</sup></b>.
-		Filling out the form is how you enter yourself for a chance to win the prize. Even if you do not want the prize, we encourage you to submit your contributions so that we can track participation in this event.
+		Contribution submissions are now open! Filling out the form is how you enter yourself for a chance to win the prize. Please submit your contributions by <b>September 30<sup>th</sup></b>.
+		
+		<br><br>
+		
+		Even if you do not want the prize, we encourage you to submit your contributions so that we can track participation in this event.
 
 		<br><br>
 
