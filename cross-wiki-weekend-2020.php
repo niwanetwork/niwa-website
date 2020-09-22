@@ -365,13 +365,17 @@ THE SOFTWARE IS PROVIDED 'AS IS', WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLI
 		
 		<h1 id="Form">Modulo</h1>
 		
-		Una volta concluso l'evento, siete pregati di segnalare i vostri contributi compilando il seguente modulo entro il <b>30 settembre</b>. Compilare questo modulo è necessario per partecipare all'estrazione del premio.
+		Adesso potete segnalarci i vostri contributi! &#200; necessario compilare questo modulo per avere una possibilit&#224; di vincere il premio. Per favore, segnalate i vostri contributi entro il <b>30 settembre</b>.
+		
+		<br><br>
+		
+		Vi incoraggiamo a segnalare i vostri contributi anche se non desiderate il premio, cos&#236; possiamo tenere traccia delle partecipazioni all'evento.
 
 		<br><br>
 
 		<a href="https://niwa.typeform.com/to/t2JF9YTg">
 			<div style="width: 100%; text-align: center;">
-				<div class="button">Submit</div>
+				<div class="button">Segnala i tuoi contributi</div>
 			</div>
 		</a>
 
