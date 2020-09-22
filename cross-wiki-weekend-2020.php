@@ -64,12 +64,12 @@ THE SOFTWARE IS PROVIDED 'AS IS', WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLI
 	}
 	
 	.button {
-		color: white;
-		background: #B22222;
+		color: white !important;
+		background-color: #B22222 !important;
 	}
 	
 	.button:hover {
-		background: #eb3223;
+		background-color: #eb3223 !important;
 		cursor: pointer;
 	}
 </style>
