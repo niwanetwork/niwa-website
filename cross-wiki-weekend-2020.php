@@ -222,7 +222,7 @@ THE SOFTWARE IS PROVIDED 'AS IS', WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLI
 
 		<a href="https://niwa.typeform.com/to/t2JF9YTg">
 			<div style="width: 100%; text-align: center;">
-				<div class="submit">Submit Contributions</div>
+				<div class="submit button">Submit Contributions</div>
 			</div>
 		</a>
 
@@ -376,7 +376,7 @@ THE SOFTWARE IS PROVIDED 'AS IS', WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLI
 		
 		<a href="https://niwa.typeform.com/to/t2JF9YTg">
 			<div class="submit" style="width: 100%; text-align: center;">
-				<div class="submit">Submit Contributions</div>
+				<div class="submit button">Submit Contributions</div>
 			</div>
 		</a>
 
