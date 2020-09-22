@@ -64,12 +64,21 @@ THE SOFTWARE IS PROVIDED 'AS IS', WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLI
 	}
 	
 	.button {
-		color: white !important;
-		background-color: #B22222 !important;
+		-webkit-appearance: button;
+		-moz-appearance: button;
+		appearance: button;
+		border: none;
+		padding: 15px 15px;
+		text-align: center;
+		text-decoration: none;
+		display: inline-block;
+		font-size: 16px;
+		color: white;
+		background-color: #B22222;
 	}
 	
 	.button:hover {
-		background-color: #eb3223 !important;
+		background-color: #eb3223;
 		cursor: pointer;
 	}
 </style>
@@ -197,20 +206,6 @@ THE SOFTWARE IS PROVIDED 'AS IS', WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLI
 		<br>
 		
 		<h1 id="Form">Form</h1>
-		<style>
-			.button {
-				-webkit-appearance: button;
-				-moz-appearance: button;
-				appearance: button;
-				background-color: #7F7F7F;
-				border: none;
-				padding: 15px 15px;
-				text-align: center;
-				text-decoration: none;
-				display: inline-block;
-				font-size: 16px;
-			}
-		</style>
 
 		Contribution submissions are now open! Filling out the form is how you enter yourself for a chance to win the prize. Please submit your contributions by <b>September 30<sup>th</sup></b>.
 		
@@ -373,10 +368,10 @@ THE SOFTWARE IS PROVIDED 'AS IS', WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLI
 		Una volta concluso l'evento, siete pregati di segnalare i vostri contributi compilando il seguente modulo entro il <b>30 settembre</b>. Compilare questo modulo è necessario per partecipare all'estrazione del premio.
 
 		<br><br>
-		
+
 		<a href="https://niwa.typeform.com/to/t2JF9YTg">
-			<div class="submit" style="width: 100%; text-align: center;">
-				<div class="button">Submit Contributions</div>
+			<div style="width: 100%; text-align: center;">
+				<div class="button">Submit</div>
 			</div>
 		</a>
 
