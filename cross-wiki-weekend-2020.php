@@ -219,46 +219,6 @@ THE SOFTWARE IS PROVIDED 'AS IS', WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLI
 		<br><br>
 
 		While event organizers are free to participate, they are disallowed from entering the drawing and winning the prize.
-
-		<br><br>
-		<!--
-
-		<h1 id="Conclusion">Conclusion</h1>
-		Thank you to everyone who participated! We received a total of 13 valid entries from editors both new and old. Participants from 7 NIWA wikis, as well as the outside public, contributed to 11 NIWA wikis.
-
-		Thank you to the following participants:
-		<table style="width: 100%;">
-			<tr>
-				<td style="width: 50%; vertical-align: top;">
-					<ul>
-						<li>Alex95</li>
-						<li>Alternis</li>
-						<li>Cookies and Creme</li>
-						<li>Coolpic783</li>
-						<li>Doomhiker</li>
-						<li>Duraner Hawkeye</li>
-						<li>Koopastefo</li>
-					</ul>
-				</td>
-				<td style="width: 50%; vertical-align: top;">
-					<ul>
-						<li>Mud</li>
-						<li>Phantom Dusclops'92</li>
-						<li>Snorlite</li>
-						<li>Sunmarsh</li>
-						<li>Viperision</li>
-						<li>tent2</li>
-					</ul>
-				</td>
-			</tr>
-		</table>
-
-		Finally, the moment we've all been waiting for - the winner of the $20/€20 eShop Gift Card was <b>Cookies and Creme</b> from SmashWiki. Congratulations!
-	
-		<br><br>
-	
-		We look forward to hosting this event again next year!
-		-->
 	
 		<br><br>
 		
@@ -408,44 +368,6 @@ THE SOFTWARE IS PROVIDED 'AS IS', WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLI
 		<br><br>
 
 		Sebbene gli organizzatori dell'evento siano liberi di partecipare, saranno esclusi dal sorteggio e di conseguenza non avranno la possibilit&#224; di vincere il premio.
-
-		<br><br>
-
-		<!--
-		<h1 id="Conclusion">Conclusione</h1>
-		Grazie a tutti per aver partecipato! Hanno preso parte all'evento un totale di 13 contributori, sia nuovi che vecchi. Sono stati effettuati contributi all'interno di 11 wiki di NIWA, provenienti dai membri di 7 wiki di NIWA oltre che dal pubblico esterno. Grazie ai seguenti partecipanti:
-		<table style="width: 100%;">
-			<tr>
-				<td style="width: 50%; vertical-align: top;">
-					<ul>
-						<li>Alex95</li>
-						<li>Alternis</li>
-						<li>Cookies and Creme</li>
-						<li>Coolpic783</li>
-						<li>Doomhiker</li>
-						<li>Duraner Hawkeye</li>
-						<li>Koopastefo</li>
-					</ul>
-				</td>
-				<td style="width: 50%; vertical-align: top;">
-					<ul>
-						<li>Mud</li>
-						<li>Phantom Dusclops'92</li>
-						<li>Snorlite</li>
-						<li>Sunmarsh</li>
-						<li>Viperision</li>
-						<li>tent2</li>
-					</ul>
-				</td>
-			</tr>
-		</table>
-
-		Infine, il momento più atteso da tutti: il vincitore della Nintendo eShop Card da 20$/20€ è Cookies and Creme di SmashWiki. Congratulazioni!
-
-		<br><br>
-	
-		Ci vediamo l'anno prossimo con una nuova edizione dell'evento!
-		-->
 	
 		<br><br>
 		
