@@ -3,8 +3,9 @@ These are the files for the NIWA website (http://niwanetwork.org/), a PHP projec
 
 ## Contributing
 The files most users will be concerned about are:
-* `_api.php`, which holds all member information (logos, links, names, descriptions)
-* `members.php`, the page that shows member data (contains structure, all member data is pulled from `_api.php`)
+* `members.json`, which holds all member information (logos, links, names, descriptions)
+* `_api.php`, contains helper functions and pulls in member json data
+* `members.php`, the page that shows member data (contains structure, all member data is pulled from `members.json`)
 * `images/icons`, where site icons are stored
 * `images/logos`, where site logos are stored
 

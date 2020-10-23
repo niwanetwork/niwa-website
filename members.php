@@ -2,44 +2,6 @@
 $topbar = 'off';
 $title = 'Members';
 include('_header.php');
-
-
-/* Moved this code out to here since it it duplicated and lengthy.
- * Generates the html for Links with error checking for wikis that do not have
- * one of the options.
- *
- * Requires a individual wiki array from the api.
- */
-function generateLinks($wiki)
-{
-
-    $links = "";
-    $links .= "<a href='" . $wiki["url"] . "'>" . $wiki["title"] . "</a> ";
-
-    if (isset($wiki['site'])) {
-        $links .= "<a href='" . $wiki["site"] . "'>" . $wiki["siteName"] . "</a>";
-    };
-    if (isset($wiki['forums'])) {
-        $links .= "<a href='" . $wiki["forums"] . "'>Forums</a>";
-    };
-    if (isset($wiki['chat'])) {
-        $links .= "<a href='" . $wiki["chat"] . "'>Chat</a>";
-    };
-    if (isset($wiki['discord'])) {
-        $links .= "<a href='" . $wiki["discord"] . "'>Discord</a>";
-    };
-    if (isset($wiki['twitter'])) {
-        $links .= "<a href='" . $wiki["twitter"] . "'>Twitter</a>";
-    };
-    if (isset($wiki['twitch'])) {
-        $links .= "<a href='" . $wiki["twitch"] . "'>Twitch</a>";
-    };
-    if (isset($wiki['facebook'])) {
-        $links .= "<a href='" . $wiki["facebook"] . "'>Facebook</a>";
-    };
-
-    return $links;
-}
 ?>
 
 <div id="main">
@@ -93,10 +55,7 @@ THE SOFTWARE IS PROVIDED 'AS IS', WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLI
         }
 
         #tab1:checked~#content1,
-        #tab2:checked~#content2 {
-            display: block;
-        }
-
+        #tab2:checked~#content2,
         #tab3:checked~#content3 {
             display: block;
         }
@@ -113,7 +72,7 @@ THE SOFTWARE IS PROVIDED 'AS IS', WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLI
 
     <section id='content1'>
         <?php
-        foreach ($englishWikis as $wiki) {
+        foreach ($memberWikis["en"] as $wiki) {
             echo "
             <div class='member'>
                 <div class='logo'><a href='" . $wiki["url"] . "'><img src='" . $wiki["logo"] . "' alt='" . $wiki["title"] . "' /></a></div>
@@ -129,7 +88,7 @@ THE SOFTWARE IS PROVIDED 'AS IS', WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLI
     </section>
     <section id='content2'>
         <?php
-        foreach ($germanWikis as $wiki) {
+        foreach ($memberWikis["de"] as $wiki) {
             echo "
             <div class='member'>
                 <div class='logo'><a href='" . $wiki["url"] . "'><img src='" . $wiki["logo"] . "' alt='" . $wiki["title"] . "' /></a></div>
@@ -148,7 +107,7 @@ THE SOFTWARE IS PROVIDED 'AS IS', WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLI
         <br><br>
 
         <?php
-        foreach ($italianWikis as $wiki) {
+        foreach ($memberWikis["it"] as $wiki) {
             echo "
             <div class='member'>
                 <div class='logo'><a href='" . $wiki["url"] . "'><img src='" . $wiki["logo"] . "' alt='" . $wiki["title"] . "' /></a></div>
