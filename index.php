@@ -1,6 +1,6 @@
 <?php 
 include('_header.php');
-$topbar = off;
+$topbar = 'off';
 ?>
 
 <div id="main">

@@ -78,7 +78,7 @@ THE SOFTWARE IS PROVIDED 'AS IS', WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLI
                 <div class='logo'><a href='". $wiki->url ."'><img src='". $wiki->logo ."' alt='". $wiki->title ."' /></a></div>
                 <div class='description'>
                     <div class='links'>". generateLinks($wiki) ."</div>
-                    <p>". $wiki->description ."</p>
+                    ". $wiki->description ."
                 </div>
                 <p style='clear: both;'></p>
             </div>
@@ -94,7 +94,7 @@ THE SOFTWARE IS PROVIDED 'AS IS', WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLI
                 <div class='logo'><a href='". $wiki->url ."'><img src='". $wiki->logo ."' alt='". $wiki->title ."' /></a></div>
                 <div class='description'>
                     <div class='links'>". generateLinks($wiki) ."</div>
-                    <p>". $wiki->description ."</p>
+                    ". $wiki->description ."
                 </div>
                 <p style='clear: both;'></p>
             </div>
@@ -113,7 +113,7 @@ THE SOFTWARE IS PROVIDED 'AS IS', WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLI
                 <div class='logo'><a href='". $wiki->url ."'><img src='". $wiki->logo ."' alt='". $wiki->title ."' /></a></div>
                 <div class='description'>
                     <div class='links'>". generateLinks($wiki) ."</div>
-                    <p>". $wiki->description ."</p>
+                    ". $wiki->description ."
                 </div>
                 <p style='clear: both;'></p>
             </div>

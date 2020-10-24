@@ -26,7 +26,7 @@ include('_api.php');
 </head>
 
 <body>
-  <?php if ($topbar=='on') include('_topbar.php'); ?>
+  <?php #if ($topbar=='on') include('_topbar.php'); ?>
   <div id="container">
 
   <div id="header">
