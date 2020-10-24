@@ -316,12 +316,12 @@ $wikiboundit = [
 $wikirby = [
 	'logo' => '/images/logos/wikirby.png' ,
 	'icon' => '/images/icons/wikirby.png' ,
-	'site' => 'http://wikirby.com' ,
-	'url' => 'http://wikirby.com/wiki/Main_Page' ,
+	'site' => 'https://wikirby.com' ,
+	'url' => 'https://wikirby.com/wiki/Kirby_Wiki' ,
 	'forums' => 'http://www.niwanetwork.org/forums/index.php?board=13.0' ,
 	#'chat' => '' ,
 	#'twitter' => '' ,
-	'facebook' => 'http://facebook.com/wikirby' ,
+	'facebook' => 'https://facebook.com/wikirby' ,
 	'discord' => 'https://discord.gg/4y9BPyj' ,
 ];
 
