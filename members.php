@@ -72,13 +72,13 @@ THE SOFTWARE IS PROVIDED 'AS IS', WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLI
 
     <section id='content1'>
         <?php
-        foreach ($memberWikis["en"] as $wiki) {
+        foreach ($memberWikis->en as $wiki) {
             echo "
             <div class='member'>
-                <div class='logo'><a href='" . $wiki["url"] . "'><img src='" . $wiki["logo"] . "' alt='" . $wiki["title"] . "' /></a></div>
+                <div class='logo'><a href='". $wiki->url ."'><img src='". $wiki->logo ."' alt='". $wiki->title ."' /></a></div>
                 <div class='description'>
-                    <div class='links'>" . generateLinks($wiki) . "</div>
-                    <p>" . $wiki["description"] . "</p>
+                    <div class='links'>". generateLinks($wiki) ."</div>
+                    <p>". $wiki->description ."</p>
                 </div>
                 <p style='clear: both;'></p>
             </div>
@@ -88,13 +88,13 @@ THE SOFTWARE IS PROVIDED 'AS IS', WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLI
     </section>
     <section id='content2'>
         <?php
-        foreach ($memberWikis["de"] as $wiki) {
+        foreach ($memberWikis->de as $wiki) {
             echo "
             <div class='member'>
-                <div class='logo'><a href='" . $wiki["url"] . "'><img src='" . $wiki["logo"] . "' alt='" . $wiki["title"] . "' /></a></div>
+                <div class='logo'><a href='". $wiki->url ."'><img src='". $wiki->logo ."' alt='". $wiki->title ."' /></a></div>
                 <div class='description'>
-                    <div class='links'>" . generateLinks($wiki) . "</div>
-                    <p>" . $wiki["description"] . "</p>
+                    <div class='links'>". generateLinks($wiki) ."</div>
+                    <p>". $wiki->description ."</p>
                 </div>
                 <p style='clear: both;'></p>
             </div>
@@ -107,13 +107,13 @@ THE SOFTWARE IS PROVIDED 'AS IS', WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLI
         <br><br>
 
         <?php
-        foreach ($memberWikis["it"] as $wiki) {
+        foreach ($memberWikis->it as $wiki) {
             echo "
             <div class='member'>
-                <div class='logo'><a href='" . $wiki["url"] . "'><img src='" . $wiki["logo"] . "' alt='" . $wiki["title"] . "' /></a></div>
+                <div class='logo'><a href='". $wiki->url ."'><img src='". $wiki->logo ."' alt='". $wiki->title ."' /></a></div>
                 <div class='description'>
-                    <div class='links'>" . generateLinks($wiki) . "</div>
-                    <p>" . $wiki["description"] . "</p>
+                    <div class='links'>". generateLinks($wiki) ."</div>
+                    <p>". $wiki->description ."</p>
                 </div>
                 <p style='clear: both;'></p>
             </div>
