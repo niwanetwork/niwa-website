@@ -264,7 +264,7 @@ Founded in early 2010 by Tacopill, WikiBound strives to create a detailed databa
 <div class='member'>
 <div class='logo'><a href='".$wikirby["url"]."'><img src='".$wikirby["logo"]."' alt='WiKirby' /></a></div>
 <div class='description'>
-<div class='links'><a href='".$wikirby["url"]."'>WiKirby</a> <a href='".$wikirby["forums"]."'>Forums</a> <a href='".$wikirby["facebook"]."'>Facebook</a> <a href='".$wikibound["discord"]."'>Discord</a></div>
+<div class='links'><a href='".$wikirby["url"]."'>WiKirby</a> <a href='".$wikirby["forums"]."'>Forums</a> <a href='".$wikirby["facebook"]."'>Facebook</a> <a href='".$wikirby["discord"]."'>Discord</a></div>
 WiKirby. It's a wiki. About Kirby! Amongst the excitement of NIWA being founded, Josh LeJeune decided to create a Kirby Wiki, due to lack of a strong independent one online. Coming online on Janury 24th, 2010, WiKirby continues its strong launch with a dedicated community and a daily growing source of Kirby based knowledge.
 </div>
 <p style='clear: both;'></p>
