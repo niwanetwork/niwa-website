@@ -1,5 +1,4 @@
-<?php 
-$topbar = 'off';
+<?php
 $title = 'Join';
 include('_header.php');
 ?>
@@ -19,21 +18,21 @@ include('_header.php');
 	<li>Your wiki should have a bit of "staying power" - that is to say, you must prove you have what it takes to last a while. Minimum wiki age of six months, with legitimate recent activity.</li>
 	<li>Your wiki may not conflict with any existing NIWA Member Wiki's legitimate coverage without that wiki's expressed permission. Please contact a conflicting wiki ahead of time to verify conflict and work out a resolution.</li>
 </ol>
-    
+
 <p>What we are looking for in a new member is one of the following:</p>
 <ol type="a">
 	<li>An already established wiki that is independent or planning to go independent. If you are not independent, but have a strong community and desire independence, we have many helpful people who can help you find hosting. Check out our forums to find help! </li>
 	<li>Fresh start-up wikis that are being run with obvious passion and enthusiasm by people already somewhat established in that wiki's fandom. For example, Zelda Universe didn't create Mario Wiki - they created Zelda Wiki! </li>
 	<li>Fresh start-up wikis started as internal projects of NIWA by the staff of existing NIWA member wikis. Examples include WiKirby and Metroid Wiki. These will come up within the staff itself, so don't worry about this too much.</li>
 </ol>
-  
+
 <p>Please note that simply following these suggestions does not guarantee membership - these are just a few basic guidelines to follow before you even apply. Just as well, if we see a wiki has great potential but is lacking in just a few small ways, we can always work something out. Good luck, and we hope to hear from you soon.</p>
 
-<p>Please note that these guidelines are subject to change without notice. If you are interested in joining or affiliating with NIWA, please <a href="../contact">contact us</a>.</p>
+<p>Please note that these guidelines are subject to change without notice. If you are interested in joining or affiliating with NIWA, please <a href="/contact">contact us</a>.</p>
 
 </div>
 
-<?php 
+<?php
 include('_sidebar.php');
 include('_footer.php');
 ?>
