@@ -2,12 +2,18 @@
 Desktop specific designs are found at the bottom */
 
 @import url(http://fonts.googleapis.com/css?family=Open+Sans:400, 700);
+
+* {
+  padding: 0;
+  margin: 0;
+}
+
 body {
   background: #f0f0f0 url("images/bg.png");
   font-family: "Open Sans", sans-serif;
   font-size: 1em;
-  margin: auto;
-  margin-bottom: 10px;
+  margin: 5px 5px 10px;
+  min-width: 360px;
 }
 
 img {
@@ -21,18 +27,18 @@ ol {
   font-size: 0.938em;
 }
 
-li {
+#main li {
   margin: 10px 0px 10px 0px;
 }
 
-#main a:link,
+#main a,
 #main a:visited {
   color: #2f2f2f;
   font-weight: bold;
   text-decoration: none;
 }
 
-a:link,
+a,
 a:visited {
   color: #2f2f2f;
   font-weight: normal;
@@ -47,17 +53,17 @@ a:visited {
   margin: 0 auto;
 }
 
+/* Header */
 #header {
   text-align: center;
 }
 
+#header a img {
+  margin: 0 auto;
+}
+
 /* Navigation */
 .nav {
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-  justify-content: space-between;
-
   border-radius: 5px;
   border: 1px #b22222 solid;
   box-shadow: 0 0 5px #888;
@@ -65,40 +71,56 @@ a:visited {
   padding: 0 0.625em;
   margin-bottom: 10px;
 }
+.menu {
+  display: none;
+  flex-direction: column;
+  align-items: center;
+  justify-content: space-between;
+  transition: all 0.3s ease-out;
+}
+
+.mobile-menu {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  color: #fff;
+  height: 44px;
+  padding: 0 0.8em;
+}
+
+.mobile-menu span {
+  font-weight: 500;
+}
 
 .primaryNav {
-  display: flex;
-  flex-direction: column;
-  justify-content: space-around;
-  align-items: center;
+  display: block;
   list-style: none;
   width: 100%;
   margin: 0;
   padding: 0;
 }
+
 .primaryNav > li {
   margin: 0;
   width: 100%;
-  text-align: center;
+  width: 100vw;
+  text-align: left;
 }
 
 .primaryNav > li:not(:last-child) {
-  border-bottom: 1px solid rgba(0,0,0,0.2);
+  border-bottom: 1px solid rgba(0, 0, 0, 0.2);
 }
 
-.primaryNav a {
+.primaryNav a,
+.primaryNav a:visited {
   display: block;
   color: #fff;
   text-decoration: none;
   padding: 0.8em;
 }
 
-.primaryNav a:visited {
-  color: #fff;
-  font-weight: normal;
-}
-
-.primaryNav a:hover, .primaryNav a:active {
+.primaryNav a:hover,
+.primaryNav a:active {
   background: #cd5c5c;
 }
 
@@ -112,14 +134,50 @@ a:visited {
   margin: 0;
   padding: 0;
 }
-.socialNav > li {
-  margin: 0.2rem;
-}
 
-.socialNav > li a {
-  margin: 0;
+.socialNav a  {
+  display: block;
+  margin: 0.2rem; 
   padding: 0;
 }
+
+/* Mobile Collapsing */
+.menu-icon-container {
+  width: 30px;
+  cursor: pointer;
+  margin-top: -2px;
+}
+
+.menu-icon,
+.menu-icon::before,
+.menu-icon::after {
+  display: block;
+  background-color: #fff;
+  position: absolute;
+  height: 4px;
+  width: 30px;
+  border-radius: 2px;
+}
+
+.menu-icon::before {
+  content: "";
+  margin-top: -8px;
+}
+
+.menu-icon::after {
+  content: "";
+  margin-top: 8px;
+}
+
+.active {
+  display: flex;
+  transition: height 400ms cubic-bezier(0.23, 1, 0.32, 1);
+}
+
+.primaryNav li:not(:last-child) {
+  border-bottom: 1px solid rgba(0, 0, 0, 0.2);
+}
+
 
 /* Main Content */
 #content {
@@ -145,7 +203,7 @@ a:visited {
 }
 
 #main {
-  flex-basis: 75%; 
+  flex-basis: 75%;
   padding: 5px;
 }
 
@@ -156,14 +214,16 @@ a:visited {
   justify-content: center;
 }
 
-#main #logos * {
-  flex-basis: 25%;
+#main #logos a {
+  flex-basis: 50%;
+  justify-content: center;
   max-height: 150px;
 }
 
 #main #logos a img {
   padding: 0px 13px;
   max-height: 100%;
+  margin: 0 auto;
 }
 
 #main p {
@@ -374,14 +434,19 @@ a:visited {
 
 /* Desktop Styles */
 @media (min-width: 960px) {
-
   /* Navigation */
-  .nav {
-    flex-direction: row;
-  }
-  .nav .primaryNav {
+  .nav .primaryNav,
+  .nav .menu {
+    display: flex;
     flex-direction: row;
     width: auto;
+    align-items: center;
+  }
+  .menu {
+    justify-content: space-between;
+  }
+  .primaryNav {
+    justify-content: space-around;
   }
 
   .nav .primaryNav li {
@@ -389,15 +454,21 @@ a:visited {
     width: auto;
   }
 
-  .socialNav {
-    width: auto;
+  .nav .menu-icon-container,
+  #menu-toggle,
+  .mobile-menu {
+    display: none;
   }
 
-  .socialNav li {
+  .socialNav {
     width: auto;
   }
 
   #content {
     flex-direction: row;
+  }
+
+  #main #logos a {
+    flex-basis: 25%;
   }
 }
