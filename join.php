@@ -4,7 +4,7 @@ $title = 'Join';
 include('_header.php');
 ?>
 
-<div id="main">
+<div class="main">
 <h1>Join NIWA</h1>
 
 <p>Are you interested in your Wiki becoming a member of the Nintendo Independent Wiki Alliance? Check out these following guidelines to see if you should apply for membership:</p>

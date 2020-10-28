@@ -1,10 +1,11 @@
 ﻿<?php
 $topbar = 'off';
 $title = 'Members';
+
 include('_header.php');
 ?>
 
-<div id="main">
+<div class="main">
     <h1>NIWA Members</h1>
 
     <!-- Derived from https://codepen.io/oknoblich/pen/tfjFl -->
@@ -75,12 +76,11 @@ THE SOFTWARE IS PROVIDED 'AS IS', WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLI
         foreach ($memberWikis->en as $wiki) {
             echo "
             <div class='member'>
-                <div class='logo'><a href='". $wiki->url ."'><img src='". $wiki->logo ."' alt='". $wiki->title ."' /></a></div>
+                <div class='logo'><a href='" . $wiki->url . "'><img src='" . $wiki->logo . "' alt='" . $wiki->title . "' /></a></div>
                 <div class='description'>
-                    <div class='links'>". generateLinks($wiki) ."</div>
-                    ". $wiki->description ."
+                    <div class='links'>" . generateLinks($wiki) . "</div>
+                    <p>" . $wiki->description . "</p>
                 </div>
-                <p style='clear: both;'></p>
             </div>
             ";
         }
@@ -91,12 +91,11 @@ THE SOFTWARE IS PROVIDED 'AS IS', WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLI
         foreach ($memberWikis->de as $wiki) {
             echo "
             <div class='member'>
-                <div class='logo'><a href='". $wiki->url ."'><img src='". $wiki->logo ."' alt='". $wiki->title ."' /></a></div>
+                <div class='logo'><a href='" . $wiki->url . "'><img src='" . $wiki->logo . "' alt='" . $wiki->title . "' /></a></div>
                 <div class='description'>
-                    <div class='links'>". generateLinks($wiki) ."</div>
-                    ". $wiki->description ."
+                    <div class='links'>" . generateLinks($wiki) . "</div>
+                    <p>" . $wiki->description . "</p>
                 </div>
-                <p style='clear: both;'></p>
             </div>
             ";
         }
@@ -110,12 +109,11 @@ THE SOFTWARE IS PROVIDED 'AS IS', WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLI
         foreach ($memberWikis->it as $wiki) {
             echo "
             <div class='member'>
-                <div class='logo'><a href='". $wiki->url ."'><img src='". $wiki->logo ."' alt='". $wiki->title ."' /></a></div>
+                <div class='logo'><a href='" . $wiki->url . "'><img src='" . $wiki->logo . "' alt='" . $wiki->title . "' /></a></div>
                 <div class='description'>
-                    <div class='links'>". generateLinks($wiki) ."</div>
-                    ". $wiki->description ."
+                    <div class='links'>" . generateLinks($wiki) . "</div>
+                    <p>" . $wiki->description . "</p>
                 </div>
-                <p style='clear: both;'></p>
             </div>
             ";
         }

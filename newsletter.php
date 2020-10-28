@@ -11,7 +11,7 @@ include('_header.php');
 	a.special:active {color: #B22222 !important;}
 </style>
 
-<div id="main">
+<div class="main">
 
 	<h1>NIWA Newsletter</h1>
 

@@ -64,7 +64,7 @@ THE SOFTWARE IS PROVIDED 'AS IS', WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLI
 	}
 </style>
 
-<div id="main">
+<div class="main">
 
 	<h1>Cross-Wiki Weekend 2018</h1>
 
@@ -176,7 +176,7 @@ THE SOFTWARE IS PROVIDED 'AS IS', WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLI
 		<h3 style="text-align: center;">Italian Wikis</h3>
 		<table style="margin: 5px; width: 100%;">
 			<tr>
-				<td style="padding: 8px 4px; text-align: center; width: 25%;"><a style="color:#53C651;" href="https://wiki.pokemoncentral.it/Meta:Cross-Wiki_Weekend"><img src="/images/logos/pokemoncentral.png" alt="Pokémon Central Wiki" width="90px"><br/>Cross-Wiki Guide</a></td>
+				<td style="padding: 8px 4px; text-align: center; width: 25%;"><a style="color:#53C651;" href="https://wiki.pokemoncentral.it/Meta:Cross-Wiki_Weekend"><img src="/images/logos/pokemoncentral.png" alt="Pokï¿½mon Central Wiki" width="90px"><br/>Cross-Wiki Guide</a></td>
 				<td style="padding: 8px 4px; text-align: center; width: 25%;"><a style="color:#53C651;" href="https://www.mariocastle.it/wiki/Super_Mario_Wiki:Cross-Wiki_Weekend"><img src="/images/logos/mariowikiit.png" alt="Super Mario Wiki (IT)" width="90px"><br/>Cross-Wiki Guide</a></td>
 			</tr>
 		</table>
@@ -366,7 +366,7 @@ THE SOFTWARE IS PROVIDED 'AS IS', WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLI
 		<h3 style="text-align: center;">Wiki in italiano</h3>
 		<table style="margin: 5px; width: 100%;">
 			<tr>
-				<td style="padding: 8px 4px; text-align: center; width: 25%;"><a style="color:#53C651;" href="https://wiki.pokemoncentral.it/Meta:Cross-Wiki_Weekend"><img src="/images/logos/pokemoncentral.png" alt="Pokémon Central Wiki" width="90px"><br/>Cross-Wiki Guide</a></td>
+				<td style="padding: 8px 4px; text-align: center; width: 25%;"><a style="color:#53C651;" href="https://wiki.pokemoncentral.it/Meta:Cross-Wiki_Weekend"><img src="/images/logos/pokemoncentral.png" alt="Pokï¿½mon Central Wiki" width="90px"><br/>Cross-Wiki Guide</a></td>
 				<td style="padding: 8px 4px; text-align: center; width: 25%;"><a style="color:#53C651;" href="https://www.mariocastle.it/wiki/Super_Mario_Wiki:Cross-Wiki_Weekend"><img src="/images/logos/mariowikiit.png" alt="Super Mario Wiki (IT)" width="90px"><br/>Cross-Wiki Guide</a></td>
 			</tr>
 		</table>

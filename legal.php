@@ -4,7 +4,7 @@ $title = 'Legal';
 include('_header.php');
 ?>
 
-<div id="main">
+<div class="main">
 <h1>Legal</h1>
 
 <p>All original content found throughout this website is copyright &copy; Nintendo Independent Wiki Alliance (NIWA) 2010-<?php echo(date(Y)); ?>.</p>

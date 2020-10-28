@@ -4,7 +4,7 @@ $title = 'About the Nintendo Independent Wiki Alliance';
 include('_header.php');
 ?>
 
-<div id="main">
+<div class="main">
 <h1>About the Nintendo Independent Wiki Alliance</h1>
 <p>On February 14, 2010, NIWA was jointly founded by Bulbapedia, ZeldaWiki and the Super Mario Wiki, with the goal of creating a community of wikis that will support and strengthen each other, leading to fuller coverage of all things Nintendo. Since then, NIWA has expanded to a network of more than twenty wikis covering a multitude of Nintendo franchises, both large and small.</p>
 

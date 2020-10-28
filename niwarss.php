@@ -30,7 +30,7 @@ $feed->handle_content_type();
 		border-bottom:1px solid #999;
 	}
 </style>
-<div id="main">
+<div class="main">
 
  
 	<?php

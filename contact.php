@@ -4,7 +4,7 @@ $title = 'Contact Us';
 include('_header.php');
 ?>
 
-<div id="main">
+<div class="main">
 <h1>Contact Us</h1>
 
 <form method="post" action="../mail.php">

@@ -64,7 +64,7 @@ THE SOFTWARE IS PROVIDED 'AS IS', WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLI
 	}
 </style>
 
-<div id="main">
+<div class="main">
 
 	<h1>Cross-Wiki Weekend 2019</h1>
 

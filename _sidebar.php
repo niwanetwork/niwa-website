@@ -1,4 +1,4 @@
-<div id="sidebar">
+<div class="sidebar">
 
 <div class="box">
 	<div class="title">Latest Tweets</div>
