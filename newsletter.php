@@ -1,5 +1,4 @@
-<?php 
-$topbar = 'off';
+<?php
 $title = 'NIWA Newsletter';
 include('_header.php');
 ?>
@@ -45,23 +44,23 @@ include('_header.php');
 	<br><br>
 
 	<h1>Archive</h1>
-	
+
 	<ul>
-		<li><a href="http://www.niwanetwork.org/newsletter/2017/05/">May 2017</a></li>
-		<li><a href="http://www.niwanetwork.org/newsletter/2017/06/">June 2017</a></li>
-		<li><a href="http://www.niwanetwork.org/newsletter/2017/07/">July 2017</a></li>
-		<li><a href="http://www.niwanetwork.org/newsletter/2017/08/">August 2017</a></li>
-		<li><a href="http://www.niwanetwork.org/newsletter/2017/09/">September 2017</a></li>
-		<li><a href="http://www.niwanetwork.org/newsletter/2017/10/">October 2017</a></li>
-		<li><a href="http://www.niwanetwork.org/newsletter/2017/11/">November 2017</a></li>
-		<li><a href="http://www.niwanetwork.org/newsletter/2017/12/">December 2017</a></li>
-		<li><a href="http://www.niwanetwork.org/newsletter/2018/01/">January 2018</a></li>
-		<li><a href="http://www.niwanetwork.org/newsletter/2018/02/">February 2018</a></li>
-		<li><a href="http://www.niwanetwork.org/newsletter/2018/05/">March + April + May 2018</a></li>
+		<li><a href="/newsletter/2017/05/">May 2017</a></li>
+		<li><a href="/newsletter/2017/06/">June 2017</a></li>
+		<li><a href="/newsletter/2017/07/">July 2017</a></li>
+		<li><a href="/newsletter/2017/08/">August 2017</a></li>
+		<li><a href="/newsletter/2017/09/">September 2017</a></li>
+		<li><a href="/newsletter/2017/10/">October 2017</a></li>
+		<li><a href="/newsletter/2017/11/">November 2017</a></li>
+		<li><a href="/newsletter/2017/12/">December 2017</a></li>
+		<li><a href="/newsletter/2018/01/">January 2018</a></li>
+		<li><a href="/newsletter/2018/02/">February 2018</a></li>
+		<li><a href="/newsletter/2018/05/">March + April + May 2018</a></li>
 	</ul>
 </div>
 
-<?php 
+<?php
 include('_sidebar.php');
 include('_footer.php');
 ?>

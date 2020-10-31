@@ -1,5 +1,4 @@
-<?php 
-$topbar = 'off';
+<?php
 $title = 'Legal';
 include('_header.php');
 ?>
@@ -15,7 +14,7 @@ include('_header.php');
 
 </div>
 
-<?php 
+<?php
 include('_sidebar.php');
 include('_footer.php');
 ?>
