@@ -1,5 +1,4 @@
 ﻿<?php
-$topbar = 'off';
 $title = 'Members';
 
 include('_header.php');

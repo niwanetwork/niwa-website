@@ -1,4 +1,4 @@
-<?php 
+<?php
 include('_api.php');
 ?>
 <!DOCTYPE html>
@@ -9,10 +9,7 @@ include('_api.php');
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
   <title>NIWA - <?php if ($title!='') { echo $title; } else { echo 'Nintendo Independent Wiki Alliance'; } ?></title>
-  <link href="../style.css" rel="stylesheet" type="text/css" />
-  <!--[if (IE)]>
-  <link href="../fix.css" rel="stylesheet" type="text/css" />
-  <![endif]-->
+  <link href="/style.css" rel="stylesheet" type="text/css" />
 
   <script>
     (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
@@ -22,23 +19,16 @@ include('_api.php');
 
     ga('create', 'UA-98371516-1', 'auto');
     ga('send', 'pageview');
-
   </script>
 </head>
 
 <body>
-  <?php #if ($topbar=='on') include('_topbar.php'); ?>
   <div id="container">
 
   <div id="header">
-  <a href="http://niwanetwork.org" title="NIWA Network"><img src="../images/logo.png" width="250px" alt="NIWA Network" /></a>
+    <a href="/" title="NIWA Network"><img src="/images/logo.png" width="250px" alt="NIWA Network" /></a>
   </div>
 
   <?php include('_menu.php'); ?>
 
   <div id="content">
-  <!--[if lt IE 8]>
-  <div id="hey-listen">
-  Hey, you seem to be using an outdated web browser, update your browser for better compatability. <span style="font-size: 12px;"><a href="compatability.php">Click here for more information...</a></span>
-  </div>
-  <![endif]-->

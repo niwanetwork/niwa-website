@@ -1,5 +1,4 @@
-<?php 
-$topbar = 'off';
+<?php
 $title = 'Cross-Wiki Weekend 2017';
 include('_header.php');
 ?>
@@ -11,7 +10,7 @@ include('_header.php');
 	a.special:active {color: #B22222 !important;}
 </style>
 
-<div class="main">
+<div id="main">
 
 	<h1>Cross-Wiki Weekend 2017</h1>
 
@@ -22,9 +21,9 @@ include('_header.php');
 	<br><br>
 	At the end of the event, one random participant will win a <b>$20 Nintendo e-Shop Gift Card</b>! At the end of the event, submit your contributions using the button at the bottom of this page.
 	<br><br>
-	
+
 	<h1 id="Goals">Goals</h1>
-	
+
 	Why are we hosting this event? In addition to being a fun way of celebrating Nintendo's birthday, we hope this event...
 	<ul>
 		<li>...exposes editors to new wikis</li>
@@ -36,11 +35,11 @@ include('_header.php');
 	<div style="width: 100%; text-align: center;"><img src="/images/nintendo_characters.png" alt="Some of Nintendo's finest." width="400px"></div>
 
 	<br>
-	
+
 	<h1 id="Rules">Rules</h1>
-	
+
 	Before participating, please take a few moments to review these rules - especially if you want a shot at the prize!
-	
+
 	<ul>
 		<li>The event starts at 00:01 (UTC) on Friday, September 22, and runs until 23:59 (UTC) on Sunday, September 24.</li>
 		<li>To participate, contribute to at least one <a class="special" href="http://niwanetwork.org/members.php">NIWA wiki</a> that you have never (or rarely) contributed to.</li>
@@ -60,16 +59,16 @@ include('_header.php');
 		<li>Each wiki is a bit different! Become familiar with the differing guidelines, styling, and policies of each wiki. Reach out to each wiki's help resources if you have any questions.</li>
 		<li>At the end of the event, fill out and submit the participation form below by <b>September 30<sup>th</sup></b> for a chance to win the prize. Even if you don't want the prize, we appreciate you filling the form out for statistical purposes.</li>
 	</ul>
-	
+
 	<br>
-	
+
 	<h1 id="Editing Guide">Editing Guide</h1>
-	
+
 	Below is a list of participating wikis and links to to-do lists and guides.
 	Some wikis have created guides just for this event, which have been linked in bold.
 	If you're unsure of where to begin, you'll hopefully find these links useful!
 	Take a moment to familiarize yourself with each wiki's rules and customs before diving in.
-	
+
 	<br>
 
 	<table style="margin: 5px; width: 100%;">
@@ -111,11 +110,11 @@ include('_header.php');
 		</tr>
 	</table>
 
-	
+
 	<br>
 	<div style="text-align: center; width: 100%;"><i>WarsWiki and Pikmin Fanon are not participating this year.</i></div>
 	<br>
-	
+
 	<h1 id="Form">Form</h1>
 	<style>
 		.button {
@@ -145,13 +144,13 @@ include('_header.php');
 	The winner of the contest is determined by random draw.
 	Each person's contributions are rated on a scale of 1 to 5; the more substantial one's contributions, the greater the chance of winning.
 	Be sure to make some substantive edits for a better shot at the prize!
-	
+
 	<br><br>
 
 	While event organizers are free to participate, they are disallowed from entering the drawing and winning the prize.
 
 	<br><br>
-	
+
 	<h1 id="Conclusion">Conclusion</h1>
 	Thank you to everyone who participated! We received a total of 12 valid entries from editors both new and old. Participants from 6 NIWA wikis, as well as the outside public, contributed to 11 NIWA wikis, with contributions including article expansion, file uploads, template creation, and more.
 
@@ -182,20 +181,20 @@ include('_header.php');
 	</table>
 
 	Finally, the moment we've all been waiting for - the winner of the $20 eShop Gift Card was <b>Gabo 2oo</b> from Bulbapedia. Congratulations!
-	
+
 	<br><br>
-	
+
 	We look forward to hosting this event again next year!
-	
+
 	<br><br>
-	
+
 	<hr>
-	
+
 	<br>
-	
+
 	Event organized by <a class="special" href="https://nookipedia.com/wiki/User:SuperHamster">SuperHamster</a>, <a class="special" href="http://www.ssbwiki.com/User:Serpent_King">Serpent King</a>, <a class="special" href="http://www.pikminwiki.com/User:Espyo">Espyo</a>, and <a class="special" href="https://fireemblemwiki.org/wiki/User:Tacopill">tacopill</a>.
 	An extra thanks to everyone who contributed to the event with suggestions and guides.
-	
+
 	<br><br>
 
 	<span style="font-size: 70%;">
@@ -208,7 +207,7 @@ include('_header.php');
 
 </div>
 
-<?php 
+<?php
 include('_sidebar.php');
 include('_footer.php');
 ?>

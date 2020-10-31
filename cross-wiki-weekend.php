@@ -1,5 +1,4 @@
-<?php 
-$topbar = 'off';
+<?php
 $title = 'Cross-Wiki Weekend';
 include('_header.php');
 ?>
@@ -27,15 +26,15 @@ include('_header.php');
 	<h1>List of Events</h1>
 
 	<ul>
-		<li><a href="cross-wiki-weekend-2016.php">Cross-Wiki Weekend 2016</a> (Sep 23-25)</li>
-		<li><a href="cross-wiki-weekend-2017.php">Cross-Wiki Weekend 2017</a> (Sep 22-24)</li>
-		<li><a href="cross-wiki-weekend-2018.php">Cross-Wiki Weekend 2018</a> (Sep 21-23)</li>
-		<li><a href="cross-wiki-weekend-2018.php">Cross-Wiki Weekend 2019</a> (Sep 20-22)</li>
-		<li><a href="cross-wiki-weekend-2020.php">Cross-Wiki Weekend 2020</a> (Sep 18-21)</li>
+		<li><a href="/cross-wiki-weekend-2016.php">Cross-Wiki Weekend 2016</a> (Sep 23-25)</li>
+		<li><a href="/cross-wiki-weekend-2017.php">Cross-Wiki Weekend 2017</a> (Sep 22-24)</li>
+		<li><a href="/cross-wiki-weekend-2018.php">Cross-Wiki Weekend 2018</a> (Sep 21-23)</li>
+		<li><a href="/cross-wiki-weekend-2018.php">Cross-Wiki Weekend 2019</a> (Sep 20-22)</li>
+		<li><a href="/cross-wiki-weekend-2020.php">Cross-Wiki Weekend 2020</a> (Sep 18-21)</li>
 	</ul>
 
 	<h1>Goals</h1>
-	
+
 	In addition to being a fun way of celebrating Nintendo's birthday, we hope this event...
 	<ul>
 		<li>...exposes editors to new wikis</li>
@@ -45,7 +44,7 @@ include('_header.php');
 	</ul>
 </div>
 
-<?php 
+<?php
 include('_sidebar.php');
 include('_footer.php');
 ?>
