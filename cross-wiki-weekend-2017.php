@@ -129,7 +129,8 @@ include('_header.php');
 			display: inline-block;
 			font-size: 16px;
 		}
-	</style>
+	</style>
+
 	At the end of the event, please report your contributions by filling out the following form by <b>September 30<sup>th</sup></b>.
 	Filling out the form is also how you enter yourself for a chance to win the prize.
 	<br><br>

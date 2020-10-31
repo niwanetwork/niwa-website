@@ -2,17 +2,14 @@
 include('_header.php');
 ?>
 
-<div id="main">
-
-<div id="logos">
-
-<?php
- foreach($memberWikis->en as $wiki) {
-    echo "<a href='". $wiki->url ."'><img src='". $wiki->logo ."' alt='". $wiki->title ."' height='150' /></a>";
- }
-?>
-
-</div>
+<div class="main">
+   <div id="logos">
+      <?php
+      foreach ($memberWikis->en as $wiki) {
+         echo "<a href='" . $wiki->url . "'><img src='" . $wiki->logo . "' alt='" . $wiki->title . "' /></a>";
+      }
+      ?>
+   </div>
 </div>
 
 <?php

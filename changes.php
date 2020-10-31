@@ -3,7 +3,7 @@ $title = 'Recent Changes';
 include('_header.php');
 ?>
 
-<div id="main">
+<div class="main">
 <h1>Recent Changes</h1>
 
 <h1>July 8th</h1>
