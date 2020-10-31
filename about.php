@@ -1,5 +1,4 @@
-<?php 
-$topbar = 'off';
+<?php
 $title = 'About the Nintendo Independent Wiki Alliance';
 include('_header.php');
 ?>
@@ -44,8 +43,8 @@ include('_header.php');
 
 <ul>
 	<li>Fan communities should be run by the fans, by people whose involvement in the well-being of the community is of the emotional nature of the fan. They may be funded or hosted by them, but the actual operation of these communities should not be in the hands of those having only a purely financial investment, with no interest in the wiki's content itself.</li>
-    <li>Fan communities should be run for the fans, by people who will take a positive interest in the fans' desires, always thinking about how they can continue to enhance the enjoyment of everyone in the community.</li>
-    <li>Fan communities should be run together with the fans, embracing a spirit of co-operation and camaraderie in our fandoms, with friendly rivalries rather than bitter divides.</li>
+	<li>Fan communities should be run for the fans, by people who will take a positive interest in the fans' desires, always thinking about how they can continue to enhance the enjoyment of everyone in the community.</li>
+	<li>Fan communities should be run together with the fans, embracing a spirit of co-operation and camaraderie in our fandoms, with friendly rivalries rather than bitter divides.</li>
 </ul>
 
 <h1>Our Goals</h1>
@@ -62,7 +61,7 @@ include('_header.php');
 -->
 </div>
 
-<?php 
+<?php
 include('_sidebar.php');
 include('_footer.php');
 ?>

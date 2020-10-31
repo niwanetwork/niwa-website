@@ -1,5 +1,4 @@
-<?php 
-$topbar = 'off';
+<?php
 $title = 'Cross-Wiki Weekend 2016';
 include('_header.php');
 ?>
@@ -25,9 +24,9 @@ include('_header.php');
 	Visit our <a href="http://www.niwanetwork.org/forums/index.php?topic=1460.0">forum thread</a> to discuss the event with other editors.
 
 	<br><br>
-	
+
 	<h1>Goals</h1>
-	
+
 	Why are we hosting this event? In addition to being a fun way of celebrating Nintendo's birthday, we hope this event...
 	<ul>
 		<li>...exposes editors to new wikis</li>
@@ -39,11 +38,11 @@ include('_header.php');
 	<div style="width: 100%; text-align: center;"><img src="/images/nintendo_characters.png" alt="Some of Nintendo's finest." width="400px"></div>
 
 	<br>
-	
+
 	<h1>Rules</h1>
-	
+
 	Before participating, please take a few moments to review these rules - especially if you want a shot at the prize!
-	
+
 	<ul>
 		<li>The event starts at 00:01 (UTC) on Friday, September 23, and runs until 23:59 (UTC) on Sunday, September 25.</li>
 		<li>To participate, contribute to at least one <a class="special" href="http://niwanetwork.org/members.php">NIWA wiki</a> that you have never (or rarely) contributed to.</li>
@@ -61,15 +60,15 @@ include('_header.php');
 		<li>Each wiki is a bit different! Become familiar with the differing guidelines, styling, and policies of each wiki. Reach out to each wiki's help resources if you have any questions.</li>
 		<li>At the end of the event, fill out and submit the participation form below by <b>September 30<sup>th</sup></b> for a chance to win the prize. Even if you don't want the prize, we appreciate you filling the form out for statistical purposes.</li>
 	</ul>
-	
+
 	<br>
-	
+
 	<h1>Editing Guide</h1>
-	
+
 	We've compiled a list of information, guides, and ways to get started for all our NIWA wikis.
 	If you're unsure of where to begin, you'll hopefully find these links useful.
 	Take a moment to familiarize yourself with each wiki's rules and customs before diving in.
-	
+
 	<ul>
 		<li>Bulbapedia: <a href="http://bulbapedia.bulbagarden.net/wiki/Help:Contents">Help Desk</a></li>
 		<li>Donkey Kong Wiki: <a href="http://www.dkwiki.com/DKWiki:Community_Portal">Community Portal</a></li>
@@ -94,9 +93,9 @@ include('_header.php');
 		<li>Wikirby: <a href="http://wikirby.com/wiki/Help:Contents">Contents</a></li>
 		<li>Zelda Wiki: <a href="http://www.zeldawiki.org/Help:Contents">Help Guide</a> - <a href="http://www.zeldawiki.org/Zelda_Wiki:Getting_Involved">Getting Involved</a></li>
 	</ul>
-	
+
 	<br>
-	
+
 	<h1>Form</h1>
 	<style>
 		.button {
@@ -125,7 +124,7 @@ include('_header.php');
 	The winner of the contest is determined by random draw.
 	Editors who make non-minor and quality contributions to a wiki receive two entries into the drawing, while participants who make minor contributions receive one.
 	Be sure to make some substantive edits for a greater chance of winning!
-	
+
 	<br><br>
 
 	While event organizers are free to participate, they are disallowed from entering the drawing and winning the prize.
@@ -164,19 +163,19 @@ include('_header.php');
 	</table>
 
 	Finally, the moment we've all been waiting for - the winner of the $20 eShop Gift Card was <b>Glowsquid</b> from Super Mario Wiki. Congratulations!
-	
+
 	<br><br>
-	
+
 	We look forward to hosting this event again next year!
-	
+
 	<br><br>
-	
+
 	<hr>
-	
+
 	<br>
-	
+
 	Event organized by <a class="special" href="https://nookipedia.com/wiki/User:SuperHamster">SuperHamster</a>, <a class="special" href="http://www.ssbwiki.com/User:Serpent_King">Serpent King</a>, and <a class="special" href="http://www.pikminwiki.com/User:Espyo">Espyo</a>.
-	
+
 	<br><br>
 
 	<span style="font-size: 70%;">
@@ -189,7 +188,7 @@ include('_header.php');
 
 </div>
 
-<?php 
+<?php
 include('_sidebar.php');
 include('_footer.php');
 ?>
