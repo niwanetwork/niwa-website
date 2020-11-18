@@ -28,7 +28,7 @@
       "logo": "/images/logos/dragonquestwiki.png",
       "icon": "/images/icons/dragonquestwiki.png",
       "url": "https://dragon-quest.org/wiki/Main_Page",
-      "forums": "http://www.woodus.com/forums/index.php?showforum=88"
+      "forums": "https://www.woodus.com/forums/forum/88-dragon-quest-wiki/"
     },
     "fewiki": {
       "title": "Fire Emblem Wiki",
@@ -198,7 +198,6 @@
       "logo": "/images/logos/warswiki.png",
       "icon": "/images/icons/warswiki.png",
       "url": "https://www.warswiki.org/wiki/Main_Page",
-      "forums": "http://www.forums.warscentral.com/",
       "discord": "https://discord.gg/pYghWh3"
     },
     "wikibound": {
@@ -215,9 +214,9 @@
       "description": "WiKirby. It's a wiki. About Kirby! Amongst the excitement of NIWA being founded, Josh LeJeune decided to create a Kirby Wiki, due to lack of a strong independent one online. Coming online on Janury 24th, 2010, WiKirby continues its strong launch with a dedicated community and a daily growing source of Kirby based knowledge.",
       "logo": "/images/logos/wikirby.png",
       "icon": "/images/icons/wikirby.png",
-      "url": "https://wikirby.com/wiki/Main_Page",
+      "url": "https://wikirby.com/wiki/Kirby_Wiki",
       "forums": "http://www.niwanetwork.org/forums/index.php?board=13.0",
-      "facebook": "http://facebook.com/wikirby",
+      "facebook": "https://facebook.com/wikirby",
       "discord": "https://discord.gg/4y9BPyj"
     },
     "zeldawiki": {
