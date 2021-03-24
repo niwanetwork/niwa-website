@@ -1,6 +1,9 @@
 # niwa-website
 These are the files for the NIWA website (http://niwanetwork.org/), a PHP project. The purpose of this repository is to make it easy for all NIWA members to contribute and update information.
 
+## Dependencies
+This website requires [Parsedown](https://github.com/erusev/parsedown) to be placed in a file called `_parsedown.php` in the website root.
+
 ## Contributing
 The files most users will be concerned about are:
 * `members.json`, which holds all member information (logos, links, names, descriptions)  
