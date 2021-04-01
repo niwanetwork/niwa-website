@@ -48,7 +48,7 @@ include('_header.php');
 
 	<br /><img src="/images/edit-by-pigeon/brewster.png" alt="Brewster the pigeon from Animal Crossing" style="float: right; width: 80px;">
 	<p><b><a href="https://nookipedia.com/wiki/Brewster">Brewster</a></b> from <b><a href="https://nookipedia.com/wiki/Main_Page">Nookipedia</a></b></p>
-	<p>Seeing that he wasn't invited to all the festivities on the tropical islands last year, Brewster has decided to retire from the coffee business and pursue his backup dream of delivering letters. Word on the street is that Pete is not to see new competition.</p>
+	<p>Seeing that he wasn't invited to all the festivities on the tropical islands last year, Brewster has decided to retire from the coffee business and pursue his backup dream of delivering letters. Word on the street is that Pete is not too happy to see new competition.</p>
 
 	<div style="clear: both; padding: 10px 0px;"></div>
 
