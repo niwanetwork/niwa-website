@@ -70,13 +70,13 @@ include('_header.php');
 
 	<div style="clear: both; padding: 10px 0px;"></div>
 
-	<br /><img src="/images/edit-by-pigeon/nopon.png" alt="Yamamura the pigeon from Super Mario Maker" style="float: right; width: 100px;">
+	<br /><img src="/images/edit-by-pigeon/nopon.png" alt="Nopons from the Xenoblade Chronicles series" style="float: right; width: 100px;">
 	<p><b><a href="https://www.xenoserieswiki.org/wiki/Nopon">Nopon Postal Guild</a></b> from <b><a href="https://www.xenoserieswiki.org/wiki/Main_Page">Xeno Series Wiki</a></b></p>
 	<p>Nopon Postal Guild have untold years experience with deliver messages, letters, parcels, and all other mail across all titans. No matter sender, no matter destination, no even matter if sender supposed to be secret from destination - postmasterpon Lelurelu do personal guarantee that mail get delivered, or he do it himself! (Ignore complaints of slow service. They always false and invented by rivals. Always!)</p>
 
 	<div style="clear: both; padding: 10px 0px;"></div>
 
-	<br /><img src="/images/edit-by-pigeon/crow.png" alt="Yamamura the pigeon from Super Mario Maker" style="float: right; width: 100px;">
+	<br /><img src="/images/edit-by-pigeon/crow.png" alt="Crow, a blue bird from EarthBound Beginnings" style="float: right; width: 100px;">
 	<p><b><a href="https://wikibound.info/wiki/Crow">Crow</a></b> from <b><a href="https://wikibound.info/wiki/WikiBound">WikiBound</a></b></p>
 	<p>To give you the most accurate experience of dealing with the real life postal service, we bring you the Crow. Complete with a crippling tobacco addiction, lots of spite, and a high chance of robbery, Crow sure will provide an experience you will not soon forget. Crow is second to none in reliability, as in it is literally better than nothing. But not by much. This delivery method is awful, and it smells very bad.</p>
 
