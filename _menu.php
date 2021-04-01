@@ -10,10 +10,9 @@
             <li><a href="/">Home</a></li>
             <li><a href="/about">About</a></li>
             <li><a href="/members">Members</a></li>
+            <li><a href="/forums/index.php">Edit-by-Pigeon</a></li>
             <li><a href="/contact">Contact</a></li>
-            <li><a href="/forums/index.php">Forums</a></li>
             <li><a href="/join">Join Us</a></li>
-            <li><a href="/cross-wiki-weekend-2020">Cross-Wiki Weekend 2020</a></li>
             <li><a href="/rarticle">Random Article</a></li>
         </ul>
         <ul class="socialNav">
