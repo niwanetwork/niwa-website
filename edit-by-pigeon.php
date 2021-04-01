@@ -35,7 +35,7 @@ include('_header.php');
 	<div style="clear: both; padding: 10px 0px;"></div>
 
 	<br /><img src="/images/edit-by-pigeon/syren.png" alt="Syren the harpy-like enemy from Kid Icarus" style="float: right; width: 100px;">
-	<p><b><a href="https://www.kidicaruswiki.org/wiki/Syren">Syren Mail System</a></b> from <b><a href="https://www.kidicaruswiki.org/wiki/Main_Page">Kid Icarus Wiki</a></b></p>
+	<p><b><a href="https://www.kidicaruswiki.org/wiki/Syren">Syren Mail System</a></b> from <b><a href="https://www.kidicaruswiki.org/wiki/Main_Page">Icaruspedia</a></b></p>
 	<p>For all your Underworldly postal services, the Syren Mail System will personally deliver any letters or packages directly to you. Just be sure to pay the handling fee, your mail may be delivered with unintentional and irreparable talon damage. Syren may deliver underdressed.</p>
 
 	<div style="clear: both; padding: 10px 0px;"></div>
