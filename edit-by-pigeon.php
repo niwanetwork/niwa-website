@@ -52,6 +52,12 @@ include('_header.php');
 
 	<div style="clear: both; padding: 10px 0px;"></div>
 
+	<br /><img src="/images/edit-by-pigeon/snagret.png" alt="The Burrowing Snagret, a combination of a bird and a snake from the Pikmin series" style="float: right; width: 100px;">
+	<p><b><a href="https://www.pikminwiki.com/Burrowing_Snagret">Burrowing Snagret</a></b> from <b><a href="https://www.pikminwiki.com/">Pikipedia</a></b></p>
+	<p>Why fly...when you can burrow? This underground dweller will dig and wind its way through underground tunnels to take your edits straight to Pikipedia.</p>
+
+	<div style="clear: both; padding: 10px 0px;"></div>
+
 	<br /><img src="/images/edit-by-pigeon/dedede.png" alt="King Dedede from Kirby" style="float: right; width: 125px;">
 	<p><b><a href="https://www.ssbwiki.com/King_Dedede">King Dedede</a></b> from <b><span style="text-decoration: line-through;">SmashWiki</span> <a href="https://www.ssbwiki.com/">Dedede Wikiki</a></b></p>
 	<p>Tha's right! The King ain't just a purty face, he's ready to brave them elephants an' carry y'alls mail fer the improvematin' of this here wikiki! "But he's just one King", I hear y'all sayin'. What, y'don't believe in Santa Claus neither? An' unlike him I ain't doin' this fer jus' one night! Now write them edits an’ call me up!</p>
