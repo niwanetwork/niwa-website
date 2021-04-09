@@ -6,41 +6,15 @@ include('_header.php');
 <div class="main">
 	<h1>Contact Us</h1>
 
+	<p>
+		You may use this form to contact the current Coordinator of NIWA for discussion about the organization, including membership and affiliation applications.
+		If you would like to reach out to a specific member wiki, please visit that wiki's website to find their contact information. You may also join our <a href="https://discord.gg/59Mq6qB">Discord server</a> to chat with members of the community.
+	</p>
 	<form method="post" action="/mail.php">
 		<p class="form">Name:</p>
 		<input type="text" name="name" class="contact" />
 		<p class="form">E-mail Address:</p>
 		<input type="text" name="email" class="contact" />
-		<p class="form">Point of Contact:</p>
-		<select size="1" name="contact" class="contact">
-			<option></option>
-			<!-- E-mails are stored in mail.php, to remove them from the html source -->
-			<option value="coordinator">NIWA Coordinator</option>
-			<option value="armswiki">ARMS Institute</option>
-			<option value="bulbapedia">Bulbapedia</option>
-			<option value="dqwiki">Dragon Quest Wiki</option>
-			<option value="fewiki">Fire Emblem Wiki</option>
-			<option value="fzerowiki">F-Zero Wiki</option>
-			<option value="goldensun">Golden Sun Universe</option>
-			<option value="harddrop">Hard Drop Tetris Wiki</option>
-			<option value="icaruspedia">Icaruspedia</option>
-			<option value="inkipedia">Inkipedia</option>
-			<option value="lylatwiki">Lylat Wiki</option>
-			<option value="metroidwiki">Metroid Wiki</option>
-			<option value="nintendowiki">Nintendo Wiki</option>
-			<option value="nookipedia">Nookipedia</option>
-			<option value="pikipedia">Pikipedia</option>
-			<option value="pikminfanon">Pikmin Fanon</option>
-			<option value="smashwiki">SmashWiki</option>
-			<option value="starfywiki">Starfy Wiki</option>
-			<option value="strategywiki">StrategyWiki</option>
-			<option value="supermariowiki">Super Mario Wiki</option>
-			<option value="wikibound">WikiBound</option>
-			<option value="wikirby">WiKirby</option>
-			<option value="warswiki">Wars Wiki</option>
-			<option value="zeldawiki">Zelda Wiki</option>
-		</select>
-		<input type="test" name="title" class="hidden" />
 		<p class="form">Subject:</p>
 		<input type="text" name="subject" class="contact" />
 		<p class="form">Message:</p>
