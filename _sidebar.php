@@ -25,6 +25,7 @@
         <li><a href="http://bulbagarden.net" title="The Original Pokemon Community" target="_blank">Bulbagarden</a></li>
         <li><a href="http://doomwiki.org/wiki/Entryway" title="The Doom Wiki at DoomWiki.org" target="_blank">Doom Wiki</a></li>
         <li><a href="https://www.halopedia.org/" title="The Halo encyclopedia and definitive source for Halo information that anyone can edit." target="_blank">Halopedia</a></li>
+        <li><a href="https://jojowiki.com/JoJo_Wiki" title="JoJo's Bizarre Encyclopedia" target="_blank">JoJo's Bizarre Encyclopedia</a></li>
         <li><a href="https://www.khwiki.com/" title="Kingdom Hearts Wiki" target="_blank">Kingdom Hearts Wiki</a></li>
         <li><a href="http://seiwanetwork.org/" title="Square Enix Independent Wiki Alliance" target="_blank">SEIWA</a></li>
         <li><a href="http://wikifang.meowcorp.us/wiki/Wikifang" title="Wikifang" target="_blank">Wikifang</a></li>
