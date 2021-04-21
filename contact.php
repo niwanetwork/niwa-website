@@ -19,6 +19,9 @@ include('_header.php');
 		<input type="text" name="subject" class="contact" />
 		<p class="form">Message:</p>
 		<textarea rows="20" name="message" class="message"></textarea>
+		<p class="form">What does the "N" in NIWA stand for?:</p>
+		<input type="text" name="captcha" class="contact" />
+		<br/><br/>
 		<input type="submit" value="Submit" name="submit" class="submit" />
 	</form>
 
