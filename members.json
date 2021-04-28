@@ -30,6 +30,15 @@
       "url": "https://dragon-quest.org/wiki/Main_Page",
       "forums": "https://www.woodus.com/forums/forum/88-dragon-quest-wiki/"
     },
+    "dragalialost": {
+      "title": "Dragalia Lost Wiki",
+      "description": "The Dragalia Lost Wiki was originally founded in September 2018 on the Gamepedia platform but went independent in January 2021. The Wiki aims to document anything and everything Dragalia Lost - from in-game data, mechanics, story, guides, and more!",
+      "logo": "/images/logos/dragalialost.png",
+      "icon": "/images/icons/dragalialost.png",
+      "url": "https://dragalialost.wiki/w/Dragalia_Lost_Wiki",
+      "twitter": "https://twitter.com/dragaliawiki",
+      "discord": "https://discord.gg/dragalialost"
+    },
     "fewiki": {
       "title": "Fire Emblem Wiki",
       "description": "Growing since August 26th, 2010, Fire Emblem Wiki is a relatively new project whose goal is to cover all information pertaining to the Fire Emblem series. Although it is still small, it aspires to become the most complete and accurate independent source of information on this series.",
