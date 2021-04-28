@@ -22,14 +22,6 @@
       "facebook": "https://www.facebook.com/Bulbapedia",
       "discord": "https://discord.gg/bulbagarden"
     },
-    "dqwiki": {
-      "title": "Dragon Quest Wiki",
-      "description": "Originally founded on Wikia, the Dragon Quest Wiki was largely inactive until FlyingRagnar became an admin in late 2009.  The wiki went independent about a year later when it merged with the Dragon Quest Dictionary/Encyclopedia which was run by Zenithian and supported by the Dragon's Den.  The Dragon Quest Wiki aims to be the most complete resource for Dragon Quest information on the web.  It continues to grow in the hope that one day the series will be as popular in the rest of the world as it is in Japan.",
-      "logo": "/images/logos/dragonquestwiki.png",
-      "icon": "/images/icons/dragonquestwiki.png",
-      "url": "https://dragon-quest.org/wiki/Main_Page",
-      "forums": "https://www.woodus.com/forums/forum/88-dragon-quest-wiki/"
-    },
     "dragalialost": {
       "title": "Dragalia Lost Wiki",
       "description": "The Dragalia Lost Wiki was originally founded in September 2018 on the Gamepedia platform but went independent in January 2021. The Wiki aims to document anything and everything Dragalia Lost - from in-game data, mechanics, story, guides, and more!",
@@ -38,6 +30,14 @@
       "url": "https://dragalialost.wiki/w/Dragalia_Lost_Wiki",
       "twitter": "https://twitter.com/dragaliawiki",
       "discord": "https://discord.gg/dragalialost"
+    },
+    "dqwiki": {
+      "title": "Dragon Quest Wiki",
+      "description": "Originally founded on Wikia, the Dragon Quest Wiki was largely inactive until FlyingRagnar became an admin in late 2009.  The wiki went independent about a year later when it merged with the Dragon Quest Dictionary/Encyclopedia which was run by Zenithian and supported by the Dragon's Den.  The Dragon Quest Wiki aims to be the most complete resource for Dragon Quest information on the web.  It continues to grow in the hope that one day the series will be as popular in the rest of the world as it is in Japan.",
+      "logo": "/images/logos/dragonquestwiki.png",
+      "icon": "/images/icons/dragonquestwiki.png",
+      "url": "https://dragon-quest.org/wiki/Main_Page",
+      "forums": "https://www.woodus.com/forums/forum/88-dragon-quest-wiki/"
     },
     "fewiki": {
       "title": "Fire Emblem Wiki",
