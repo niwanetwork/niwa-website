@@ -22,16 +22,17 @@
     <div class="title">Affiliates</div>
     <div class="post" style="text-align: right; display: block;">
       <ul>
-        <li><a href="http://bulbagarden.net" title="The Original Pokemon Community" target="_blank">Bulbagarden</a></li>
-        <li><a href="http://doomwiki.org/wiki/Entryway" title="The Doom Wiki at DoomWiki.org" target="_blank">Doom Wiki</a></li>
-        <li><a href="https://www.halopedia.org/" title="The Halo encyclopedia and definitive source for Halo information that anyone can edit." target="_blank">Halopedia</a></li>
-        <li><a href="https://jojowiki.com/JoJo_Wiki" title="JoJo's Bizarre Encyclopedia" target="_blank">JoJo's Bizarre Encyclopedia</a></li>
-        <li><a href="https://www.khwiki.com/" title="Kingdom Hearts Wiki" target="_blank">Kingdom Hearts Wiki</a></li>
-        <li><a href="http://seiwanetwork.org/" title="Square Enix Independent Wiki Alliance" target="_blank">SEIWA</a></li>
-        <li><a href="http://wikifang.meowcorp.us/wiki/Wikifang" title="Wikifang" target="_blank">Wikifang</a></li>
-        <li><a href="http://wikimon.net/" title="Wikimon" target="_blank">Wikimon</a></li>
-        <li><a href="http://simpsonswiki.com" title="The Simpsons encycopedia that anyone can edit" target="_blank">Wikisimpsons</a></li>
-        <li><a href="http://jaytheham.com/zcw/Main_Page" title="Zelda Chaos" target="_blank">Zelda Chaos</a></li>
+        <?php
+          $affiliates = getAffiliates();
+          foreach ($affiliates as $affiliate) {
+            echo "
+            <li>
+              <a href=\"{$affiliate->url}\" title=\"{$affiliate->title}\" target=\"_blank\">
+                {$affiliate->name}
+              </a>
+            </li>";
+          }
+        ?>
       </ul>
     </div>
   </div>
