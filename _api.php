@@ -7,7 +7,7 @@
 
 // Pull member wiki info form json and store as memberWikis 
 // Can iterate and access properties like a php object.
-$memberWikis = json_decode(file_get_contents("members.json"));
+$memberWikis = json_decode(file_get_contents("data/members.json"));
 
 
 /* Generates the html string for Links with error checking for wikis that do not have
@@ -43,4 +43,14 @@ function generateLinks($wiki)
 	};
 
 	return $links;
+}
+
+
+/**
+ * Return the affiliates array
+ */
+function getAffiliates()
+{
+	$affiliates = json_decode(file_get_contents("data/affiliates.json"));
+	return $affiliates;
 }
