@@ -27,7 +27,7 @@
           foreach ($affiliates as $affiliate) {
             echo "
             <li>
-              <a href={$affiliate->url} title={$affiliate->title} target=\"_blank\">
+              <a href=\"{$affiliate->url}\" title=\"{$affiliate->title}\" target=\"_blank\">
                 {$affiliate->name}
               </a>
             </li>";
