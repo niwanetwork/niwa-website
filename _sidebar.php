@@ -25,7 +25,8 @@
         <?php
           $affiliates = getAffiliates();
           foreach ($affiliates as $affiliate) {
-            echo "<li>
+            echo "
+            <li>
               <a href={$affiliate->url} title={$affiliate->title} target=\"_blank\">
                 {$affiliate->name}
               </a>
