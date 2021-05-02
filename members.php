@@ -72,13 +72,19 @@ THE SOFTWARE IS PROVIDED 'AS IS', WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLI
 
     <section id='content1'>
         <?php
-        foreach ($memberWikis->en as $wiki) {
+        foreach ($dataHelper->getENMemberWikis() as $wiki) {
             echo "
             <div class='member'>
-                <div class='logo'><a href='" . $wiki->url . "'><img src='" . $wiki->logo . "' alt='" . $wiki->title . "' /></a></div>
+                <div class='logo'>
+                    <a href='{$wiki->url}'>
+                        <img src='{$wiki->logo}' alt='{$wiki->title}' />
+                    </a>
+                </div>
                 <div class='description'>
-                    <div class='links'>" . generateLinks($wiki) . "</div>
-                    <p>" . $wiki->description . "</p>
+                    <div class='links'>
+                        {$dataHelper->generateMemberWikiLinks($wiki)}
+                    </div>
+                    <p>{$wiki->description}</p>
                 </div>
             </div>
             ";
@@ -87,13 +93,19 @@ THE SOFTWARE IS PROVIDED 'AS IS', WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLI
     </section>
     <section id='content2'>
         <?php
-        foreach ($memberWikis->de as $wiki) {
+        foreach ($dataHelper->getDEMemberWikis() as $wiki) {
             echo "
             <div class='member'>
-                <div class='logo'><a href='" . $wiki->url . "'><img src='" . $wiki->logo . "' alt='" . $wiki->title . "' /></a></div>
+                <div class='logo'>
+                    <a href='{$wiki->url}'>
+                        <img src='{$wiki->logo}' alt='{$wiki->title}' />
+                    </a>
+                </div>
                 <div class='description'>
-                    <div class='links'>" . generateLinks($wiki) . "</div>
-                    <p>" . $wiki->description . "</p>
+                    <div class='links'>
+                        {$dataHelper->generateMemberWikiLinks($wiki)}
+                    </div>
+                    <p>{$wiki->description}</p>
                 </div>
             </div>
             ";
@@ -105,13 +117,19 @@ THE SOFTWARE IS PROVIDED 'AS IS', WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLI
         <br><br>
 
         <?php
-        foreach ($memberWikis->it as $wiki) {
+        foreach ($dataHelper->getITMemberWikis() as $wiki) {
             echo "
             <div class='member'>
-                <div class='logo'><a href='" . $wiki->url . "'><img src='" . $wiki->logo . "' alt='" . $wiki->title . "' /></a></div>
+                <div class='logo'>
+                    <a href='{$wiki->url}'>
+                        <img src='{$wiki->logo}' alt='{$wiki->title}' />
+                    </a>
+                </div>
                 <div class='description'>
-                    <div class='links'>" . generateLinks($wiki) . "</div>
-                    <p>" . $wiki->description . "</p>
+                    <div class='links'>
+                        {$dataHelper->generateMemberWikiLinks($wiki)}
+                    </div>
+                    <p>{$wiki->description}</p>
                 </div>
             </div>
             ";

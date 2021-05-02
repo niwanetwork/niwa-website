@@ -1,56 +1,109 @@
 <?php
-
-/* This file pulls in member data from the json file 
+/* This file pulls in member/affiliate data from the json files
  * and defines helper functions that may be used
  * throughout the website
  */
 
-// Pull member wiki info form json and store as memberWikis 
-// Can iterate and access properties like a php object.
-$memberWikis = json_decode(file_get_contents("data/members.json"));
-
-
-/* Generates the html string for Links with error checking for wikis that do not have
- * one of the options.
- *
- * Requires a individual wiki array from the api.
- */
-function generateLinks($wiki)
+class NiwaDataHelper
 {
-	// Always render a link to the wiki homepage
-	$links = "<a href='" . $wiki->url . "'>" . $wiki->title . "</a> ";
+	/**
+	 * JSON object of member wikis
+	 */
+	protected $memberWikis;
 
-	if (isset($wiki->site)) {
-		$links .= "<a href='" . $wiki->site . "'>" . $wiki->siteName . "</a>";
-	};
-	if (isset($wiki->forums)) {
-		$links .= "<a href='" . $wiki->forums . "'>Forums</a>";
-	};
-	if (isset($wiki->chat)) {
-		$links .= "<a href='" . $wiki->chat . "'>Chat</a>";
-	};
-	if (isset($wiki->discord)) {
-		$links .= "<a href='" . $wiki->discord . "'>Discord</a>";
-	};
-	if (isset($wiki->twitter)) {
-		$links .= "<a href='" . $wiki->twitter . "'>Twitter</a>";
-	};
-	if (isset($wiki->twitch)) {
-		$links .= "<a href='" . $wiki->twitch . "'>Twitch</a>";
-	};
-	if (isset($wiki->facebook)) {
-		$links .= "<a href='" . $wiki->facebook . "'>Facebook</a>";
-	};
+	/**
+	 * JSON object of affiliate wikis
+	 */
+	protected $affiliates;
 
-	return $links;
-}
+	function __construct()
+	{
+		$this->memberWikis = json_decode(
+			file_get_contents("data/members.json")
+		);
+		$this->affiliates = json_decode(
+			file_get_contents("data/affiliates.json")
+		);
+	}
 
+	/**
+	 * Return the member wikis
+	 */
+	public function getMemberWikis()
+	{
+		return $this->memberWikis;
+	}
 
-/**
- * Return the affiliates array
- */
-function getAffiliates()
-{
-	$affiliates = json_decode(file_get_contents("data/affiliates.json"));
-	return $affiliates;
+	/**
+	 * Return the English member wikis
+	 */
+	public function getENMemberWikis()
+	{
+		return $this->memberWikis->en;
+	}
+
+	/**
+	 * Return the Italian member wikis
+	 */
+	public function getITMemberWikis()
+	{
+		return $this->memberWikis->it;
+	}
+
+	/**
+	 * Return the German member wikis
+	 */
+	public function getDEMemberWikis()
+	{
+		return $this->memberWikis->de;
+	}
+
+	protected function generateMemberWikiLink($url, $text)
+	{
+		return "<a class='member-wiki-link' href='{$url}'>{$text}</a>";
+	}
+
+	/**
+	 * Generates the html string for Links with error checking for wikis that do not have
+	 * one of the options.
+	 *
+	 * Requires a individual wiki array from the api.
+	 */
+	public function generateMemberWikiLinks($wiki)
+	{
+		// Always render a link to the wiki homepage
+		$links = $this->generateMemberWikiLink($wiki->url, $wiki->title);
+
+		if (isset($wiki->site)) {
+			$links .= $this->generateMemberWikiLink($wiki->site, $wiki->siteName);
+		};
+		if (isset($wiki->forums)) {
+			$links .= $this->generateMemberWikiLink($wiki->forums, "Forums");
+		};
+		if (isset($wiki->chat)) {
+			$links .= $this->generateMemberWikiLink($wiki->chat, "Chat");
+		};
+		if (isset($wiki->discord)) {
+			$links .= $this->generateMemberWikiLink($wiki->discord, "Discord");
+		};
+		if (isset($wiki->twitter)) {
+			$links .= $this->generateMemberWikiLink($wiki->twitter, "Twitter");
+		};
+		if (isset($wiki->twitch)) {
+			$links .= $this->generateMemberWikiLink($wiki->twitch, "Twitch");
+		};
+		if (isset($wiki->facebook)) {
+			$links .= $this->generateMemberWikiLink($wiki->facebook, "Facebook");
+		};
+
+		return $links;
+	}
+
+	/**
+	 * Return the affiliates
+	 */
+	public function getAffiliates()
+	{
+		return $this->affiliates;
+	}
 }

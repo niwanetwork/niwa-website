@@ -1,8 +1,9 @@
 <?php
 include('_api.php');
 
+$dataHelper = new NiwaDataHelper();
 $randomUrls = [];
-foreach ($memberWikis->en as $wiki) {
+foreach ($dataHelper->getENMemberWikis() as $wiki) {
     if ($wiki->baseurl) {
         $randomUrls[] = $wiki->baseurl . 'Special:Random';
     }
