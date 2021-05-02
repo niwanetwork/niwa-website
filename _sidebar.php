@@ -23,14 +23,14 @@
     <div class="post" style="text-align: right; display: block;">
       <ul>
         <?php
-          $affiliates = getAffiliates();
-          foreach ($affiliates as $affiliate) {
+          foreach ($dataHelper->getAffiliates() as $affiliate) {
             echo "
-            <li>
-              <a href=\"{$affiliate->url}\" title=\"{$affiliate->title}\" target=\"_blank\">
-                {$affiliate->name}
-              </a>
-            </li>";
+              <li>
+                <a href=\"{$affiliate->url}\" title=\"{$affiliate->title}\" target=\"_blank\">
+                  {$affiliate->name}
+                </a>
+              </li>
+            ";
           }
         ?>
       </ul>
