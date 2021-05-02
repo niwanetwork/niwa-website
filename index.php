@@ -5,7 +5,7 @@ include('_header.php');
 <div class="main">
    <div id="logos">
       <?php
-      foreach ($dataHelper->getENMemberWikis() as $wiki) {
+      foreach ($dataHelper->getMemberWikis('en') as $wiki) {
          echo "
             <a href='{$wiki->url}'>
                <img src='{$wiki->logo}' alt='{$wiki->title}' />

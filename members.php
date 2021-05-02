@@ -72,7 +72,7 @@ THE SOFTWARE IS PROVIDED 'AS IS', WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLI
 
     <section id='content1'>
         <?php
-        foreach ($dataHelper->getENMemberWikis() as $wiki) {
+        foreach ($dataHelper->getMemberWikis('en') as $wiki) {
             echo "
             <div class='member'>
                 <div class='logo'>
@@ -93,7 +93,7 @@ THE SOFTWARE IS PROVIDED 'AS IS', WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLI
     </section>
     <section id='content2'>
         <?php
-        foreach ($dataHelper->getDEMemberWikis() as $wiki) {
+        foreach ($dataHelper->getMemberWikis('de') as $wiki) {
             echo "
             <div class='member'>
                 <div class='logo'>
@@ -117,7 +117,7 @@ THE SOFTWARE IS PROVIDED 'AS IS', WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLI
         <br><br>
 
         <?php
-        foreach ($dataHelper->getITMemberWikis() as $wiki) {
+        foreach ($dataHelper->getMemberWikis('it') as $wiki) {
             echo "
             <div class='member'>
                 <div class='logo'>

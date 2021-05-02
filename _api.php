@@ -1,18 +1,22 @@
 <?php
-/* This file pulls in member/affiliate data from the json files
- * and defines helper functions that may be used
- * throughout the website
+/**
+ * This file pulls in member/affiliate data from the json files
+ * and defines helper functions that may be used throughout the website
  */
 
 class NiwaDataHelper
 {
 	/**
 	 * JSON object of member wikis
+	 * 
+	 * @var object
 	 */
 	protected $memberWikis;
 
 	/**
 	 * JSON object of affiliate wikis
+	 * 
+	 * @var object
 	 */
 	protected $affiliates;
 
@@ -27,37 +31,27 @@ class NiwaDataHelper
 	}
 
 	/**
-	 * Return the member wikis
+	 * Return all member wikis or if language code given,
+	 * all wikis for that language code.
+	 * 
+	 * @param string $languageCode
+	 * @return object
 	 */
-	public function getMemberWikis()
+	public function getMemberWikis($languageCode = null)
 	{
+		if ($languageCode) {
+			return $this->memberWikis->{$languageCode};
+		}
 		return $this->memberWikis;
 	}
 
 	/**
-	 * Return the English member wikis
+	 * Generates a link for the wiki member list
+	 * 
+	 * @param string $url The anchor tag href
+	 * @param string $text The anchor tag display text
+	 * @return string
 	 */
-	public function getENMemberWikis()
-	{
-		return $this->memberWikis->en;
-	}
-
-	/**
-	 * Return the Italian member wikis
-	 */
-	public function getITMemberWikis()
-	{
-		return $this->memberWikis->it;
-	}
-
-	/**
-	 * Return the German member wikis
-	 */
-	public function getDEMemberWikis()
-	{
-		return $this->memberWikis->de;
-	}
-
 	protected function generateMemberWikiLink($url, $text)
 	{
 		return "<a class='member-wiki-link' href='{$url}'>{$text}</a>";
@@ -68,6 +62,9 @@ class NiwaDataHelper
 	 * one of the options.
 	 *
 	 * Requires a individual wiki array from the api.
+	 * 
+	 * @param object $wiki
+	 * @return string $links
 	 */
 	public function generateMemberWikiLinks($wiki)
 	{
@@ -101,6 +98,8 @@ class NiwaDataHelper
 
 	/**
 	 * Return the affiliates
+	 * 
+	 * @return object
 	 */
 	public function getAffiliates()
 	{
