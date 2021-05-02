@@ -1,11 +1,11 @@
 <?php
 
-/* This file pulls in member data from the json file 
+/* This file pulls in member data from the json file
  * and defines helper functions that may be used
  * throughout the website
  */
 
-// Pull member wiki info form json and store as memberWikis 
+// Pull member wiki info form json and store as memberWikis
 // Can iterate and access properties like a php object.
 $memberWikis = json_decode(file_get_contents("data/members.json"));
 
@@ -18,7 +18,7 @@ $memberWikis = json_decode(file_get_contents("data/members.json"));
 function generateLinks($wiki)
 {
 	// Always render a link to the wiki homepage
-	$links = "<a href='" . $wiki->url . "'>" . $wiki->title . "</a> ";
+	$links = "<a href='" . str_replace( '$1', $wiki->mainpage, $wiki->url ) . "'>" . $wiki->title . "</a> ";
 
 	if (isset($wiki->site)) {
 		$links .= "<a href='" . $wiki->site . "'>" . $wiki->siteName . "</a>";
