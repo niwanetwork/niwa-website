@@ -69,7 +69,7 @@ class NiwaDataHelper
 	public function generateMemberWikiLinks($wiki)
 	{
 		// Always render a link to the wiki homepage
-		$links = $this->generateMemberWikiLink($wiki->url, $wiki->title);
+		$links = $this->generateMemberWikiLink(str_replace( '$1', $wiki->mainpage, $wiki->url ), $wiki->title);
 
 		if (isset($wiki->site)) {
 			$links .= $this->generateMemberWikiLink($wiki->site, $wiki->siteName);
