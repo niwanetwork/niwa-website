@@ -5,7 +5,7 @@ $dataHelper = new NiwaDataHelper();
 $randomUrls = [];
 foreach ($dataHelper->getMemberWikis('en') as $wiki) {
     if ($wiki->baseurl) {
-        $randomUrls[] = $wiki->baseurl . 'Special:Random';
+        $randomUrls[] = str_replace( '$1', 'Special:Random', $wiki->url );
     }
 }
 $random = rand(0, count($randomUrls));
