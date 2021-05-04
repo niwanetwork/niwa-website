@@ -7,7 +7,7 @@ include('_header.php');
       <?php
       foreach ($dataHelper->getMemberWikis('en') as $wiki) {
          echo "
-            <a href='{$wiki->url}'>
+            <a href='{$dataHelper->getWikiMainpage($wiki)}'>
                <img src='{$wiki->logo}' alt='{$wiki->title}' />
             </a>
          ";
