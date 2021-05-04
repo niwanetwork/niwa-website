@@ -20,6 +20,8 @@ class NiwaDataHelper
 	 */
 	protected $affiliates;
 
+	const URL_REPLACE_STRING = "$1";
+
 	function __construct()
 	{
 		$this->memberWikis = json_decode(
@@ -46,6 +48,29 @@ class NiwaDataHelper
 	}
 
 	/**
+	 * Returns a link for the given Wiki interwiki url and page
+	 * 
+	 * @param string $url Interwiki URL
+	 * @param string $page Wiki page
+	 * @return string
+	 */
+	public function getWikiLink($url, $page = "")
+	{
+		return str_replace(self::URL_REPLACE_STRING, $page, $url);
+	}
+
+	/**
+	 * Returns a given Wiki's mainpage
+	 * 
+	 * @param object $wiki
+	 * @return string
+	 */
+	public function getWikiMainpage($wiki)
+	{
+		return $this->getWikiLink($wiki->url, $wiki->mainpage);
+	}
+
+	/**
 	 * Generates a link for the wiki member list
 	 * 
 	 * @param string $url The anchor tag href
@@ -69,7 +94,10 @@ class NiwaDataHelper
 	public function generateMemberWikiLinks($wiki)
 	{
 		// Always render a link to the wiki homepage
-		$links = $this->generateMemberWikiLink(str_replace( '$1', $wiki->mainpage, $wiki->url ), $wiki->title);
+		$links = $this->generateMemberWikiLink(
+			$this->getWikiMainpage($wiki),
+			$wiki->title
+		);
 
 		if (isset($wiki->site)) {
 			$links .= $this->generateMemberWikiLink($wiki->site, $wiki->siteName);
