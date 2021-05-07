@@ -5,8 +5,12 @@ include('_header.php');
 <div class="main">
    <div id="logos">
       <?php
-      foreach ($memberWikis->en as $wiki) {
-         echo "<a href='" . $wiki->url . "'><img src='" . $wiki->logo . "' alt='" . $wiki->title . "' /></a>";
+      foreach ($dataHelper->getMemberWikis('en') as $wiki) {
+         echo "
+            <a href='{$dataHelper->getWikiMainpage($wiki)}'>
+               <img src='{$wiki->logo}' alt='{$wiki->title}' />
+            </a>
+         ";
       }
       ?>
    </div>
