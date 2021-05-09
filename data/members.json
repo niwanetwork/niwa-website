@@ -244,6 +244,17 @@
       "facebook": "https://www.facebook.com/smwiki",
       "discord": "https://discord.gg/w48g6zm"
     },
+    "ukikipedia": {
+      "title": "Ukikipedia",
+      "description": "Founded in 2018, Ukikipedia is a wiki focused on expert level knowledge of Super Mario 64, including detailed coverage of game mechanics, glitches, speedrunning, and challenges.",
+      "logo": "/images/logos/ukikipedia.png",
+      "icon": "/images/icons/ukikipedia.png",
+      "url": "https://ukikipedia.net/wiki/$1",
+      "mainpage": "Main_Page",
+      "interwiki": "ukikipedia",
+      "twitter": "https://twitter.com/Ukikipedia",
+      "discord": "https://discord.gg/YJcJ7Wq"
+    },
     "warswiki": {
       "title": "Wars Wiki",
       "description": "Created in February 2009, Wars Wiki is a small wiki community with a large heart. Founded by JoJo and Wars Central, Wars Wiki is going strong on one of Nintendo's lesser known franchises. Wars Wiki is keen to contribute to NIWA, and we\"re proud to be able to support them. With the Wars Central community, including forums, it's definitely worth checking out.",
