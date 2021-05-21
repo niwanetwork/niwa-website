@@ -403,8 +403,10 @@ a:visited {
   padding: 10px 0px 0px;
 }
 
-.member-tab:checked~.member-tab-content {
-  display: block;
+#tab1:checked ~ #content1,
+#tab2:checked ~ #content2,
+#tab3:checked ~ #content3 {
+    display: block;
 }
 
 .member {
