@@ -27,7 +27,9 @@ $dataHelper = new NiwaDataHelper();
   <div id="container">
 
   <div id="header">
-    <a href="/" title="NIWA Network"><img src="/images/logo.png" width="250px" alt="NIWA Network" /></a>
+    <a href="/" title="NIWA Network">
+      <img src="/images/logo.png" width="250px" alt="NIWA Network" />
+    </a>
   </div>
 
   <?php include('_menu.php'); ?>

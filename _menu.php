@@ -15,9 +15,21 @@
             <li><a href="/rarticle">Random Article</a></li>
         </ul>
         <ul class="socialNav">
-            <li><a href="https://discord.gg/59Mq6qB" title="Join us on Discord"><img src="/images/discord.png" alt="Discord" width="30" title="Join us on Discord" /></a></li>
-            <li><a href="https://facebook.com/NIWANetwork" title="Like us on Facebook"><img src="/images/facebook.png" alt="Facebook" title="Like us on Facebook" /></a></li>
-            <li><a href="https://twitter.com/NIWANetwork" title="Follow us on Twitter"><img src="/images/twitter.png" alt="Twitter" title="Follow us on Twitter" /></a></li>
+            <li>
+              <a href="https://discord.gg/59Mq6qB" title="Join us on Discord">
+                <img src="/images/discord.png" alt="Discord" width="30" title="Join us on Discord" />
+              </a>
+            </li>
+            <li>
+              <a href="https://facebook.com/NIWANetwork" title="Like us on Facebook">
+                <img src="/images/facebook.png" alt="Facebook" title="Like us on Facebook" />
+              </a>
+            </li>
+            <li>
+              <a href="https://twitter.com/NIWANetwork" title="Follow us on Twitter">
+                <img src="/images/twitter.png" alt="Twitter" title="Follow us on Twitter" />
+              </a>
+            </li>
         </ul>
     </div>
 </nav>

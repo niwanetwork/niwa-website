@@ -1,8 +1,11 @@
 <div class="sidebar">
-  <div class="box">
+  <div class="box" id="box-twitter">
     <div class="title">Latest Tweets</div>
-    <div class="post" style="text-align: right;">
-      <a class="twitter-timeline" data-dnt="true" href="https://twitter.com/NIWANetwork" data-widget-id="390347444321394689" height="350px">Tweets by @NIWANetwork</a>
+    <div class="post">
+      <a class="twitter-timeline" data-dnt="true" href="https://twitter.com/NIWANetwork"
+        data-widget-id="390347444321394689" height="350px">
+        Tweets by @NIWANetwork
+      </a>
       <script>
         ! function(d, s, id) {
           var js, fjs = d.getElementsByTagName(s)[0],
@@ -18,9 +21,9 @@
     </div>
   </div>
 
-  <div class="box">
+  <div class="box" id="box-affiliates">
     <div class="title">Affiliates</div>
-    <div class="post" style="text-align: right; display: block;">
+    <div class="post">
       <ul>
         <?php
           foreach ($dataHelper->getAffiliates() as $affiliate) {
