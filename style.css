@@ -274,6 +274,10 @@ a:visited {
   text-decoration: underline;
 }
 
+#box-twitter .post {
+  text-align: right;
+}
+
 #tweet {
   color: #2f2f2f;
   font-size: 0.875em;
@@ -295,7 +299,14 @@ a:visited {
   margin: 3px 0 3px 0;
 }
 
+#box-affiliates .post {
+  display: block;
+  text-align: right;
+}
+
 #footer {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
   border-radius: 5px;
   border: 1px #2f2f2f solid;
   box-shadow: 0 0 5px #888;
@@ -320,6 +331,18 @@ a:visited {
   background: #555;
   color: #fff;
   padding: 11px 5px 11px 5px;
+}
+
+#footer-left {
+  text-align: left;
+}
+
+#footer-center {
+  text-align: center;
+}
+
+#footer-right {
+  text-align: right;
 }
 
 /* Contact Us Page */
