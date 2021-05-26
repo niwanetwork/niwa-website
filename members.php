@@ -17,60 +17,16 @@ The above copyright notice and this permission notice shall be included in all c
 
 THE SOFTWARE IS PROVIDED 'AS IS', WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
 -->
-    <style>
-        *,
-        *:before,
-        *:after {
-            box-sizing: border-box;
-        }
-
-        input {
-            display: none;
-        }
-
-        input:checked+label {
-            border: 1px solid #BBBBBB;
-            border-top: 2px solid #B22222;
-            border-bottom: 0px solid;
-            color: #555;
-        }
-
-        label {
-            border: 0px solid;
-            color: #BBBBBB;
-            display: inline-block;
-            padding: 15px 25px;
-            text-align: center;
-        }
-
-        label:hover {
-            color: #B22222;
-            cursor: pointer;
-        }
-
-        section {
-            border-top: 1px solid #BBBBBB;
-            display: none;
-            padding: 10px 0px 0px;
-        }
-
-        #tab1:checked~#content1,
-        #tab2:checked~#content2,
-        #tab3:checked~#content3 {
-            display: block;
-        }
-    </style>
-
-    <input id='tab1' type='radio' name='tabs' checked>
+    <input class='member-tab' id='tab1' type='radio' name='tabs' checked>
     <label for='tab1'>English Members</label>
 
-    <input id='tab2' type='radio' name='tabs'>
+    <input class='member-tab' id='tab2' type='radio' name='tabs'>
     <label for='tab2'>German Members</label>
 
-    <input id='tab3' type='radio' name='tabs'>
+    <input class='member-tab' id='tab3' type='radio' name='tabs'>
     <label for='tab3'>Italian Members</label>
 
-    <section id='content1'>
+    <section class="member-tab-content" id='content1'>
         <?php
         foreach ($dataHelper->getMemberWikis('en') as $wiki) {
             echo "
@@ -91,7 +47,7 @@ THE SOFTWARE IS PROVIDED 'AS IS', WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLI
         }
         ?>
     </section>
-    <section id='content2'>
+    <section class="member-tab-content" id='content2'>
         <?php
         foreach ($dataHelper->getMemberWikis('de') as $wiki) {
             echo "
@@ -112,7 +68,7 @@ THE SOFTWARE IS PROVIDED 'AS IS', WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLI
         }
         ?>
     </section>
-    <section id='content3'>
+    <section class="member-tab-content" id='content3'>
         The Italian NIWA refers to themselves as <i>NiwiN</i> (<i>Network italiano wiki indipendenti Nintendo</i>).
         <br><br>
 
