@@ -329,7 +329,7 @@
       "title": "Super Mario Wiki (IT)",
       "description": "La Super Mario Wiki è un\"enciclopedia su tutto ciò che riguarda la serie di Super Mario. È stata fondata il 30 novembre 2011 ed è affiliata con la Super Mario Wiki inglese e la Mario Wiki tedesca. Fa parte del Mario's Castle, primo sito italiano su Mario.",
       "logo": "/images/logos/mariowikiit.png",
-      "url": "https://www/mariocastle.it/wiki/$1",
+      "url": "https://www.mariocastle.it/wiki/$1",
       "mainpage": "Pagina_principale",
       "forums": "https://www.mariocastle.it/forum",
       "twitter": "https://twitter.com/mariocastle_it",
@@ -365,7 +365,7 @@
       "title": "MarioWiki",
       "description": "Das MarioWiki ist eine Enzyklopädie rund um alle Themen der äußerst berühmten, von Nintendo produzierten Mario-Serie, mit den wohl populärsten Videospielcharakteren aller Zeiten in der Hauptrolle.",
       "logo": "/images/logos/mariowikide.png",
-      "url": "https://mariowiki/net/wiki/$1",
+      "url": "https://mariowiki.net/wiki/$1",
       "mainpage": "MarioWiki:Hauptseite",
       "forums": "https://mario-forum.net/",
       "facebook": "https://www.facebook.com/mariowiki.net"
@@ -375,7 +375,7 @@
       "description": "Zeldapendium ist eine Enzyklopädie, also ein umfassendes Lexikon, die möglichst alle erhältlichen Informationen zu Nintendos Videospiel-Serie The Legend of Zelda sammeln und schön aufbereiten möchte. Unser Name setzt sich aus dem Namen des Spiels, Zelda, und dem ursprünglich lateinischen Wort für Nachschlagewerk, Compendium, zusammen. Wir verstehen uns als Mediaprojekt von Fans für Fans. Ins Leben gerufen wurde dieses Gemeinschaftsprojekt in Zusammenarbeit von Zeldafans, Zelda Kingdom und Zelda Europe.",
       "logo": "/images/logos/zeldapendium.png",
       "url": "https://www.zeldapendium.de/wiki/$1",
-      "mainpage": "Zeldapendium:%C3%9Cber_Zeldapendium"
+      "mainpage": "Zeldapendium:Hauptseite"
     }
   }
 }
