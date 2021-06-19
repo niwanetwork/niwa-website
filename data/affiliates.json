@@ -1,52 +1,82 @@
 {
     "bulbagarden": {
-        "name": "Bulbagarden",
-        "title": "The Original Pokémon Community",
-        "url": "http://bulbagarden.net"
+        "title": "Bulbagarden",
+        "description": "The ultimate Pokémon portal featuring the latest news, forums, community-driven Pokémon encyclopedia and much more.",
+        "logo": "/images/logos/bulbagarden.png",
+        "url": "https://bulbagarden.net/",
+        "forums": "https://forums.bulbagarden.net/index.php",
+        "twitter": "https://twitter.com/Bulbagarden",
+        "facebook": "https://www.facebook.com/Bulbagarden",
+        "discord": "https://discord.gg/bulbagarden"
     },
     "doomwiki": {
-        "name": "Doom Wiki",
-        "title": "The Doom Wiki at DoomWiki.org",
-        "url": "http://doomwiki.org/wiki/Entryway"
+        "title": "Doom Wiki",
+        "description": "The Doom Wiki is an extensive community effort to document everything related to id Software's masterpiece games Doom and Doom II, other games based on the Doom engine, Doom 3, Doom (2016), Doom Eternal, and more.",
+        "logo": "/images/logos/doomwiki.png",
+        "url": "http://doomwiki.org/wiki/Entryway",
+        "twitter": "https://twitter.com/doomwiki"
     },
     "halopedia": {
-        "name": "Halopedia",
-        "title": "The Halo encyclopedia and definitive source for Halo information that anyone can edit.",
-        "url": "https://www.halopedia.org/"
+        "title": "Halopedia",
+        "description": "The Halo encyclopedia and definitive source for Halo information that anyone can edit.",
+        "logo": "/images/logos/halopedia.png",
+        "url": "https://www.halopedia.org/",
+        "facebook": "https://www.facebook.com/HalopediaWiki",
+        "twitter": "https://twitter.com/Halopedia",
+        "discord": "https://discord.gg/W3HK45M"
     },
     "jojowiki": {
-        "name": "JoJo's Bizarre Encyclopedia",
         "title": "JoJo's Bizarre Encyclopedia",
-        "url": "https://jojowiki.com/JoJo_Wiki"
+        "description": "JoJo's Bizarre Encyclopedia is a wiki dedicated to JoJo's Bizarre Adventure written and illustrated by Hirohiko Araki.",
+        "logo": "/images/logos/jojo.png",
+        "url": "https://jojowiki.com/JoJo_Wiki",
+        "forums": "https://jojowiki.com/Special:WikiForum",
+        "twitter": "https://twitter.com/jojo_wiki",
+        "discord": "https://discord.gg/9jesgZvgbt"
     },
     "khwiki": {
-        "name": "Kingdom Hearts Wiki",
         "title": "Kingdom Hearts Wiki",
-        "url": "https://www.khwiki.com/"
+        "description": "The Kingdom Hearts Wiki is a comprehensive wiki and encyclopedia dedicated to the Kingdom Hearts video game series from Square Enix.",
+        "logo": "/images/logos/khwiki.png",
+        "url": "https://www.khwiki.com",
+        "facebook": "https://www.facebook.com/khwikinet",
+        "chat": "https://www.khwiki.com/KHWiki:Chat",
+        "twitter": "https://twitter.com/KHWiki",
+        "discord": "https://discord.gg/bavMzKu"
     },
     "seiwanetwork": {
-        "name": "SEIWA",
-        "title": "Square Enix Independent Wiki Alliance",
-        "url": "http://seiwanetwork.org/"
+        "title": "SEIWA",
+        "description": "The Square Enix Wiki Independent Alliance, or SEIWA for short, is a group of Wiki's centered around Square Enix's many franchises.",
+        "logo": "/images/logos/seiwa.png",
+        "url": "https://seiwanetwork.org/"
     },
     "wikifang": {
-        "name": "Wikifang",
         "title": "Wikifang",
-        "url": "http://wikifang.meowcorp.us/wiki/Wikifang"
+        "description": "Wikifang is an independent wiki on the chain of Smilesoft games, namely the Keitai Denjuu Telefang series, the GachaSta! Dino Device series, and Network Adventure Bugsite.",
+        "logo": "/images/logos/wikifang.png",
+        "url": "https://wiki.telefang.net/Wikifang"
     },
     "wikimon": {
-        "name": "Wikimon",
-        "title": "The Digimon Wiki",
-        "url": "http://wikimon.net/"
+        "title": "Wikimon",
+        "description": "The free Digimon online encyclopedia that anyone can read and help edit. Wikimon is the best resource for Digimon info since December 2005—over fifteen years of pure Digimon goodness!",
+        "logo": "/images/logos/wikimon.png",
+        "url": "http://wikimon.net/",
+        "facebook": "http://www.facebook.com/digiwikimon",
+        "twitter": "http://twitter.com/Wikimon_news"
     },
     "simpsonswiki": {
-        "name": "Wikisimpsons",
-        "title": "The Simpsons encycopedia that anyone can edit",
-        "url": "http://simpsonswiki.com"
+        "title": "Wikisimpsons",
+        "description": "Wikisimpsons is an encyclopedic wiki that contains information regarding the The Simpsons episodes, comic books and other media, including characters, locations and more.",
+        "logo": "/images/logos/wikisimpsons.png",
+        "url": "https://simpsonswiki.com/wiki/Main_Page",
+        "facebook": "http://www.facebook.com/wikisimpsons",
+        "twitter": "http://twitter.com/simpsonswiki",
+        "discord": "https://discord.gg/GyneDH6"
     },
     "zeldachaos": {
-        "name": "Zelda Chaos",
         "title": "Zelda Chaos",
-        "url": "http://jaytheham.com/zcw/Main_Page"
+        "description": "Zelda Chaos is the top resource for all things exploitable in Zelda.",
+        "logo": "/images/logos/zeldachaos.png",
+        "url": "https://jaytheham.com/zcw/Main_Page"
     }
 }

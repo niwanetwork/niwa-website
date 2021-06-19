@@ -20,24 +20,5 @@
       </script>
     </div>
   </div>
-
-  <div class="box" id="box-affiliates">
-    <div class="title">Affiliates</div>
-    <div class="post">
-      <ul>
-        <?php
-          foreach ($dataHelper->getAffiliates() as $affiliate) {
-            echo "
-              <li>
-                <a href=\"{$affiliate->url}\" title=\"{$affiliate->title}\" target=\"_blank\">
-                  {$affiliate->name}
-                </a>
-              </li>
-            ";
-          }
-        ?>
-      </ul>
-    </div>
-  </div>
 </div>
 <p style="clear: both;"></p>

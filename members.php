@@ -38,7 +38,7 @@ THE SOFTWARE IS PROVIDED 'AS IS', WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLI
                 </div>
                 <div class='description'>
                     <div class='links'>
-                        {$dataHelper->generateMemberWikiLinks($wiki)}
+                        {$dataHelper->generateMemberLinks($wiki)}
                     </div>
                     <p>{$wiki->description}</p>
                 </div>
@@ -59,7 +59,7 @@ THE SOFTWARE IS PROVIDED 'AS IS', WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLI
                 </div>
                 <div class='description'>
                     <div class='links'>
-                        {$dataHelper->generateMemberWikiLinks($wiki)}
+                        {$dataHelper->generateMemberLinks($wiki)}
                     </div>
                     <p>{$wiki->description}</p>
                 </div>
@@ -83,7 +83,7 @@ THE SOFTWARE IS PROVIDED 'AS IS', WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLI
                 </div>
                 <div class='description'>
                     <div class='links'>
-                        {$dataHelper->generateMemberWikiLinks($wiki)}
+                        {$dataHelper->generateMemberLinks($wiki)}
                     </div>
                     <p>{$wiki->description}</p>
                 </div>
