@@ -274,6 +274,26 @@ a:visited {
   text-decoration: underline;
 }
 
+.flex-container {
+  display: flex;
+  padding: 5px;
+}
+
+.flex-section {
+  flex: 1;
+  background-color: #fee1e1;
+  border-radius: 5px;
+  margin: 5px;
+  padding: 0px 10px 10px;
+}
+
+@media (max-width: 768px) {
+  .flex-container {
+    flex-direction: column;
+  }
+}
+
+
 #box-twitter .post {
   text-align: right;
 }
