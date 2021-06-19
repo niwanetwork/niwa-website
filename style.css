@@ -185,19 +185,6 @@ a:visited {
   padding: 5px;
 }
 
-#hey-listen {
-  background: #336699;
-  border-bottom: 1px #003366 solid;
-  border-radius: 5px 5px 0 0;
-  color: #fff;
-  font-size: 0.875em;
-  padding: 5px;
-  margin: -5px -5px 5px -5px;
-}
-#hey-listen a {
-  color: #fff;
-}
-
 .main {
   flex-basis: 75%;
   padding: 5px;
@@ -278,23 +265,6 @@ a:visited {
   text-align: right;
 }
 
-#tweet {
-  color: #2f2f2f;
-  font-size: 0.875em;
-}
-
-#tweet ul {
-  list-style: none;
-  margin: 0 0 0 -30px;
-}
-
-#tweet .date {
-  font-size: 1em;
-  text-align: right;
-  padding: 3px;
-  margin-bottom: 5px;
-  border-bottom: 2px #ebebeb dotted;
-}
 .sidebar li {
   margin: 3px 0 3px 0;
 }
@@ -454,30 +424,6 @@ a:visited {
   margin: 0 5px 0 5px;
 }
 
-/* Search Bar */
-
-.search {
-  float: left;
-  width: 149px;
-  height: 18px;
-  border: 1px #cecece solid;
-  padding: 3px;
-  border-radius: 3px 0 0 3px;
-  margin: 8px 0 18px 10px;
-}
-.search-button {
-  width: 60px;
-  height: 26px;
-  border: 1px #cecece solid;
-  border-left: none;
-  padding: 0 6px;
-  border-radius: 0 3px 3px 0;
-  background: #f0f0f0;
-  margin: 8px 10px 18px 0;
-}
-.search-button:hover {
-  text-decoration: underline;
-}
 @-moz-document url-prefix() {
   .box .title {
     margin-right: -5px;
