@@ -223,7 +223,7 @@ a:visited {
 }
 
 .main p {
-  text-indent: 25px;
+  text-indent: 0;
   line-height: 150%;
   margin-top: 0;
   font-size: 0.938em;
@@ -284,18 +284,13 @@ a:visited {
   background-color: #fee1e1;
   border-radius: 5px;
   margin: 5px;
-  padding: 0px 10px 10px;
+  padding: 10px;
 }
 
 @media (max-width: 768px) {
   .flex-container {
     flex-direction: column;
   }
-}
-
-
-#box-twitter .post {
-  text-align: right;
 }
 
 #tweet {
