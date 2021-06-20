@@ -24,7 +24,7 @@ include('_header.php');
          <br/><br/>
       </div>
       <div class="flex-section">
-         <h2 style="margin: 15px 0px 5px 0px;">200,000+ articles</h2>
+         <h2 style="margin: 15px 0px 5px 0px;">240,000+ articles</h2>
          across three languages
          <br/><br/>
       </div>
