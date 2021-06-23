@@ -2,8 +2,31 @@
 include('_header.php');
 ?>
 
+<link rel="stylesheet" type="text/css" href="dependencies/slick/slick.css"/>
+<link rel="stylesheet" type="text/css" href="dependencies/slick/slick-theme.css"/>
+
 <div class="main">
    <h1>Welcome to the Nintendo Independent Wiki Alliance</h1>
+   <div style="width: 95%; margin: 0 auto; text-align: center;">
+      <div class="carousel">
+         <?php
+            $enwikis = (array) $dataHelper->getMemberWikis('en');
+            $dewikis = (array) $dataHelper->getMemberWikis('de');
+            $itwikis = (array) $dataHelper->getMemberWikis('it');
+            $wikis = array_merge($enwikis, $dewikis, $itwikis);
+            shuffle($wikis);
+            foreach ($wikis as $wiki) {
+               echo "
+               <div>
+                  <a href='{$dataHelper->getWikiLink($wiki->url, $wiki->mainpage)}'>
+                     <img src='{$wiki->logo}' alt='{$wiki->title}' width='100px' style='margin: 0 auto;' />
+                  </a>
+               </div>
+               ";
+            }
+         ?>
+      </div>
+   </div>
    <p>
       We are a network of independent wikis working together since 2010 to bring fans quality coverage of all things Nintendo. Together with our affiliates, we collaborate and support one another in our mission. 
    </p>
@@ -62,6 +85,19 @@ include('_header.php');
    </p>
 
 </div>
+
+<script type="text/javascript" src="dependencies/jquery/jquery-1.11.0.min.js"></script>
+<script type="text/javascript" src="dependencies/jquery/jquery-migrate-1.2.1.min.js"></script>
+<script type="text/javascript" src="dependencies/slick/slick.min.js"></script>
+<script type="text/javascript">
+$('.carousel').slick({
+   infinite: true,
+   slidesToShow: 5,
+   slidesToScroll: 1,
+   autoplay: true,
+   autoplaySpeed: 1500,
+});
+</script>
 
 <?php
 include('_sidebar.php');
