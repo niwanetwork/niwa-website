@@ -1,7 +1,6 @@
 <?php
 $errorid = $_GET['error'];
 $title = 'NIWA - Nintendo Independence Wiki Alliance';
-$topbar = 'on';
 include('_header.php');
 ?>
 
@@ -10,7 +9,7 @@ include('_header.php');
 <br/><br/>
 <?php if ($errorid == 404)
 echo '
-It seems you have tried to access a page that does not exist! Hopefully you can try finding your way again by using the navigation above.'; 
+It seems you have tried to access a page that does not exist! Hopefully you can try finding your way again by using the navigation above.';
 elseif ($errorid == 503)
 echo '
 It seems we are currently busier than we thought! Our services may be temporarily down due to excessive traffic. Please try again in a few minutes.';
