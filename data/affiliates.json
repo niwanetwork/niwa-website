@@ -1,0 +1,52 @@
+{
+    "bulbagarden": {
+        "name": "Bulbagarden",
+        "title": "The Original Pokémon Community",
+        "url": "http://bulbagarden.net"
+    },
+    "doomwiki": {
+        "name": "Doom Wiki",
+        "title": "The Doom Wiki at DoomWiki.org",
+        "url": "http://doomwiki.org/wiki/Entryway"
+    },
+    "halopedia": {
+        "name": "Halopedia",
+        "title": "The Halo encyclopedia and definitive source for Halo information that anyone can edit.",
+        "url": "https://www.halopedia.org/"
+    },
+    "jojowiki": {
+        "name": "JoJo's Bizarre Encyclopedia",
+        "title": "JoJo's Bizarre Encyclopedia",
+        "url": "https://jojowiki.com/JoJo_Wiki"
+    },
+    "khwiki": {
+        "name": "Kingdom Hearts Wiki",
+        "title": "Kingdom Hearts Wiki",
+        "url": "https://www.khwiki.com/"
+    },
+    "seiwanetwork": {
+        "name": "SEIWA",
+        "title": "Square Enix Independent Wiki Alliance",
+        "url": "http://seiwanetwork.org/"
+    },
+    "wikifang": {
+        "name": "Wikifang",
+        "title": "Wikifang",
+        "url": "http://wikifang.meowcorp.us/wiki/Wikifang"
+    },
+    "wikimon": {
+        "name": "Wikimon",
+        "title": "The Digimon Wiki",
+        "url": "http://wikimon.net/"
+    },
+    "simpsonswiki": {
+        "name": "Wikisimpsons",
+        "title": "The Simpsons encycopedia that anyone can edit",
+        "url": "http://simpsonswiki.com"
+    },
+    "zeldachaos": {
+        "name": "Zelda Chaos",
+        "title": "Zelda Chaos",
+        "url": "http://jaytheham.com/zcw/Main_Page"
+    }
+}
