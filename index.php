@@ -6,7 +6,6 @@ include('_header.php');
 <link rel="stylesheet" type="text/css" href="dependencies/slick/slick-theme.css"/>
 
 <div class="main">
-   <h1>Welcome to the Nintendo Independent Wiki Alliance</h1>
    <div style="width: 95%; margin: 0 auto; text-align: center;">
       <div class="carousel">
          <?php
@@ -27,6 +26,9 @@ include('_header.php');
          ?>
       </div>
    </div>
+
+   <h1>Welcome to the Nintendo Independent Wiki Alliance</h1>
+
    <p>
       We are a network of independent wikis working together since 2010 to bring fans quality coverage of all things Nintendo. Together with our affiliates, we collaborate and support one another in our mission. 
    </p>
