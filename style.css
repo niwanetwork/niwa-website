@@ -509,6 +509,12 @@ a:visited {
   visibility: hidden;
 }
 
+/* Slick carousel customizations */
+.main .slick-track {
+  display: flex;
+  align-items: center; 
+}
+
 /* Desktop Styles */
 @media (min-width: 960px) {
   /* Navigation */
