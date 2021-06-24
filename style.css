@@ -241,6 +241,10 @@ a:visited {
   padding: 3px 5px 3px 5px;
 }
 
+.stats {
+  text-align: center;
+}
+
 .sidebar {
   flex-basis: 25%;
   padding: 5px;

@@ -41,17 +41,17 @@ include('_header.php');
    </p>
 
    <div class="flex-container">
-      <div class="flex-section">
+      <div class="flex-section stats">
          <h2 style="margin: 15px 0px 5px 0px;">30+ members</h2>
          covering Nintendo subjects
          <br/><br/>
       </div>
-      <div class="flex-section">
+      <div class="flex-section stats">
          <h2 style="margin: 15px 0px 5px 0px;">240,000+ articles</h2>
          across three languages
          <br/><br/>
       </div>
-      <div class="flex-section">
+      <div class="flex-section stats">
          <h2 style="margin: 15px 0px 5px 0px;">10+ affiliates</h2>
          supporting our mission
          <br/><br/>
