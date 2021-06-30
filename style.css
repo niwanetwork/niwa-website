@@ -542,6 +542,13 @@ a:visited {
   display: flex;
   align-items: center; 
 }
+.main .slick-initialized .slick-slide {
+  margin: 5px;
+}
+.carousel {
+  width: 95%;
+  margin: 0 auto;
+}
 
 /* Desktop-specific styles */
 @media (min-width: 960px) {
