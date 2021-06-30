@@ -6,25 +6,23 @@ include('_header.php');
 <link rel="stylesheet" type="text/css" href="dependencies/slick/slick-theme.css"/>
 
 <div class="main">
-   <div style="width: 95%; margin: 0 auto; text-align: center;">
-      <div class="carousel">
-         <?php
-            $enwikis = (array) $dataHelper->getMemberWikis('en');
-            $dewikis = (array) $dataHelper->getMemberWikis('de');
-            $itwikis = (array) $dataHelper->getMemberWikis('it');
-            $wikis = array_merge($enwikis, $dewikis, $itwikis);
-            shuffle($wikis);
-            foreach ($wikis as $wiki) {
-               echo "
-               <div>
-                  <a href='{$dataHelper->getWikiLink($wiki->url, $wiki->mainpage)}'>
-                     <img src='{$wiki->logo}' alt='{$wiki->title}' width='100px' style='margin: 0 auto;' />
-                  </a>
-               </div>
-               ";
-            }
-         ?>
-      </div>
+   <div class="carousel center">
+      <?php
+         $enwikis = (array) $dataHelper->getMemberWikis('en');
+         $dewikis = (array) $dataHelper->getMemberWikis('de');
+         $itwikis = (array) $dataHelper->getMemberWikis('it');
+         $wikis = array_merge($enwikis, $dewikis, $itwikis);
+         shuffle($wikis);
+         foreach ($wikis as $wiki) {
+            echo "
+            <div>
+               <a href='{$dataHelper->getWikiLink($wiki->url, $wiki->mainpage)}'>
+                  <img src='{$wiki->logo}' alt='{$wiki->title}' width='100px' style='margin: 0 auto;' />
+               </a>
+            </div>
+            ";
+         }
+      ?>
    </div>
 
    <h1>Welcome to the Nintendo Independent Wiki Alliance</h1>
