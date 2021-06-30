@@ -22,6 +22,23 @@ ol {
   font-size: 0.938em;
 }
 
+/* Colors */
+.white {
+  color: white !important;
+}
+.white a {
+  color: white !important;
+}
+.white a:visited {
+  color: white !important;
+}
+
+/* Positioning */
+.center {
+  text-align: center;
+}
+
+/* Main/content styling */
 .main li {
   margin: 10px 0 10px 0;
 }
@@ -138,7 +155,7 @@ a:visited {
   margin: 0.2rem;
 }
 
-/* Mobile Collapsing */
+/* Mobile collapsing */
 .menu-icon-container {
   width: 30px;
   cursor: pointer;
@@ -166,7 +183,7 @@ a:visited {
   margin-top: 8px;
 }
 
-/* allow menu to have height */
+/* Allow menu to have height */
 .menu.active {
   max-height: 25em;
 }
@@ -287,10 +304,21 @@ a:visited {
 .flex-section {
   flex: 1;
   background-color: #d22b2b;
-  color: white;
   border-radius: 5px;
   margin: 5px;
   padding: 10px;
+}
+.flex-section h2 {
+  margin: 15px 0px 5px 0px;
+}
+.flex-section.discord {
+  background-color: #5865F2;
+}
+.flex-section.twitter {
+  background-color: #1DA1F2;
+}
+.flex-section.facebook {
+  background-color: #4267B2;
 }
 
 @media (max-width: 768px) {
@@ -366,7 +394,7 @@ a:visited {
   text-align: right;
 }
 
-/* Contact Us Page */
+/* Contact page */
 .form {
   margin: 0 0 0 -25px;
 }
@@ -392,8 +420,7 @@ a:visited {
   display: block;
 }
 
-/* NIWA Members Page */
-
+/* NIWA members page */
 .member-tab {
   display: none;
 }
@@ -475,7 +502,7 @@ a:visited {
   margin: 0 5px 0 5px;
 }
 
-/* Search Bar */
+/* Search bar */
 
 .search {
   float: left;
@@ -516,7 +543,7 @@ a:visited {
   align-items: center; 
 }
 
-/* Desktop Styles */
+/* Desktop-specific styles */
 @media (min-width: 960px) {
   /* Navigation */
   .nav .primaryNav,

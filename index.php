@@ -43,18 +43,18 @@ include('_header.php');
    </p>
 
    <div class="flex-container">
-      <div class="flex-section stats">
-         <h2 style="margin: 15px 0px 5px 0px;">30+ members</h2>
+      <div class="flex-section stats center white">
+         <h2>30+ members</h2>
          covering Nintendo subjects
          <br/><br/>
       </div>
-      <div class="flex-section stats">
-         <h2 style="margin: 15px 0px 5px 0px;">240,000+ articles</h2>
+      <div class="flex-section stats center white">
+         <h2>240,000+ articles</h2>
          across three languages
          <br/><br/>
       </div>
-      <div class="flex-section stats">
-         <h2 style="margin: 15px 0px 5px 0px;">10+ affiliates</h2>
+      <div class="flex-section stats center white">
+         <h2>10+ affiliates</h2>
          supporting our mission
          <br/><br/>
       </div>
@@ -71,14 +71,14 @@ include('_header.php');
    </p>
 
    <div class="flex-container">
-      <div class="flex-section" style="text-align: center; background-color: #5865F2;">
-         <a style="color: white;" href="https://discord.gg/59Mq6qB">Join our Discord</a>
+      <div class="flex-section discord center white">
+         <a href="https://discord.gg/59Mq6qB">Join our Discord</a>
       </div>
-      <div class="flex-section" style="text-align: center; background-color: #1DA1F2;">
-         <a style="color: white;" href="https://twitter.com/niwanetwork">Follow on Twitter</a>
+      <div class="flex-section twitter center white">
+         <a href="https://twitter.com/niwanetwork">Follow on Twitter</a>
       </div>
-      <div class="flex-section" style="text-align: center; background-color: #4267B2;">
-         <a style="color: white;" href="https://www.facebook.com/NIWANetwork">Like on Facebook</a>
+      <div class="flex-section facebook center white">
+         <a href="https://www.facebook.com/NIWANetwork">Like on Facebook</a>
       </div>
    </div>
 
