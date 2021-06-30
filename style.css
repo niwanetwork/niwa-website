@@ -286,7 +286,8 @@ a:visited {
 
 .flex-section {
   flex: 1;
-  background-color: #fee1e1;
+  background-color: #d22b2b;
+  color: white;
   border-radius: 5px;
   margin: 5px;
   padding: 10px;
