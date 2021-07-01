@@ -6,7 +6,7 @@ include('_header.php');
 <link rel="stylesheet" type="text/css" href="dependencies/slick/slick-theme.css"/>
 
 <div class="main">
-   <div class="carousel center">
+   <div class="carousel text-center">
       <?php
          $enwikis = (array) $dataHelper->getMemberWikis('en');
          $dewikis = (array) $dataHelper->getMemberWikis('de');
@@ -41,17 +41,17 @@ include('_header.php');
    </p>
 
    <div class="flex-container">
-      <div class="flex-section stats center white">
+      <div class="flex-section stats text-center white">
          <h2>30+ members</h2>
          covering Nintendo subjects
          <br/><br/>
       </div>
-      <div class="flex-section stats center white">
+      <div class="flex-section stats text-center white">
          <h2>240,000+ articles</h2>
          across three languages
          <br/><br/>
       </div>
-      <div class="flex-section stats center white">
+      <div class="flex-section stats text-center white">
          <h2>10+ affiliates</h2>
          supporting our mission
          <br/><br/>
@@ -69,13 +69,13 @@ include('_header.php');
    </p>
 
    <div class="flex-container">
-      <div class="flex-section discord center white">
+      <div class="flex-section discord text-center white">
          <a href="https://discord.gg/59Mq6qB">Join our Discord</a>
       </div>
-      <div class="flex-section twitter center white">
+      <div class="flex-section twitter text-center white">
          <a href="https://twitter.com/niwanetwork">Follow on Twitter</a>
       </div>
-      <div class="flex-section facebook center white">
+      <div class="flex-section facebook text-center white">
          <a href="https://www.facebook.com/NIWANetwork">Like on Facebook</a>
       </div>
    </div>
