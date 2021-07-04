@@ -22,6 +22,23 @@ ol {
   font-size: 0.938em;
 }
 
+/* Colors */
+.white {
+  color: white !important;
+}
+.white a {
+  color: white !important;
+}
+.white a:visited {
+  color: white !important;
+}
+
+/* Positioning */
+.text-center {
+  text-align: center;
+}
+
+/* Main/content styling */
 .main li {
   margin: 10px 0 10px 0;
 }
@@ -138,7 +155,7 @@ a:visited {
   margin: 0.2rem;
 }
 
-/* Mobile Collapsing */
+/* Mobile collapsing */
 .menu-icon-container {
   width: 30px;
   cursor: pointer;
@@ -166,7 +183,7 @@ a:visited {
   margin-top: 8px;
 }
 
-/* allow menu to have height */
+/* Allow menu to have height */
 .menu.active {
   max-height: 25em;
 }
@@ -185,22 +202,10 @@ a:visited {
   padding: 5px;
 }
 
-#hey-listen {
-  background: #336699;
-  border-bottom: 1px #003366 solid;
-  border-radius: 5px 5px 0 0;
-  color: #fff;
-  font-size: 0.875em;
-  padding: 5px;
-  margin: -5px -5px 5px -5px;
-}
-#hey-listen a {
-  color: #fff;
-}
-
 .main {
   flex-basis: 75%;
   padding: 5px;
+  overflow: hidden;
 }
 
 .main #logos {
@@ -223,7 +228,7 @@ a:visited {
 }
 
 .main p {
-  text-indent: 25px;
+  text-indent: 0;
   line-height: 150%;
   margin-top: 0;
   font-size: 0.938em;
@@ -240,9 +245,12 @@ a:visited {
   padding: 3px 5px 3px 5px;
 }
 
+.stats {
+  text-align: center;
+}
+
 .sidebar {
   flex-basis: 25%;
-  padding: 5px;
 }
 .box .title {
   font-size: 1.25em;
@@ -274,27 +282,37 @@ a:visited {
   text-decoration: underline;
 }
 
-#box-twitter .post {
-  text-align: right;
+.flex-container {
+  display: flex;
+  padding: 5px;
 }
 
-#tweet {
-  color: #2f2f2f;
-  font-size: 0.875em;
+.flex-section {
+  flex: 1;
+  background-color: #d22b2b;
+  border-radius: 5px;
+  margin: 5px;
+  padding: 10px;
+}
+.flex-section h2 {
+  margin: 15px 0px 5px 0px;
+}
+.flex-section.discord {
+  background-color: #5865F2;
+}
+.flex-section.twitter {
+  background-color: #1DA1F2;
+}
+.flex-section.facebook {
+  background-color: #4267B2;
 }
 
-#tweet ul {
-  list-style: none;
-  margin: 0 0 0 -30px;
+@media (max-width: 768px) {
+  .flex-container {
+    flex-direction: column;
+  }
 }
 
-#tweet .date {
-  font-size: 1em;
-  text-align: right;
-  padding: 3px;
-  margin-bottom: 5px;
-  border-bottom: 2px #ebebeb dotted;
-}
 .sidebar li {
   margin: 3px 0 3px 0;
 }
@@ -345,7 +363,7 @@ a:visited {
   text-align: right;
 }
 
-/* Contact Us Page */
+/* Contact page */
 .form {
   margin: 0 0 0 -25px;
 }
@@ -371,8 +389,7 @@ a:visited {
   display: block;
 }
 
-/* NIWA Members Page */
-
+/* NIWA members page */
 .member-tab {
   display: none;
 }
@@ -454,30 +471,6 @@ a:visited {
   margin: 0 5px 0 5px;
 }
 
-/* Search Bar */
-
-.search {
-  float: left;
-  width: 149px;
-  height: 18px;
-  border: 1px #cecece solid;
-  padding: 3px;
-  border-radius: 3px 0 0 3px;
-  margin: 8px 0 18px 10px;
-}
-.search-button {
-  width: 60px;
-  height: 26px;
-  border: 1px #cecece solid;
-  border-left: none;
-  padding: 0 6px;
-  border-radius: 0 3px 3px 0;
-  background: #f0f0f0;
-  margin: 8px 10px 18px 0;
-}
-.search-button:hover {
-  text-decoration: underline;
-}
 @-moz-document url-prefix() {
   .box .title {
     margin-right: -5px;
@@ -489,7 +482,20 @@ a:visited {
   visibility: hidden;
 }
 
-/* Desktop Styles */
+/* Slick carousel customizations */
+.main .slick-track {
+  display: flex;
+  align-items: center; 
+}
+.main .slick-initialized .slick-slide {
+  margin: 5px;
+}
+.carousel {
+  width: 95%;
+  margin: 0 auto;
+}
+
+/* Desktop-specific styles */
 @media (min-width: 960px) {
   /* Navigation */
   .nav .primaryNav,
