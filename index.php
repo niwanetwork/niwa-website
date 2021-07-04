@@ -43,7 +43,7 @@ include('_header.php');
    <div class="flex-container">
       <div class="flex-section stats text-center white">
          <h2>30+ members</h2>
-         covering Nintendo subjects
+         covering Nintendo
          <br/><br/>
       </div>
       <div class="flex-section stats text-center white">
