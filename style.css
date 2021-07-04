@@ -295,6 +295,7 @@ a:visited {
   padding: 10px;
 }
 .flex-section h2 {
+  font-size: 1.3em;
   margin: 15px 0px 5px 0px;
 }
 .flex-section.discord {
