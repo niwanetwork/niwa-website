@@ -32,7 +32,7 @@ THE SOFTWARE IS PROVIDED 'AS IS', WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLI
             echo "
             <div class='member'>
                 <div class='logo'>
-                    <a href='{$wiki->url}'>
+                    <a href='{$dataHelper->getWikiLink($wiki->url, $wiki->mainpage)}'>
                         <img src='{$wiki->logo}' alt='{$wiki->title}' />
                     </a>
                 </div>
@@ -53,7 +53,7 @@ THE SOFTWARE IS PROVIDED 'AS IS', WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLI
             echo "
             <div class='member'>
                 <div class='logo'>
-                    <a href='{$wiki->url}'>
+                    <a href='{$dataHelper->getWikiLink($wiki->url, $wiki->mainpage)}'>
                         <img src='{$wiki->logo}' alt='{$wiki->title}' />
                     </a>
                 </div>
@@ -77,7 +77,7 @@ THE SOFTWARE IS PROVIDED 'AS IS', WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLI
             echo "
             <div class='member'>
                 <div class='logo'>
-                    <a href='{$wiki->url}'>
+                    <a href='{$dataHelper->getWikiLink($wiki->url, $wiki->mainpage)}'>
                         <img src='{$wiki->logo}' alt='{$wiki->title}' />
                     </a>
                 </div>
