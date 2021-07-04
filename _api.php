@@ -48,6 +48,16 @@ class NiwaDataHelper
 	}
 
 	/**
+	 * Return the affiliates
+	 * 
+	 * @return object
+	 */
+	public function getAffiliates()
+	{
+		return $this->affiliates;
+	}
+
+	/**
 	 * Returns a link for the given Wiki interwiki url and page
 	 * 
 	 * @param string $url Interwiki URL
@@ -60,7 +70,7 @@ class NiwaDataHelper
 	}
 
 	/**
-	 * Returns a given Wiki's mainpage
+	 * Returns a given wiki's mainpage
 	 * 
 	 * @param object $wiki
 	 * @return string
@@ -71,13 +81,13 @@ class NiwaDataHelper
 	}
 
 	/**
-	 * Generates a link for the wiki member list
+	 * Generates a link for the member or affiliate
 	 * 
 	 * @param string $url The anchor tag href
 	 * @param string $text The anchor tag display text
 	 * @return string
 	 */
-	protected function generateMemberWikiLink($url, $text)
+	protected function generateMemberLink($url, $text)
 	{
 		return "<a class='member-wiki-link' href='{$url}'>{$text}</a>";
 	}
@@ -88,49 +98,46 @@ class NiwaDataHelper
 	 *
 	 * Requires a individual wiki array from the api.
 	 * 
-	 * @param object $wiki
+	 * @param object $member
 	 * @return string $links
 	 */
-	public function generateMemberWikiLinks($wiki)
+	public function generateMemberLinks($member)
 	{
-		// Always render a link to the wiki homepage
-		$links = $this->generateMemberWikiLink(
-			$this->getWikiMainpage($wiki),
-			$wiki->title
-		);
+		// Check if wiki mainpage is specified or if we should just use the URL as-is
+		if (isset($member->mainpage)) {
+			$links = $this->generateMemberLink(
+				$this->getWikiMainpage($member),
+				$member->title
+			);
+		} else {
+			$links = $this->generateMemberLink(
+				$member->url,
+				$member->title
+			);
+		}
 
-		if (isset($wiki->site)) {
-			$links .= $this->generateMemberWikiLink($wiki->site, $wiki->siteName);
+		if (isset($member->site)) {
+			$links .= $this->generateMemberLink($member->site, $member->siteName);
 		};
-		if (isset($wiki->forums)) {
-			$links .= $this->generateMemberWikiLink($wiki->forums, "Forums");
+		if (isset($member->forums)) {
+			$links .= $this->generateMemberLink($member->forums, "Forums");
 		};
-		if (isset($wiki->chat)) {
-			$links .= $this->generateMemberWikiLink($wiki->chat, "Chat");
+		if (isset($member->chat)) {
+			$links .= $this->generateMemberLink($member->chat, "Chat");
 		};
-		if (isset($wiki->discord)) {
-			$links .= $this->generateMemberWikiLink($wiki->discord, "Discord");
+		if (isset($member->discord)) {
+			$links .= $this->generateMemberLink($member->discord, "Discord");
 		};
-		if (isset($wiki->twitter)) {
-			$links .= $this->generateMemberWikiLink($wiki->twitter, "Twitter");
+		if (isset($member->twitter)) {
+			$links .= $this->generateMemberLink($member->twitter, "Twitter");
 		};
-		if (isset($wiki->twitch)) {
-			$links .= $this->generateMemberWikiLink($wiki->twitch, "Twitch");
+		if (isset($member->twitch)) {
+			$links .= $this->generateMemberLink($member->twitch, "Twitch");
 		};
-		if (isset($wiki->facebook)) {
-			$links .= $this->generateMemberWikiLink($wiki->facebook, "Facebook");
+		if (isset($member->facebook)) {
+			$links .= $this->generateMemberLink($member->facebook, "Facebook");
 		};
 
 		return $links;
-	}
-
-	/**
-	 * Return the affiliates
-	 * 
-	 * @return object
-	 */
-	public function getAffiliates()
-	{
-		return $this->affiliates;
 	}
 }
