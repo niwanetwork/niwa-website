@@ -1,8 +1,8 @@
 {
   "en": {
     "armswiki": {
-      "title": "Arms Institute",
-      "description": "ARMS Institute is a comprehensive resource for information about the Nintendo Switch game, ARMS. Founded on May 1st, 2017 and growing rapidly, the wiki strives to offer in-depth coverage of ARMS from both a competitive and casual perspective. Join us and ARM yourself with knowledge!",
+      "title": "ARMS Institute",
+      "description": "ARMS Institute is a comprehensive resource for information about the Nintendo Switch game, ARMS. Founded on May 1, 2017 and growing rapidly, the wiki strives to offer in-depth coverage of ARMS from both a competitive and casual perspective. Join us and ARM yourself with knowledge!",
       "logo": "/images/logos/armswiki.png",
       "icon": "/images/icons/armswiki.png",
       "url": "https://armswiki.org/wiki/$1",
@@ -12,7 +12,7 @@
     },
     "bulbapedia": {
       "title": "Bulbapedia",
-      "description": "A part of the Bulbagarden community, Bulbapedia was founded on December 21st, 2004 by Liam Pomfret. Everything you need to know about Pokémon can be found at Bulbapedia, whether about the games, the anime, the manga or something else entirely. With its Bulbanews section and the Bulbagarden forums, it's your one stop online place for Pokémon.",
+      "description": "A part of the Bulbagarden community, Bulbapedia was founded on December 21, 2004 by Liam Pomfret. Everything you need to know about Pokémon can be found at Bulbapedia, whether about the games, the anime, the manga, or something else entirely. With its Bulbanews section and the Bulbagarden forums, it's your one-stop online place for Pokémon.",
       "logo": "/images/logos/bulbapedia.png",
       "icon": "/images/icons/bulbapedia.png",
       "site": "https://www.bulbagarden.net/",
@@ -28,7 +28,7 @@
     },
     "dragalialost": {
       "title": "Dragalia Lost Wiki",
-      "description": "The Dragalia Lost Wiki was originally founded in September 2018 on the Gamepedia platform but went independent in January 2021. The Wiki aims to document anything and everything Dragalia Lost - from in-game data, mechanics, story, guides, and more!",
+      "description": "The Dragalia Lost Wiki was originally founded in September 2018 on the Gamepedia platform but went independent in January 2021. The Wiki aims to document anything and everything Dragalia Lost, from in-game data to mechanics, story, guides, and more!",
       "logo": "/images/logos/dragalialost.png",
       "icon": "/images/icons/dragalialost.png",
       "url": "https://dragalialost.wiki/w/$1",
@@ -39,7 +39,7 @@
     },
     "dqwiki": {
       "title": "Dragon Quest Wiki",
-      "description": "Originally founded on Wikia, the Dragon Quest Wiki was largely inactive until FlyingRagnar became an admin in late 2009.  The wiki went independent about a year later when it merged with the Dragon Quest Dictionary/Encyclopedia which was run by Zenithian and supported by the Dragon's Den.  The Dragon Quest Wiki aims to be the most complete resource for Dragon Quest information on the web.  It continues to grow in the hope that one day the series will be as popular in the rest of the world as it is in Japan.",
+      "description": "Originally founded on Wikia, the Dragon Quest Wiki was largely inactive until FlyingRagnar became an admin in late 2009. The wiki went independent about a year later when it merged with the Dragon Quest Dictionary/Encyclopedia which was run by Zenithian and supported by the Dragon's Den.  The Dragon Quest Wiki aims to be the most complete resource for Dragon Quest information on the web. It continues to grow in the hope that one day the series will be as popular in the rest of the world as it is in Japan.",
       "logo": "/images/logos/dragonquestwiki.png",
       "icon": "/images/icons/dragonquestwiki.png",
       "url": "https://dragon-quest.org/wiki/$1",
@@ -49,7 +49,7 @@
     },
     "fewiki": {
       "title": "Fire Emblem Wiki",
-      "description": "Growing since August 26th, 2010, Fire Emblem Wiki is a relatively new project whose goal is to cover all information pertaining to the Fire Emblem series. Although it is still small, it aspires to become the most complete and accurate independent source of information on this series.",
+      "description": "Growing since August 26, 2010, Fire Emblem Wiki is a relatively new project whose goal is to cover all information pertaining to the Fire Emblem series. Although it is still small, it aspires to become the most complete and accurate independent source of information on this series.",
       "logo": "/images/logos/fireemblemwiki.png",
       "icon": "/images/icons/fireemblemwiki.png",
       "url": "https://fireemblemwiki.org/wiki/$1",
@@ -76,7 +76,7 @@
     },
     "gsuwiki": {
       "title": "Golden Sun Universe",
-      "description": "Originally founded on Wikia in late 2006, Golden Sun Universe has always worked hard to meet one particular goal: to be the single most comprehensive yet accessible resource on Nintendo's RPG series Golden Sun on the Internet. It became an independent wiki four years later. Covering characters and plot, documenting all aspects of the gameplay, featuring walkthroughs both thorough and bare-bones, and packed with all manner of odd and fascinating minutiae, Golden Sun Universe leaves no stone unturned!",
+      "description": "Originally founded on Wikia in late 2006, Golden Sun Universe has always worked hard to meet one particular goal: to be the single most comprehensive yet accessible resource on the Internet for Nintendo's RPG series Golden Sun. It became an independent wiki four years later. Covering characters and plot, documenting all aspects of the gameplay, featuring walkthroughs both thorough and bare-bones, and packed with all manner of odd and fascinating minutiae, Golden Sun Universe leaves no stone unturned!",
       "logo": "/images/logos/goldensununiverse.png",
       "icon": "/images/icons/goldensununiverse.png",
       "url": "https://www.goldensunwiki.net/wiki/$1",
@@ -98,7 +98,7 @@
     },
     "icaruspedia": {
       "title": "Icaruspedia",
-      "description": "Icaruspedia is the Kid Icarus wiki that keeps flying to new heights. After going independent on January 8th, 2012, Icaruspedia has worked to become the largest and most trusted independent source of Kid Icarus information. Just like Pit, they\"ll keep on fighting until the job is done.",
+      "description": "Icaruspedia is the Kid Icarus wiki that keeps flying to new heights. After going independent on January 8, 2012, Icaruspedia has worked to become the largest and most trusted independent source of Kid Icarus information. Just like Pit, they\"ll keep on fighting until the job is done.",
       "logo": "/images/logos/icaruspedia.png",
       "icon": "/images/icons/icaruspedia.png",
       "url": "https://www.kidicaruswiki.org/wiki/$1",
@@ -110,7 +110,7 @@
     },
     "inkipedia": {
       "title": "Inkipedia",
-      "description": "Inkipedia is your ever-growing go-to source for all things Splatoon related. Though founded on Wikia on June 10th, 2014, Inkipedia went independent on May 18th, 2015, just days before Splatoon's release. Our aim is to cover all aspects of the series, both high and low. Come splat with us now!",
+      "description": "Inkipedia is your ever-growing go-to source for all things Splatoon related. Though founded on Wikia on June 10, 2014, Inkipedia went independent on May 18, 2015, just days before Splatoon's release. Our aim is to cover all aspects of the series, both high and low. Come splat with us now!",
       "logo": "/images/logos/inkipedia.png",
       "icon": "/images/icons/inkipedia.png",
       "url": "https://splatoonwiki.org/wiki/$1",
@@ -135,7 +135,7 @@
     },
     "metroidwiki": {
       "title": "Metroid Wiki",
-      "description": "Metroid Wiki, founded on January 27th, 2010 by Nathanial Rumphol-Janc and Zelda Informer is a rapidly expanding wiki that covers everything Metroid, from the games, to every suit, vehicle and weapon. Metroid Wiki is still new, so show it your support and get involved in the community.",
+      "description": "Metroid Wiki, founded on January 27, 2010 by Nathanial Rumphol-Janc and Zelda Informer, is a rapidly expanding wiki that covers everything Metroid, from the games, to every suit, vehicle and weapon.",
       "logo": "/images/logos/metroidwiki.png",
       "icon": "/images/icons/metroidwiki.png",
       "url": "https://www.metroidwiki.org/wiki/$1",
@@ -148,7 +148,7 @@
     },
     "nintendowiki": {
       "title": "Nintendo Wiki",
-      "description": "Created on May 12th, 2010, NintendoWiki (N-Wiki) is a collaborative project by the NIWA team to create an encyclopedia dedicated to Nintendo, being the company around which all other NIWA content is focused. It ranges from mainstream information such as the games and people who work for the company, to the most obscure info like patents and interesting trivia.",
+      "description": "Created on May 12, 2010, NintendoWiki (N-Wiki) is a collaborative project by the NIWA team to create an encyclopedia dedicated to Nintendo, being the company around which all other NIWA content is focused. It ranges from mainstream information such as the games and people who work for the company, to the most obscure info like patents and interesting trivia.",
       "logo": "/images/logos/nintendowiki.png",
       "icon": "/images/icons/nintendowiki.png",
       "url": "http://niwanetwork.org/wiki/$1",
@@ -159,7 +159,7 @@
     },
     "nookipedia": {
       "title": "Nookipedia",
-      "description": "Founded in August 2005 on Wikia, Nookipedia was originally known as Animal Crossing City. Shortly after its fifth year anniversary, Animal Crossing City decided to merge with the independent Animal Crossing Wiki, which in December 2010 was renamed to Nookipedia. Covering everything from the series including insects, fish, furniture, characters, tools, and much more, Nookipedia is your number one resource for everything Animal Crossing!",
+      "description": "Founded in August 2005 on Wikia, Nookipedia was originally known as Animal Crossing City. Shortly after its five-year anniversary, Animal Crossing City decided to merge with the independent Animal Crossing Wiki, which in January 2011 was renamed to Nookipedia. Covering everything from the series including characters, items, critters, and much more, Nookipedia is your number one resource for everything Animal Crossing!",
       "logo": "/images/logos/nookipedia.png",
       "icon": "/images/icons/nookipedia.png",
       "url": "https://nookipedia.com/wiki/$1",
@@ -185,7 +185,7 @@
     },
     "pikifanon": {
       "title": "Pikmin Fanon",
-      "description": "Pikmin Fanon is a Pikmin wiki for fan stories (fanon). Founded back on November 1st, 2008 by Rocky0718 as a part of Wikia, Pikmin Fanon has been independent since September 14th, 2010. Check them out for fan created stories based around the Pikmin series.",
+      "description": "Pikmin Fanon is a Pikmin wiki for fan stories (fanon). Founded back on November 1, 2008 by Rocky0718 as a part of Wikia, Pikmin Fanon has been independent since September 14, 2010. Check them out for fan created stories based around the Pikmin series.",
       "logo": "/images/logos/pikifanon.png",
       "icon": "/images/icons/pikminfanon.png",
       "url": "https://www.pikminfanon.com/wiki/$1",
@@ -208,7 +208,7 @@
     },
     "starfywiki": {
       "title": "Starfy Wiki",
-      "description": "Founded on May 30th, 2009, Starfy Wiki's one goal is to become the best source on Nintendo's elusive game series The Legendary Starfy. After gaining independence in 2011 with the help of Tappy and the wiki's original administrative team, the wiki still hopes to achieve its goal and be the best source of Starfy info for all present and future fans.",
+      "description": "Founded on May 30, 2009, Starfy Wiki's one goal is to become the best source on Nintendo's elusive game series The Legendary Starfy. After gaining independence in 2011 with the help of Tappy and the wiki's original administrative team, the wiki still hopes to achieve its goal and be the best source of Starfy info for all present and future fans.",
       "logo": "/images/logos/starfywiki.png",
       "icon": "/images/icons/starfywiki.png",
       "url": "https://www.starfywiki.org/wiki/$1",
@@ -220,7 +220,7 @@
     },
     "strategywiki": {
       "title": "StrategyWiki",
-      "description": "StrategyWiki was founded in December 2005 by former member Brandon Suit with the idea that the existing strategy guides on the internet could be improved. Three years later, in December 2008, Scott Jacobi officially established Abxy LLC for the purpose of owning and operating StrategyWiki as a community. Their vision is to bring free, collaborative video game strategy guides to the masses, including Nintendo franchise strategy guides.",
+      "description": "StrategyWiki was founded in December 2005 by former member Brandon Suit with the idea that the existing strategy guides on the Internet could be improved. Three years later, in December 2008, Scott Jacobi officially established Abxy LLC for the purpose of owning and operating StrategyWiki as a community. Their vision is to bring free, collaborative video game strategy guides to the masses, including Nintendo franchise strategy guides.",
       "logo": "/images/logos/strategywiki.png",
       "icon": "/images/icons/strategywiki.png",
       "url": "https://www.strategywiki.org/wiki/$1",
@@ -232,7 +232,7 @@
     },
     "supermariowiki": {
       "title": "Super Mario Wiki",
-      "description": "Online since August 12th, 2005, when it was founded by Steve Shinn, Super Mario Wiki has you covered for anything Mario, Donkey Kong, Wario, Luigi, Yoshi - the whole gang in fact. With its own large community in its accompanying forum, Super Mario Wiki is not only a great encyclopedia, but a fansite for you to talk anything Mario.",
+      "description": "Online since August 12, 2005, when it was founded by Steve Shinn, Super Mario Wiki has you covered for anything Mario, Donkey Kong, Wario, Luigi, Yoshi—the whole gang, in fact. With its own large community in its accompanying forum, Super Mario Wiki is not only a great encyclopedia, but a fansite for you to talk anything Mario.",
       "logo": "/images/logos/mariowiki.png",
       "icon": "/images/icons/mariowiki.png",
       "url": "https://www.mariowiki.com/$1",
@@ -257,7 +257,7 @@
     },
     "warswiki": {
       "title": "Wars Wiki",
-      "description": "Created in February 2009, Wars Wiki is a small wiki community with a large heart. Founded by JoJo and Wars Central, Wars Wiki is going strong on one of Nintendo's lesser known franchises. Wars Wiki is keen to contribute to NIWA, and we\"re proud to be able to support them. With the Wars Central community, including forums, it's definitely worth checking out.",
+      "description": "Created in February 2009, Wars Wiki is a small wiki community with a large heart. Founded by JoJo and Wars Central, Wars Wiki is going strong on one of Nintendo's lesser known franchises. Wars Wiki is keen to contribute to NIWA, and we\'re proud to be able to support them. With the Wars Central community, including forums, it's definitely worth checking out.",
       "logo": "/images/logos/warswiki.png",
       "icon": "/images/icons/warswiki.png",
       "url": "https://www.warswiki.org/wiki/$1",
@@ -267,7 +267,7 @@
     },
     "wikibound": {
       "title": "WikiBound",
-      "description": "Founded in early 2010 by Tacopill, WikiBound strives to create a detailed database on the Mother/EarthBound games, a quaint series only having one game officially released outside of Japan. WikiBound is still a very young wiki, and needs assistance in expanding. Help spread the PK Love!",
+      "description": "Founded in early 2010 by Tacopill, WikiBound strives to create a detailed database on the Mother/EarthBound games, a quaint series only having two games officially released outside of Japan. Help spread the PK Love by editing WikiBound!",
       "logo": "/images/logos/wikibound.png",
       "icon": "/images/icons/wikibound.png",
       "url": "https://www.wikibound.info/wiki/$1",
@@ -278,7 +278,7 @@
     },
     "wikirby": {
       "title": "WiKirby",
-      "description": "WiKirby. It's a wiki. About Kirby! Amongst the excitement of NIWA being founded, Josh LeJeune decided to create a Kirby Wiki, due to lack of a strong independent one online. Coming online on Janury 24th, 2010, WiKirby continues its strong launch with a dedicated community and a daily growing source of Kirby based knowledge.",
+      "description": "WiKirby. It's a wiki. About Kirby! Amidst the excitement of NIWA being founded, Josh LeJeune decided to create a Kirby Wiki, due to lack of a strong independent one online. Coming online on Janury 24, 2010, WiKirby continues its strong launch with a dedicated community and a daily growing source of Kirby based knowledge.",
       "logo": "/images/logos/wikirby.png",
       "icon": "/images/icons/wikirby.png",
       "url": "https://wikirby.com/wiki/$1",
@@ -290,7 +290,7 @@
     },
     "xenoserieswiki": {
       "title": "Xeno Series Wiki",
-      "description": "Xeno Series Wiki was created February 4th 2020 by Sir Teatei Moonlight. While founded by the desire to have an independent wiki for Xenoblade, there was an interest in including the Xenogears and Xenosaga games within its focus as well. This wide range of coverage means it's always in need of new editors to help bolster its many subjects.",
+      "description": "Xeno Series Wiki was created February 4, 2020 by Sir Teatei Moonlight. While founded by the desire to have an independent wiki for Xenoblade, there was an interest in including the Xenogears and Xenosaga games within its focus as well. This wide range of coverage means it's always in need of new editors to help bolster its many subjects.",
       "logo": "/images/logos/xenoserieswiki.png",
       "icon": "/images/icons/xenoserieswiki.png",
       "url": "https://www.xenoserieswiki.org/wiki/$1",
@@ -300,7 +300,7 @@
     },
     "zeldawiki": {
       "title": "Zelda Wiki",
-      "description": "Founded on April 23rd, 2005 by Jason Rappaport, Zelda Wiki is your definitive source for encyclopedic information on The Legend of Zelda series, as well as all of the latest Zelda news. Not only that, but Zelda Wiki also provides exclusive articles found nowhere else. The site is now run by its own independent staff alongside the Zelda Universe webmasters.",
+      "description": "Founded on April 23, 2005 by Jason Rappaport, Zelda Wiki is your definitive source for encyclopedic information on The Legend of Zelda series, as well as all of the latest Zelda news. Not only that, but Zelda Wiki also provides exclusive articles found nowhere else. The site is now run by its own independent staff alongside the Zelda Universe webmasters.",
       "logo": "/images/logos/zeldawiki.png",
       "icon": "/images/icons/zeldawiki.png",
       "url": "https://zelda.fandom.com/wiki/$1",
