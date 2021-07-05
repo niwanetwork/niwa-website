@@ -365,21 +365,21 @@ a:visited {
 }
 
 /* Contact page */
-.form {
-  margin: 0 0 0 -25px;
-}
-
-.contact {
+.contact input {
   width: 30%;
   border-radius: 5px;
   border: 1px #cecece solid;
 }
 
-.message {
+.contact textarea {
   width: 75.2%;
   border-radius: 5px;
   border: 1px #cecece solid;
-  margin-bottom: 2px;
+}
+
+.contact input, .contact textarea {
+  display: block;
+  margin-bottom: 15px;
 }
 
 .submit {
