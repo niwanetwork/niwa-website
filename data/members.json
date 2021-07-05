@@ -303,10 +303,10 @@
       "description": "Founded on April 23rd, 2005 by Jason Rappaport, Zelda Wiki is your definitive source for encyclopedic information on The Legend of Zelda series, as well as all of the latest Zelda news. Not only that, but Zelda Wiki also provides exclusive articles found nowhere else. The site is now run by its own independent staff alongside the Zelda Universe webmasters.",
       "logo": "/images/logos/zeldawiki.png",
       "icon": "/images/icons/zeldawiki.png",
-      "url": "https://www.zeldawiki.org/$1",
+      "url": "https://zelda.fandom.com/wiki/$1",
       "mainpage": "Main_Page",
       "interwiki": "zeldawiki",
-      "forums": "https://www.zeldawiki.org/Zelda_Wiki:About#Connected_Sites",
+      "forums": "https://zeldauniverse.net/forums/Board/191-Zelda-Wiki/",
       "twitter": "https://twitter.com/#!/zeldawiki",
       "facebook": "https://www.facebook.com/zeldawiki",
       "discord": "https://discord.gg/zelda"
