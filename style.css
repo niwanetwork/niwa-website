@@ -494,6 +494,11 @@ a:visited {
 .carousel {
   width: 95%;
   margin: 0 auto;
+  opacity: 0;
+}
+.carousel.slick-initialized {
+  opacity: 1;
+  transition: opacity 1s;
 }
 
 /* Desktop-specific styles */
