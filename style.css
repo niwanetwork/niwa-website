@@ -235,13 +235,11 @@ a:visited {
 }
 
 .main h1 {
-  margin: 0 0 10px -10px;
   font-size: 1.25em;
   font-weight: normal;
   background: #e9e9e9;
   border: 1px #cecece solid;
-  border-radius: 0 5px 5px 0;
-  border-left: none;
+  border-radius: 5px;
   padding: 3px 5px 3px 5px;
 }
 
@@ -251,16 +249,14 @@ a:visited {
 
 .sidebar {
   flex-basis: 25%;
+  padding: 5px 10px 5px 5px;
 }
 .box .title {
   font-size: 1.25em;
   background: #e9e9e9;
   border: 1px #cecece solid;
-  border-radius: 5px 0 0 5px;
-  border-right: none;
-  margin: 0 -5px 5px 0;
+  border-radius: 5px;
   padding: 3px 5px 3px 5px;
-  text-align: right;
 }
 .box .post {
   margin: 5px 0 5px 0;
@@ -539,5 +535,9 @@ a:visited {
 
   .main #logos a {
     flex-basis: 25%;
+  }
+
+  .box .title {
+    text-align: right;
   }
 }
