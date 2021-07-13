@@ -67,7 +67,6 @@
       "url": "https://mutecity.org/wiki/$1",
       "mainpage": "F-Zero_Wiki",
       "interwiki": "fzerowiki",
-      "forums": "https://mutecity.org/forums/",
       "chat": "https://mutecity.org/wiki/Special:WebChat",
       "twitter": "https://twitter.com/MuteCity_org",
       "facebook": "https://facebook.com/MuteCity.org",
@@ -202,7 +201,6 @@
       "mainpage": "",
       "interwiki": "smashwiki",
       "forums": "https://www.ssbwiki.com/Forum:Index",
-      "chat": "https://www.ssbwiki.com/SmashWiki:IRC",
       "discord": "https://discord.gg/wDR5jR2"
     },
     "starfywiki": {
@@ -214,7 +212,7 @@
       "mainpage": "Main_Page",
       "interwiki": "starfywiki",
       "forums": "http://www.niwanetwork.org/forums/index.php?board=44.0",
-      "chat": "https://www.starfywiki.org/Starfy_Wiki:IRC",
+      "chat": "https://www.starfywiki.org/wiki/Starfy_Wiki:IRC",
       "twitter": "https://twitter.com/StarfyWiki"
     },
     "strategywiki": {
