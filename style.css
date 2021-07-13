@@ -257,7 +257,6 @@ a:visited {
   border: 1px #cecece solid;
   border-radius: 5px;
   padding: 3px 5px 3px 5px;
-  text-align: right;
 }
 .box .post {
   margin: 5px 0 5px 0;
@@ -531,5 +530,9 @@ a:visited {
 
   .main #logos a {
     flex-basis: 25%;
+  }
+
+  .box .title {
+    text-align: right;
   }
 }
