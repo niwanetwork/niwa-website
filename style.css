@@ -37,6 +37,9 @@ ol {
 .text-center {
   text-align: center;
 }
+.margin-auto {
+  margin: auto;
+}
 
 /* Main/content styling */
 .main li {
@@ -69,7 +72,6 @@ a:visited {
 #header {
   text-align: center;
 }
-
 #header a img {
   margin: 0 auto;
 }
@@ -89,7 +91,6 @@ a:visited {
   align-items: center;
   justify-content: space-between;
   transition: all 0.3s ease-out;
-
   overflow: hidden;
   max-height: 0;
 }
@@ -467,6 +468,15 @@ a:visited {
 .member .links a:link {
   margin: 0 5px 0 5px;
 }
+
+/* CWW pages */
+.cww-grid {
+  justify-content: center;
+  display: grid;
+  grid-template-columns: repeat(auto-fill, calc(120px));
+  grid-gap: 1.5em 1em;
+}
+
 
 @-moz-document url-prefix() {
   .box .title {
