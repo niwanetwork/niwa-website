@@ -98,7 +98,7 @@ THE SOFTWARE IS PROVIDED 'AS IS', WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLI
                 $wiki = $wikis[array_search($id, array_column($wikis, 'id'))];
                 echo "
                     <div>
-                        <a href='{$cww->link}'>
+                        <a href='{$dataHelper->getWikiLink($wiki->url, $cww->page)}'>
                             <img class='margin-auto' src='{$wiki->logo}' alt='{$wiki->title}' width='100' />
                             <br />
                             {$cww->title}
@@ -118,7 +118,7 @@ THE SOFTWARE IS PROVIDED 'AS IS', WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLI
                 $wiki = $wikis[array_search($id, array_column($wikis, 'id'))];
                 echo "
                     <div>
-                        <a href='{$cww->link}'>
+                        <a href='{$dataHelper->getWikiLink($wiki->url, $cww->page)}'>
                             <img class='margin-auto' src='{$wiki->logo}' alt='{$wiki->title}' width='100' />
                             <br />
                             {$cww->title}
@@ -227,7 +227,7 @@ THE SOFTWARE IS PROVIDED 'AS IS', WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLI
                 $wiki = $wikis[array_search($id, array_column($wikis, 'id'))];
                 echo "
                     <div>
-                        <a href='{$cww->link}'>
+                        <a href='{$dataHelper->getWikiLink($wiki->url, $cww->page)}'>
                             <img class='margin-auto' src='{$wiki->logo}' alt='{$wiki->title}' width='100' />
                             <br />
                             {$cww->title}
@@ -247,7 +247,7 @@ THE SOFTWARE IS PROVIDED 'AS IS', WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLI
                 $wiki = $wikis[array_search($id, array_column($wikis, 'id'))];
                 echo "
                     <div>
-                        <a href='{$cww->link}'>
+                        <a href='{$dataHelper->getWikiLink($wiki->url, $cww->page)}'>
                             <img class='margin-auto' src='{$wiki->logo}' alt='{$wiki->title}' width='100' />
                             <br />
                             {$cww->title}
