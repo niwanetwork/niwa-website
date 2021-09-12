@@ -3,6 +3,8 @@ Desktop specific designs are found at the bottom */
 
 @import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@400;700&display=swap');
 
+
+/* Element customizations */
 body {
   background: #f0f0f0 url("images/bg.png");
   font-family: "Open Sans", sans-serif;
@@ -22,7 +24,13 @@ ol {
   font-size: 0.938em;
 }
 
-/* Colors */
+a,
+a:visited {
+  color: #2f2f2f;
+  font-weight: normal;
+}
+
+/* Color classes */
 .white {
   color: white !important;
 }
@@ -48,15 +56,9 @@ ol {
 
 .main a,
 .main a:visited {
-  color: #2f2f2f;
+  color: #b22222;
   font-weight: bold;
   text-decoration: none;
-}
-
-a,
-a:visited {
-  color: #2f2f2f;
-  font-weight: normal;
 }
 
 .main a:hover {
@@ -463,6 +465,10 @@ a:visited {
 .member .description p {
   text-indent: 0;
   font-size: 0.875em;
+}
+
+.member a, .member a:visited {
+  color: #2f2f2f;
 }
 
 .member .links a:link {
