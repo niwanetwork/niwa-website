@@ -3,12 +3,6 @@ $title = 'Cross-Wiki Weekend 2021';
 include('_header.php');
 ?>
 
-<style>
-    a.special:link {color: #B22222 !important;}
-    a.special:visited {color: #B22222 !important;}
-    a.special:hover {color: #B22222 !important;}
-    a.special:active {color: #B22222 !important;}
-</style>
 <!-- Tabs derived from https://codepen.io/oknoblich/pen/tfjFl -->
 <!--
 Copyright (c) 2017 by Oliver Knoblich (http://codepen.io/oknoblich/pen/tfjFl)
@@ -59,7 +53,7 @@ THE SOFTWARE IS PROVIDED 'AS IS', WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLI
 
         <ul>
             <li>The event starts at 00:01 (UTC) on Friday, September 24, and runs until 23:59 (UTC) on Monday, September 27.</li>
-            <li>To participate, contribute to at least one <a class="special" href="http://niwanetwork.org/members.php">NIWA wiki</a> that you have never (or rarely) contributed to.</li>
+            <li>To participate, contribute to at least one <a href="http://niwanetwork.org/members.php">NIWA wiki</a> that you have never (or rarely) contributed to.</li>
             <li>To simplify contribution tracking, participants must have an account on the wiki(s) they are contributing to for a chance to win.</li>
             <li>Each contributor's edits are ranked 1 to 10. The more substantial your contributions are, the higher chance you have of winning the prize!</li>
             <li>Contributions should improve the wiki in some way. More substantial contributions mean more entries into the contest. Try some of the following:
@@ -146,7 +140,7 @@ THE SOFTWARE IS PROVIDED 'AS IS', WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLI
 
         <br>
 
-        Event organizers this year were <a class="special" href="https://www.pikminwiki.com/User:Espyo">Espyo</a>, <a class="special" href="https://www.ssbwiki.com/User:Serpent_King">Serpent King</a>, <a class="special" href="https://www.mariocastle.it/wiki/Utente:Stormkyleis">Stormkyleis</a>, <a class="special" href="https://nookipedia.com/wiki/User:SuperHamster">SuperHamster</a>, and <a class="special" href="https://fireemblemwiki.org/wiki/User:Tacopill">tacopill</a>.
+        Event organizers this year were <a href="https://www.pikminwiki.com/User:Espyo">Espyo</a>, <a href="https://www.ssbwiki.com/User:Serpent_King">Serpent King</a>, <a href="https://www.mariocastle.it/wiki/Utente:Stormkyleis">Stormkyleis</a>, <a href="https://nookipedia.com/wiki/User:SuperHamster">SuperHamster</a>, and <a href="https://fireemblemwiki.org/wiki/User:Tacopill">tacopill</a>.
         An extra thanks to everyone who contributed to the event with suggestions and guides.
 
         <br><br>
@@ -189,7 +183,7 @@ THE SOFTWARE IS PROVIDED 'AS IS', WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLI
 
         <ul>
             <li>L'evento inizia alle 02:01 ora italiana (00:01 UTC) di venerd&#236; 24 settembre e dura fino alle 01:59 ora italiana di marted&#236; 28 settembre (23:59 UTC di luned&#236; 27 settembre).</li>
-            <li>Per partecipare, contribuite ad almeno un <a class="special" href="http://niwanetwork.org/members.php">wiki di NIWA</a> al quale non avete mai (o raramente) contribuito.</li>
+            <li>Per partecipare, contribuite ad almeno un <a href="http://niwanetwork.org/members.php">wiki di NIWA</a> al quale non avete mai (o raramente) contribuito.</li>
             <li>Per tenere traccia dei vostri contributi pi&#249; facilmente, i partecipanti devono possedere un account nei wiki ai quali contribuiscono per avere una possibilit&#224; di vincere.</li>
             <li>I contributi di ciascun utente riceveranno una valutazione da 1 a 5. Pi&#249; sostanziosi saranno i vostri contributi, pi&#249; possibilit&#224; avrete di vincere!</li>
             <li>I contributi dovrebbero migliorare i wiki in qualche modo. I contributi pi&#249; sostanziosi consentiranno di avere maggiori possibilit&#224; di vittoria. Per esempio, provate a:
@@ -275,7 +269,7 @@ THE SOFTWARE IS PROVIDED 'AS IS', WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLI
 
         <br>
 
-        I contatti principali dell'evento sono <a class="special" href="https://www.pikminwiki.com/User:Espyo">Espyo</a>, <a class="special" href="https://www.ssbwiki.com/User:Serpent_King">Serpent King</a>, <a class="special" href="https://www.mariocastle.it/wiki/Utente:Stormkyleis">Stormkyleis</a>, <a class="special" href="https://nookipedia.com/wiki/User:SuperHamster">SuperHamster</a>, e <a class="special" href="https://fireemblemwiki.org/wiki/User:Tacopill">tacopill</a>.
+        I contatti principali dell'evento sono <a href="https://www.pikminwiki.com/User:Espyo">Espyo</a>, <a href="https://www.ssbwiki.com/User:Serpent_King">Serpent King</a>, <a href="https://www.mariocastle.it/wiki/Utente:Stormkyleis">Stormkyleis</a>, <a href="https://nookipedia.com/wiki/User:SuperHamster">SuperHamster</a>, e <a href="https://fireemblemwiki.org/wiki/User:Tacopill">tacopill</a>.
         Un ringraziamento speciale a tutti coloro che hanno contribuito all'organizzazione dell'evento con suggerimenti e guide.
 
         <br><br>
