@@ -133,7 +133,7 @@ THE SOFTWARE IS PROVIDED 'AS IS', WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLI
 
         <h1 id="Drawing">Drawing</h1>
         The winner of the contest is determined by random draw.
-        Each person's contributions are rated on a scale of 1 to 5; the more substantial one's contributions, the greater the chance of winning.
+        Each person's contributions are rated on a scale of 10; the more substantial one's contributions, the greater the chance of winning.
         Be sure to make some substantive edits for a better shot at the prize!
 
         <br><br>
