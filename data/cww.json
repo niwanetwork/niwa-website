@@ -1,0 +1,153 @@
+{
+  "2021": {
+    "en": [
+      {
+        "id": "armswiki",
+        "title": "To-do List",
+        "page": "ARMS_Institute:To_Do"
+      },
+      {
+        "id": "bulbapedia",
+        "title": "Contents",
+        "page": "Help:Contents"
+      },
+      {
+        "id": "dragalialost",
+        "title": "Contributor's Guide",
+        "page": "Contributor%27s_Guide"
+      },
+      {
+        "id": "dqwiki",
+        "title": "Community Portal",
+        "page": "Dragon_Quest_Wiki:Community_portal"
+      },
+      {
+        "id": "fewiki",
+        "title": "Cross-Wiki Guide",
+        "page": "Fire_Emblem_Wiki:Cross-Wiki_Weekend"
+      },
+      {
+        "id": "fzerowiki",
+        "title": "Cross-Wiki Guide",
+        "page": "F-Zero_Wiki:Cross-Wiki_Weekend"
+      },
+      {
+        "id": "gsuwiki",
+        "title": "Contents",
+        "page": "Help:Contents"
+      },
+      {
+        "id": "harddrop",
+        "title": "Main Page",
+        "page": "Tetris_Wiki"
+      },
+      {
+        "id": "icaruspedia",
+        "title": "Cross-Wiki Guide",
+        "page": "Icaruspedia:Cross-Wiki_Weekend"
+      },
+      {
+        "id": "inkipedia",
+        "title": "Cross-Wiki Guide",
+        "page": "Inkipedia:Cross-Wiki_Weekend"
+      },
+      {
+        "id": "lylatwiki",
+        "title": "Cross-Wiki Guide",
+        "page": "Lylat_Wiki:Cross-Wiki_Weekend"
+      },
+      {
+        "id": "metroidwiki",
+        "title": "Maintenance",
+        "page": "Metroid_Wiki:Maintenance"
+      },
+      {
+        "id": "nintendowiki",
+        "title": "Cross-Wiki Guide",
+        "page": "NintendoWiki:Cross-Wiki_Weekend"
+      },
+      {
+        "id": "nookipedia",
+        "title": "Cross-Wiki Guide",
+        "page": "Nookipedia:Cross-Wiki_Weekend"
+      },
+      {
+        "id": "pikipedia",
+        "title": "Cross-Wiki Guide",
+        "page": "Pikipedia:Cross-Wiki_Weekend"
+      },
+      {
+        "id": "smashwiki",
+        "title": "Cross-Wiki Guide",
+        "page": "SmashWiki:Cross-Wiki_Weekend"
+      },
+      {
+        "id": "starfywiki",
+        "title": "Community Portal",
+        "page": "Starfy_Wiki:Community_portal"
+      },
+      {
+        "id": "strategywiki",
+        "title": "Community Portal",
+        "page": "StrategyWiki:Community_Portal"
+      },
+      {
+        "id": "supermariowiki",
+        "title": "Cross-Wiki Guide",
+        "page": "MarioWiki:Cross-Wiki_Weekend"
+      },
+      {
+        "id": "ukikipedia",
+        "title": "To-do List",
+        "page": "Ukikipedia:Todo"
+      },
+      {
+        "id": "warswiki",
+        "title": "Main Page",
+        "page": "Main_Page"
+      },
+      {
+        "id": "wikibound",
+        "title": "Cross-Wiki Guide",
+        "page": "WikiBound:Cross-Wiki_Weekend"
+      },
+      {
+        "id": "wikirby",
+        "title": "Cross-Wiki Guide",
+        "page": "WiKirby:Cross-Wiki_Weekend"
+      },
+      {
+        "id": "xenoserieswiki",
+        "title": "Main Page",
+        "page": "Main_Page"
+      },
+      {
+        "id": "zeldawiki",
+        "title": "Cross-Wiki Guide",
+        "page": "Zelda_Wiki:Cross-Wiki_Weekend"
+      }
+    ],
+    "it": [
+      {
+        "id": "pokemoncentral",
+        "title": "Cross-Wiki Guide",
+        "page": "Meta:Cross-Wiki_Weekend"
+      },
+      {
+        "id": "supermariowikiit",
+        "title": "Cross-Wiki Guide",
+        "page": "Super_Mario_Wiki:Cross-Wiki_Weekend"
+      },
+      {
+        "id": "wikiboundit",
+        "title": "Main Page",
+        "page": "Pagina_principale"
+      },
+      {
+        "id": "xenopediait",
+        "title": "Cross-Wiki Guide",
+        "page": "Meta:Cross-Wiki_Weekend"
+      }
+    ]
+  }
+}
