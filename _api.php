@@ -19,6 +19,13 @@ class NiwaDataHelper
 	 * @var object
 	 */
 	protected $affiliates;
+	
+	/**
+	 * JSON object of wiki Cross-Wiki Weekend guides
+	 * 
+	 * @var object
+	 */
+	protected $cww;
 
 	const URL_REPLACE_STRING = "$1";
 
@@ -29,6 +36,9 @@ class NiwaDataHelper
 		);
 		$this->affiliates = json_decode(
 			file_get_contents("data/affiliates.json")
+		);
+		$this->cww = json_decode(
+			file_get_contents("data/cww.json")
 		);
 	}
 
@@ -58,7 +68,7 @@ class NiwaDataHelper
 	}
 
 	/**
-	 * Returns a link for the given Wiki interwiki url and page
+	 * Returns a link for the given wiki's interwiki url and page
 	 * 
 	 * @param string $url Interwiki URL
 	 * @param string $page Wiki page
@@ -91,9 +101,24 @@ class NiwaDataHelper
 	{
 		return "<a class='member-wiki-link' href='{$url}'>{$text}</a>";
 	}
+	
+	/**
+	 * Return all member wikis or if language code given,
+	 * all wikis for that language code.
+	 * 
+	 * @param string $languageCode
+	 * @return object
+	 */
+	public function getCWW($year, $languageCode = null)
+	{
+		if ($languageCode) {
+			return $this->cww->{$year}->{$languageCode};
+		}
+		return $this->cww->{$year};
+	}
 
 	/**
-	 * Generates the html string for Links with error checking for wikis that do not have
+	 * Generates the HTML string for links with error checking for wikis that do not have
 	 * one of the options.
 	 *
 	 * Requires a individual wiki array from the api.
