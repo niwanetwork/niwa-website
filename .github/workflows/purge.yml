@@ -11,7 +11,7 @@ jobs:
       name: prod
     steps:
       - name: Purge cache
-        uses: niwa-network/actions-cloudflare-purge@master
+        uses: niwanetwork/actions-cloudflare-purge@master
         if: success()
         with:
           cf_zone: ${{ secrets.CLOUDFLARE_ZONE }}
