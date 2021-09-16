@@ -3,6 +3,8 @@ name: Purge stylesheet cache
 on:
   push:
     branches: [ master ]
+    paths:
+      - 'style.css'
 
 jobs:
   purge:
