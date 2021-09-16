@@ -1,4 +1,4 @@
-name: Purge image and stylesheet cache
+name: Purge stylesheet cache
 
 on:
   push:
@@ -17,4 +17,3 @@ jobs:
           cf_zone: ${{ secrets.CLOUDFLARE_ZONE }}
           cf_auth: ${{ secrets.CLOUDFLARE_AUTH_KEY }}
           urls: https://niwanetwork.org/style.css
-          prefixes: niwanetwork.org/images/logos/
