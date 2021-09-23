@@ -30,7 +30,7 @@ THE SOFTWARE IS PROVIDED 'AS IS', WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLI
         From <b>September 24<sup>th</sup> - 27<sup>th</sup></b>, everyone is invited to constructively edit NIWA wikis that they have never (or infrequently) edited before.
         Whether it's adding some new content, uploading an image, or adding a reference, we want you to take your experience and love for Nintendo to a new wiki.
         <br><br>
-        At the end of the event, submit your contributions using the button at the bottom of this page. One random participant will win a <b>$20/€20 Nintendo e-Shop Gift Card</b>!
+        After the end of the event, a link to a form to submit your contributions will be added here—so check back! One random participant will win a <b>$20/€20 Nintendo e-Shop Gift Card</b>.
         <br><br>
 
         <h1 id="Goals">Goals</h1>
@@ -68,7 +68,7 @@ THE SOFTWARE IS PROVIDED 'AS IS', WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLI
             </ul>
             <li>As long as you make at least one non-minor edit, you're eligible to win the prize.</li>
             <li>Each wiki is a bit different! Become familiar with the differing guidelines, styling, and policies of each wiki. Reach out to each wiki's help resources if you have any questions.</li>
-            <li>At the end of the event, fill out and submit the participation form below by <b>September 30<sup>th</sup></b> for a chance to win the prize. Even if you don't want the prize, we appreciate you filling the form out for statistical purposes.</li>
+            <li>At the end of the event, fill out and submit the participation by <b>September 30<sup>th</sup></b> for a chance to win the prize. Even if you don't want the prize, we appreciate you filling the form out for statistical purposes.</li>
         </ul>
 
         <br>
