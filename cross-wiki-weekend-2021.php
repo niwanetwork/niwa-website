@@ -150,7 +150,7 @@ THE SOFTWARE IS PROVIDED 'AS IS', WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLI
             In questionable cases, final discretion of eligibility is determined by the host of the event.
             The prize will be a $20/€20 Nintendo e-Shop Gift Card.
             If participant is in a country where an e-Shop Gift Card is not usable (region restrictions, no e-Shop support, etc.), another prize of equal value will be coordinated with the winner.
-            Winner is determined by a random drawing after contributions are judged on a 1-5 scale by event organizers. Organizers cannot win the prize.
+            Winner is determined by a random drawing after contributions are judged on a 1-10 scale by event organizers. Organizers cannot win the prize.
         </span>
     </section>
 
@@ -256,7 +256,7 @@ THE SOFTWARE IS PROVIDED 'AS IS', WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLI
 
         <h1 id="Drawing">Estrazione del premio</h1>
         Il vincitore del concorso sar&#224; stabilito con un sorteggio casuale.
-        I contributi di ciascun utente verranno valutati con un punteggio da 1 a 5; pi&#249; sostanziosi saranno i contributi, maggiori saranno le probabilit&#224; di vittoria.
+        I contributi di ciascun utente verranno valutati con un punteggio da 1 a 10; pi&#249; sostanziosi saranno i contributi, maggiori saranno le probabilit&#224; di vittoria.
         Assicuratevi di effettuare delle modifiche sostanziose per avere pi&#249; possibilit&#224; di vincere il premio!
 
         <br><br>
@@ -279,7 +279,7 @@ THE SOFTWARE IS PROVIDED 'AS IS', WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLI
             In casi dubbi, l'idoneit&#224; all'estrazione &#232; a discrezione degli organizzatori dell'evento.
             La posta in palio &#232; una Nintendo eShop Card da 20$/20€.
             Se il vincitore dovesse risiedere in un paese nel quale risulta impossibile utilizzare l'eShop Card (per esempio a causa delle restrizioni regionali, eShop non supportato in quella determinata regione, ecc.) verr&#224; contattato per stabilire un premio di pari valore.
-            Il vincitore verr&#224; estratto con un sorteggio casuale dopo che i contributi verranno giudicati su una scala da 1 a 5 dagli organizzatori dell'evento. Gli organizzatori non possono vincere il premio.
+            Il vincitore verr&#224; estratto con un sorteggio casuale dopo che i contributi verranno giudicati su una scala da 1 a 10 dagli organizzatori dell'evento. Gli organizzatori non possono vincere il premio.
         </span>
     </section>
 </div>
