@@ -185,7 +185,7 @@ THE SOFTWARE IS PROVIDED 'AS IS', WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLI
             <li>L'evento inizia alle 02:01 ora italiana (00:01 UTC) di venerd&#236; 24 settembre e dura fino alle 01:59 ora italiana di marted&#236; 28 settembre (23:59 UTC di luned&#236; 27 settembre).</li>
             <li>Per partecipare, contribuite ad almeno un <a href="http://niwanetwork.org/members.php">wiki di NIWA</a> al quale non avete mai (o raramente) contribuito.</li>
             <li>Per tenere traccia dei vostri contributi pi&#249; facilmente, i partecipanti devono possedere un account nei wiki ai quali contribuiscono per avere una possibilit&#224; di vincere.</li>
-            <li>I contributi di ciascun utente riceveranno una valutazione da 1 a 5. Pi&#249; sostanziosi saranno i vostri contributi, pi&#249; possibilit&#224; avrete di vincere!</li>
+            <li>I contributi di ciascun utente riceveranno una valutazione da 1 a 10. Pi&#249; sostanziosi saranno i vostri contributi, pi&#249; possibilit&#224; avrete di vincere!</li>
             <li>I contributi dovrebbero migliorare i wiki in qualche modo. I contributi pi&#249; sostanziosi consentiranno di avere maggiori possibilit&#224; di vittoria. Per esempio, provate a:
             <ul>
                 <li>Aggiungere testo all'interno delle voci;</li>
