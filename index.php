@@ -42,7 +42,7 @@ include('_header.php');
 
    <div class="flex-container">
       <div class="flex-section stats text-center white">
-         <h2>30+ members</h2>
+         <h2><?=$dataHelper->getMemberWikiCount()?> members</h2>
          covering Nintendo
          <br/><br/>
       </div>
@@ -52,7 +52,7 @@ include('_header.php');
          <br/><br/>
       </div>
       <div class="flex-section stats text-center white">
-         <h2>10+ affiliates</h2>
+         <h2><?=$dataHelper->getAffiliateCount()?> affiliates</h2>
          supporting our mission
          <br/><br/>
       </div>
