@@ -68,6 +68,36 @@ class NiwaDataHelper
 	}
 
 	/**
+	 * Return count of all member wikis or if language code given,
+	 * count of all wikis for that language code.
+	 * 
+	 * @param string $languageCode
+	 * @return int
+	 */
+	public function getMemberWikiCount($languageCode = null)
+	{
+		if ($languageCode) {
+			return count($this->memberWikis->{$languageCode});
+		}
+
+		$wikiCount = 0;
+		foreach ($this->memberWikis as $languageMemberWikis) {
+			$wikiCount += count($languageMemberWikis);
+		}
+		return $wikiCount;
+	}
+
+	/**
+	 * Return count of all affiliates
+	 * 
+	 * @return int
+	 */
+	public function getAffiliateCount()
+	{
+		return count($this->affiliates);
+	}
+
+	/**
 	 * Returns a link for the given wiki's interwiki url and page
 	 * 
 	 * @param string $url Interwiki URL
