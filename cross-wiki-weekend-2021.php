@@ -30,8 +30,21 @@ THE SOFTWARE IS PROVIDED 'AS IS', WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLI
         From <b>September 24<sup>th</sup> - 27<sup>th</sup></b>, everyone is invited to constructively edit NIWA wikis that they have never (or infrequently) edited before.
         Whether it's adding some new content, uploading an image, or adding a reference, we want you to take your experience and love for Nintendo to a new wiki.
         <br><br>
-        After the end of the event, a link to a form to submit your contributions will be added here—so check back! One random participant will win a <b>$20/€20 Nintendo e-Shop Gift Card</b>.
+        At the end of the event, submit your contributions. One random participant will win a <b>$20/€20 Nintendo e-Shop Gift Card</b>!
+
         <br><br>
+		
+		<h1 id="Form">Submit Edits</h1>
+
+		<b>Contribution submissions are now open!</b> Submit a summary of your Cross-Wiki Weekend edits by September 30 using this linked form:
+		<br><br>
+		<a href="https://niwa.typeform.com/to/SvRmHpJp">
+			<div class="button">
+				Submit Contributions
+			</div>
+		</a>
+		
+		<br><br>
 
         <h1 id="Goals">Goals</h1>
 
@@ -160,8 +173,21 @@ THE SOFTWARE IS PROVIDED 'AS IS', WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLI
         Dal <b>24 al 27 settembre</b> siete tutti invitati a modificare costruttivamente almeno un wiki di NIWA al quale non avete mai (o raramente) contribuito.
         Che si tratti di inserire dei nuovi contenuti, caricare un'immagine o aggiungere un riferimento, ci piacerebbe che portaste la vostra esperienza e la vostra passione su un nuovo wiki.
         <br><br>
-        Al termine dell'evento, un partecipante sorteggiato casualmente vincer&#224; una <b>Nintendo eShop Card da 20$/20€</b>! Quando l'evento sar&#224; concluso potrete inviare le vostre modifiche tramite il pulsante situato in fondo a questa pagina.
-        <br><br>
+        Al termine dell'evento, un partecipante sorteggiato casualmente vincer&#224; una <b>Nintendo eShop Card da 20$/20€</b>! Quando l'evento sar&#224; concluso potrete inviare le vostre modifiche tramite un pulsante.
+		
+		<br><br>
+		
+		<h1 id="Form">Modulo</h1>
+
+		<b>Siete pregati di segnalare i vostri contributi</b> compilando il seguente modulo entro il <b>30 settembre</b>. Compilare questo modulo è necessario per partecipare all'estrazione del premio.
+		<br><br>
+		<a href="https://niwa.typeform.com/to/SvRmHpJp">
+			<div class="button">
+				Submit
+			</div>
+		</a>
+		
+		<br><br>
 
         <h1 id="Goals">Obiettivi</h1>
 
