@@ -30,6 +30,19 @@ a:visited {
   font-weight: normal;
 }
 
+.button {
+  color: white;
+  background-color: #b22222;
+  border: none;
+  padding: 15px 15px;
+  margin: 0 auto;
+  max-width: 200px;
+  text-align: center;
+}
+.button:hover {
+  background-color: #961616;
+}
+
 /* Color classes */
 .white {
   color: white !important;
