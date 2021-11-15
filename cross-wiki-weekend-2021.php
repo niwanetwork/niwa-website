@@ -33,18 +33,6 @@ THE SOFTWARE IS PROVIDED 'AS IS', WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLI
         At the end of the event, submit your contributions. One random participant will win a <b>$20/€20 Nintendo e-Shop Gift Card</b>!
 
         <br><br>
-		
-		<h1 id="Form">Submit Edits</h1>
-
-		<b>Contribution submissions are now open!</b> Submit a summary of your Cross-Wiki Weekend edits by September 30 using this linked form:
-		<br><br>
-		<a href="https://niwa.typeform.com/to/SvRmHpJp">
-			<div class="button">
-				Submit Contributions
-			</div>
-		</a>
-		
-		<br><br>
 
         <h1 id="Goals">Goals</h1>
 
@@ -148,6 +136,25 @@ THE SOFTWARE IS PROVIDED 'AS IS', WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLI
         While event organizers are free to participate, they are disallowed from entering the drawing and winning the prize.
 
         <br><br>
+        
+        <h1 id="Conclusion">Conclusion</h1>
+        We received a total of 8 valid entries from editors both new and old. Participants contributed to 8 NIWA wikis.
+
+        Thank you to all participants:
+        <ul>
+            <li>AcingGames</li>
+            <li>ChessMaster</li>
+            <li>PanchamBro</li>
+            <li>Phantom Dusclops'92</li>
+            <li>PilotInspector</li>
+            <li>StarAdamStar</li>
+            <li>Sunmarshr</li>
+            <li>SuperHamster</li>
+        </ul>
+
+        Finally, the moment we've all been waiting for - the lucky winner of the $20 eShop Gift Card was <b>Sunmarsh</b>. Congratulations!
+
+        <br><br>
 
         <hr>
 
@@ -174,20 +181,8 @@ THE SOFTWARE IS PROVIDED 'AS IS', WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLI
         Che si tratti di inserire dei nuovi contenuti, caricare un'immagine o aggiungere un riferimento, ci piacerebbe che portaste la vostra esperienza e la vostra passione su un nuovo wiki.
         <br><br>
         Al termine dell'evento, un partecipante sorteggiato casualmente vincer&#224; una <b>Nintendo eShop Card da 20$/20€</b>! Quando l'evento sar&#224; concluso potrete inviare le vostre modifiche tramite un pulsante.
-		
-		<br><br>
-		
-		<h1 id="Form">Modulo</h1>
-
-		<b>Siete pregati di segnalare i vostri contributi</b> compilando il seguente modulo entro il <b>30 settembre</b>. Compilare questo modulo è necessario per partecipare all'estrazione del premio.
-		<br><br>
-		<a href="https://niwa.typeform.com/to/SvRmHpJp">
-			<div class="button">
-				Submit
-			</div>
-		</a>
-		
-		<br><br>
+        
+        <br><br>
 
         <h1 id="Goals">Obiettivi</h1>
 
@@ -288,6 +283,28 @@ THE SOFTWARE IS PROVIDED 'AS IS', WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLI
         <br><br>
 
         Sebbene gli organizzatori dell'evento siano liberi di partecipare, saranno esclusi dal sorteggio e di conseguenza non avranno la possibilit&#224; di vincere il premio.
+
+        <br><br>
+
+        <h1 id="Conclusion">Conclusion</h1>
+        Grazie a tutti per aver partecipato! Hanno preso parte all'evento un totale di 8 contributori, sia nuovi che vecchi. Sono stati effettuati contributi all'interno di 8 wiki di NIWA. Grazie ai seguenti partecipanti:
+
+        <ul>
+            <li>AcingGames</li>
+            <li>ChessMaster</li>
+            <li>PanchamBro</li>
+            <li>Phantom Dusclops'92</li>
+            <li>PilotInspector</li>
+            <li>StarAdamStar</li>
+            <li>Sunmarshr</li>
+            <li>SuperHamster</li>
+        </ul>
+
+        Infine, il momento più atteso da tutti: il vincitore della Nintendo eShop Card da $20 è <b>Sunmarsh</b>. Congratulazioni!
+
+		<br><br>
+
+		Ci vediamo l'anno prossimo con una nuova edizione dell'evento!
 
         <br><br>
 
