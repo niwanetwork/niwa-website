@@ -53,7 +53,7 @@
     {
       "id": "fewiki",
       "title": "Fire Emblem Wiki",
-      "description": "Growing since August 26, 2010, Fire Emblem Wiki is a relatively new project whose goal is to cover all information pertaining to the Fire Emblem series. Although it is still small, it aspires to become the most complete and accurate independent source of information on this series.",
+      "description": "Growing since August 26, 2010, Fire Emblem Wiki is a project whose goal is to cover all information pertaining to the Fire Emblem series. It aspires to become the most complete and accurate independent source of information on this series.",
       "logo": "/images/logos/fireemblemwiki.png",
       "icon": "/images/icons/fireemblemwiki.png",
       "url": "https://fireemblemwiki.org/wiki/$1",
