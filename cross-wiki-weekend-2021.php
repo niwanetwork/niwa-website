@@ -148,7 +148,7 @@ THE SOFTWARE IS PROVIDED 'AS IS', WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLI
             <li>Phantom Dusclops'92</li>
             <li>PilotInspector</li>
             <li>StarAdamStar</li>
-            <li>Sunmarshr</li>
+            <li>Sunmarsh</li>
             <li>SuperHamster</li>
         </ul>
 
@@ -296,7 +296,7 @@ THE SOFTWARE IS PROVIDED 'AS IS', WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLI
             <li>Phantom Dusclops'92</li>
             <li>PilotInspector</li>
             <li>StarAdamStar</li>
-            <li>Sunmarshr</li>
+            <li>Sunmarsh</li>
             <li>SuperHamster</li>
         </ul>
 
