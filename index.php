@@ -47,7 +47,7 @@ include('_header.php');
          <br/><br/>
       </div>
       <div class="flex-section stats text-center white">
-         <h2>240,000+ articles</h2>
+         <h2>260,000+ articles</h2>
          across three languages
          <br/><br/>
       </div>
