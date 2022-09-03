@@ -264,6 +264,7 @@ a:visited {
 }
 
 .sidebar {
+  max-width: 325px;
   flex-basis: 25%;
   padding: 5px 10px 5px 5px;
 }
