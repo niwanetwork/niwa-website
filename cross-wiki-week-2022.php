@@ -71,7 +71,7 @@ THE SOFTWARE IS PROVIDED 'AS IS', WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLI
             </ul>
             <li>As long as you make at least one non-minor edit, you're eligible to win the prize.</li>
             <li>Each wiki is a bit different! Become familiar with the differing guidelines, styling, and policies of each wiki. Reach out to each wiki's help resources if you have any questions.</li>
-            <li>At the end of the event, fill out and submit the participation form by <b>August 7<sup>th</sup></b> for a chance to win the prize. Even if you don't want the prize, we appreciate you filling the form out for statistical purposes.</li>
+            <li>At the end of the event, fill out and submit the participation form by <b>October 7<sup>th</sup></b> for a chance to win the prize. Even if you don't want the prize, we appreciate you filling the form out for statistical purposes.</li>
         </ul>
 
         <br>
@@ -190,7 +190,7 @@ THE SOFTWARE IS PROVIDED 'AS IS', WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLI
         Prima di partecipare, chiediamo gentilmente un attimo del vostro tempo per leggere queste regole... Specialmente se volete una possibilit&#224; di vincere il premio!
 
         <ul>
-            <li>L'evento inizia alle 02:01 ora italiana (00:01 UTC) di venerd&#236; 23 settembre e dura fino alle 01:59 ora italiana di marted&#236; 30 settembre (23:59 UTC di luned&#236; 27 settembre).</li>
+            <li>L'evento inizia alle 02:01 ora italiana (00:01 UTC) di venerd&#236; 23 settembre e dura fino alle 01:59 ora italiana di marted&#236; 1 ottobre (23:59 UTC di luned&#236; 30 settembre).</li>
             <li>Per partecipare, contribuite ad almeno un <a href="http://niwanetwork.org/members.php">wiki di NIWA</a> al quale non avete mai (o raramente) contribuito.</li>
             <li>Per tenere traccia dei vostri contributi pi&#249; facilmente, i partecipanti devono possedere un account nei wiki ai quali contribuiscono per avere una possibilit&#224; di vincere.</li>
             <li>I contributi di ciascun utente riceveranno una valutazione da 1 a 10. Pi&#249; sostanziosi saranno i vostri contributi, pi&#249; possibilit&#224; avrete di vincere!</li>
@@ -206,7 +206,7 @@ THE SOFTWARE IS PROVIDED 'AS IS', WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLI
             </ul>
             <li>Purch&#233; apportiate almeno una modifica non minore, sarete idonei ad essere sorteggiati per la vittoria del premio.</li>
             <li>Ciascun wiki &#232; leggermente differente! Prima di apportare modifiche, familiarizzate con le linee guida, i manuali di stile e le pratiche adottate da ciascun wiki. Per qualsiasi domanda, consultate le pagine di aiuto dei rispettivi wiki.</li>
-            <li>Alla fine dell'evento, compilate e inviate il modulo di partecipazione sottostante entro il <b>30 settembre</b> per avere una possibilit&#224; di vincere il premio. Anche se non doveste volere il premio, apprezzeremmo se compilaste il modulo per fini statistici.</li>
+            <li>Alla fine dell'evento, compilate e inviate il modulo di partecipazione sottostante entro il <b>7 ottobre</b> per avere una possibilit&#224; di vincere il premio. Anche se non doveste volere il premio, apprezzeremmo se compilaste il modulo per fini statistici.</li>
         </ul>
 
         <br>
