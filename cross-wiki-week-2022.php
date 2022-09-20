@@ -30,7 +30,9 @@ THE SOFTWARE IS PROVIDED 'AS IS', WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLI
         From <b>September 23<sup>rd</sup> - 30<sup>th</sup></b>, everyone is invited to constructively edit participating NIWA wikis that they have never (or infrequently) edited before.
         Whether it's adding some new content, uploading an image, or adding a reference, we want you to take your experience and love for video games to a new wiki.
         <br><br>
-        At the end of the event, submit your contributions. Two random participants will win <b>$20/€20 Nintendo e-Shop Gift Cards</b>!
+        We have some exciting changes for this year. The event now lasts a week, and will have two winners instead of one. In addition, select affiliate wikis will also be participating!
+        <br><br>
+        At the end of the event, you will be able to submit your contributions from this page. Two random participants will win <b>$20/€20 Nintendo e-Shop Gift Cards</b>!
 
         <br><br>
 
@@ -84,7 +86,49 @@ THE SOFTWARE IS PROVIDED 'AS IS', WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLI
 
         <br><br>
 
-        Coming soon!
+        <h3 class="text-center">English Wikis</h3>
+        <div class="text-center cww-grid">
+            <?php
+            $wikis = $dataHelper->getMemberWikis('en');
+            $affiliates = $dataHelper->getAffiliates();
+            $wikis = array_merge($wikis, $affiliates);
+            foreach ($dataHelper->getCWW('2022', 'en') as $cww) {
+                $id = $cww->id;
+                $wiki = $wikis[array_search($id, array_column($wikis, 'id'))];
+                echo "
+                    <div>
+                        <a href='{$dataHelper->getWikiLink($wiki->url, $cww->page)}'>
+                            <img class='margin-auto' src='{$wiki->logo}' alt='{$wiki->title}' width='100' />
+                            <br />
+                            {$wiki->title}<br><small>({$cww->title})</small>
+                        </a>
+                    </div>
+                ";
+            }
+            ?>
+        </div>
+
+        <br><br>
+
+        <h3 class="text-center">Italian Wikis</h3>
+        <div class="text-center cww-grid">
+            <?php
+            $wikis = $dataHelper->getMemberWikis('it');
+            foreach ($dataHelper->getCWW('2022', 'it') as $cww) {
+                $id = $cww->id;
+                $wiki = $wikis[array_search($id, array_column($wikis, 'id'))];
+                echo "
+                    <div>
+                        <a href='{$dataHelper->getWikiLink($wiki->url, $cww->page)}'>
+                            <img class='margin-auto' src='{$wiki->logo}' alt='{$wiki->title}' width='100' />
+                            <br />
+                            {$wiki->title}<br><small>({$cww->title})</small>
+                        </a>
+                    </div>
+                ";
+            }
+            ?>
+        </div>
 
         <br><br>
 
@@ -123,7 +167,7 @@ THE SOFTWARE IS PROVIDED 'AS IS', WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLI
         Dal <b>23 al 30 settembre</b> siete tutti invitati a modificare costruttivamente almeno un wiki di NIWA al quale non avete mai (o raramente) contribuito.
         Che si tratti di inserire dei nuovi contenuti, caricare un'immagine o aggiungere un riferimento, ci piacerebbe che portaste la vostra esperienza e la vostra passione su un nuovo wiki.
         <br><br>
-        Al termine dell'evento, un partecipante sorteggiato casualmente vincer&#224; una <b>Nintendo eShop Card da 20$/20€</b>! Quando l'evento sar&#224; concluso potrete inviare le vostre modifiche tramite un pulsante.
+        Al termine dell'evento, due partecipante sorteggiato casualmente vincer&#224; una <b>Nintendo eShop Card da 20$/20€</b>! Quando l'evento sar&#224; concluso potrete inviare le vostre modifiche tramite un pulsante.
         
         <br><br>
 
