@@ -219,8 +219,50 @@ THE SOFTWARE IS PROVIDED 'AS IS', WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLI
         Prendete un momento per familiarizzare con le regole e le abitudini di ciascun wiki prima di mettervi al lavoro.
 
         <br><br>
+
+        <h3 class="text-center">Wiki in italiano</h3>
+        <div class="text-center cww-grid">
+            <?php
+            $wikis = $dataHelper->getMemberWikis('it');
+            foreach ($dataHelper->getCWW('2022', 'it') as $cww) {
+                $id = $cww->id;
+                $wiki = $wikis[array_search($id, array_column($wikis, 'id'))];
+                echo "
+                    <div>
+                        <a href='{$dataHelper->getWikiLink($wiki->url, $cww->page)}'>
+                            <img class='margin-auto' src='{$wiki->logo}' alt='{$wiki->title}' width='100' />
+                            <br />
+                            {$wiki->title}<br><small>({$cww->title})</small>
+                        </a>
+                    </div>
+                ";
+            }
+            ?>
+        </div>
         
-        Coming soon!
+        <br><br>
+        
+        <h3 class="text-center">Wiki in inglese</h3>
+        <div class="text-center cww-grid">
+            <?php
+            $wikis = $dataHelper->getMemberWikis('en');
+            $affiliates = $dataHelper->getAffiliates();
+            $wikis = array_merge($wikis, $affiliates);
+            foreach ($dataHelper->getCWW('2022', 'en') as $cww) {
+                $id = $cww->id;
+                $wiki = $wikis[array_search($id, array_column($wikis, 'id'))];
+                echo "
+                    <div>
+                        <a href='{$dataHelper->getWikiLink($wiki->url, $cww->page)}'>
+                            <img class='margin-auto' src='{$wiki->logo}' alt='{$wiki->title}' width='100' />
+                            <br />
+                            {$wiki->title}<br><small>({$cww->title})</small>
+                        </a>
+                    </div>
+                ";
+            }
+            ?>
+        </div>
 
         <br><br>
 
