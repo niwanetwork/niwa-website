@@ -11,7 +11,7 @@
             <li><a href="/about">About</a></li>
             <li><a href="/members">Members</a></li>
             <li><a href="/affiliates">Affiliates</a></li>
-            <li><a href="/cross-wiki-weekend-2021">Cross-Wiki Weekend</a></li>
+            <li><a href="/cross-wiki-week-2022">Cross-Wiki Week 2022/a></li>
             <li><a href="/contact">Contact</a></li>
             <li><a href="/join">Join Us</a></li>
             <li><a href="/rarticle">Random Article</a></li>
