@@ -147,7 +147,7 @@ THE SOFTWARE IS PROVIDED 'AS IS', WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLI
 
         <br>
 
-        Main eent organizers this year are <a href="https://www.pikminwiki.com/User:Espyo">Espyo</a>, <a href="https://www.ssbwiki.com/User:Serpent_King">Serpent King</a>, <a href="https://www.mariocastle.it/wiki/Utente:Stormkyleis">Stormkyleis</a>, <a href="https://nookipedia.com/wiki/User:SuperHamster">SuperHamster</a>, and <a href="https://fireemblemwiki.org/wiki/User:Tacopill">tacopill</a>.
+        Main event organizers this year are <a href="https://www.pikminwiki.com/User:Espyo">Espyo</a>, <a href="https://www.ssbwiki.com/User:Serpent_King">Serpent King</a>, <a href="https://www.mariocastle.it/wiki/Utente:Stormkyleis">Stormkyleis</a>, <a href="https://nookipedia.com/wiki/User:SuperHamster">SuperHamster</a>, and <a href="https://fireemblemwiki.org/wiki/User:Tacopill">tacopill</a>.
         An extra thanks to everyone who contributed to the event with suggestions and guides.
 
         <br><br>
