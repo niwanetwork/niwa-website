@@ -167,7 +167,9 @@ THE SOFTWARE IS PROVIDED 'AS IS', WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLI
         Dal <b>23 al 30 settembre</b> siete tutti invitati a modificare costruttivamente almeno un wiki di NIWA al quale non avete mai (o raramente) contribuito.
         Che si tratti di inserire dei nuovi contenuti, caricare un'immagine o aggiungere un riferimento, ci piacerebbe che portaste la vostra esperienza e la vostra passione su un nuovo wiki.
         <br><br>
-        Al termine dell'evento, due partecipante sorteggiato casualmente vincer&#224; una <b>Nintendo eShop Card da 20$/20€</b>! Quando l'evento sar&#224; concluso potrete inviare le vostre modifiche tramite un pulsante.
+        Quest'anno abbiamo delle eccitanti novità. Adesso l'evento durerà una settimana e ci saranno due vincitori invece di uno. Inoltre, parteciperanno anche alcuni wiki affiliati!
+        <br><br>
+        Al termine dell'evento, due partecipanti sorteggiati casualmente vinceranno una <b>Nintendo eShop Card da 20$/20€</b>! Quando l'evento sar&#224; concluso potrete inviare le vostre modifiche tramite un pulsante.
         
         <br><br>
 
