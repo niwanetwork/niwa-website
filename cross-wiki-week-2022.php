@@ -79,7 +79,7 @@ THE SOFTWARE IS PROVIDED 'AS IS', WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLI
         <a name="submit"></a>
         <h1 id="Submit">Submit Contributions</h1>
 
-        After the event ends, please report your contributions by filling out the following form by <b>October <sup>7th</sup></b>. Filling out the form is required for a chance to win a prize!
+        After the event ends, please report your contributions by filling out the following form by <b>October 7<sup>th</sup></b>. Filling out the form is required for a chance to win a prize!
         <br><br>
         <div style="width: 100%; text-align: center;">
             <button class="button" disabled>Submission form opens in October</button>
