@@ -79,12 +79,10 @@ THE SOFTWARE IS PROVIDED 'AS IS', WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLI
         <a name="submit"></a>
         <h1 id="Submit">Submit Contributions</h1>
 
-        At the end of the event, please report your contributions by filling out the following form by <b>October<sup>th</sup></b>.
-        <br>
-        Filling out the form is required for a chance to win a prize!
+        At the end of the event, please report your contributions by filling out the following form by <b>October<sup>th</sup></b>. Filling out the form is required for a chance to win a prize!
         <br><br>
         <div style="width: 100%; text-align: center;">
-            <div class="button" style="background-color: #7F7F7F;"><span style="color: #3C3D3D;">Submission form opens in October</span></div>
+            <button class="button" disabled>Submission form opens in October</button>
         </div>
 
         <br>
@@ -231,7 +229,7 @@ THE SOFTWARE IS PROVIDED 'AS IS', WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLI
         Una volta concluso l'evento, siete pregati di segnalare i vostri contributi compilando il seguente modulo entro il 7 ottobre. Compilare questo modulo è necessario per partecipare all'estrazione del premio. 
         <br><br>
         <div style="width: 100%; text-align: center;">
-            <div class="button" style="background-color: #7F7F7F;"><span style="color: #3C3D3D;">Submissions Open in October</span></div>
+            <button class="button" disabled>Submission form opens in October</button>
         </div>
 
         <br>
