@@ -73,6 +73,19 @@ THE SOFTWARE IS PROVIDED 'AS IS', WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLI
             <li>Each wiki is a bit different! Become familiar with the differing guidelines, styling, and policies of each wiki. Reach out to each wiki's help resources if you have any questions.</li>
             <li>At the end of the event, fill out and submit the participation form by <b>October 7<sup>th</sup></b> for a chance to win the prize. Even if you don't want the prize, we appreciate you filling the form out for statistical purposes.</li>
         </ul>
+        
+        <br>
+
+        <a name="submit"></a>
+        <h1 id="Submit">Submit Contributions</h1>
+
+        At the end of the event, please report your contributions by filling out the following form by <b>October<sup>th</sup></b>.
+        <br>
+        Filling out the form is required for a chance to win a prize!
+        <br><br>
+        <div style="width: 100%; text-align: center;">
+            <div class="button" style="background-color: #7F7F7F;"><span style="color: #3C3D3D;">Submission form opens in October</span></div>
+        </div>
 
         <br>
 
@@ -210,6 +223,16 @@ THE SOFTWARE IS PROVIDED 'AS IS', WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLI
             <li>Ciascun wiki &#232; leggermente differente! Prima di apportare modifiche, familiarizzate con le linee guida, i manuali di stile e le pratiche adottate da ciascun wiki. Per qualsiasi domanda, consultate le pagine di aiuto dei rispettivi wiki.</li>
             <li>Alla fine dell'evento, compilate e inviate il modulo di partecipazione sottostante entro il <b>7 ottobre</b> per avere una possibilit&#224; di vincere il premio. Anche se non doveste volere il premio, apprezzeremmo se compilaste il modulo per fini statistici.</li>
         </ul>
+
+        <br>
+        
+        <h1 id="Submit">Modulo</h1>
+
+        Una volta concluso l'evento, siete pregati di segnalare i vostri contributi compilando il seguente modulo entro il 7 ottobre. Compilare questo modulo è necessario per partecipare all'estrazione del premio. 
+        <br><br>
+        <div style="width: 100%; text-align: center;">
+            <div class="button" style="background-color: #7F7F7F;"><span style="color: #3C3D3D;">Submissions Open in October</span></div>
+        </div>
 
         <br>
 
