@@ -79,7 +79,7 @@ THE SOFTWARE IS PROVIDED 'AS IS', WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLI
         <a name="submit"></a>
         <h1 id="Submit">Submit Contributions</h1>
 
-        <b>Contribution submissions are now open!</b> Submit a summary of your Cross-Wiki Weekend edits by <b>October 7<sup>th</sup></b> using this linked form:
+        <b>Contribution submissions are now open!</b> Submit a summary of your Cross-Wiki Week edits by <b>October 7<sup>th</sup></b> using this linked form:
         <br><br>
         <div style="width: 100%; text-align: center;">
             <form>
