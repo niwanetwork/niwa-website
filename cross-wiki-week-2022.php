@@ -79,10 +79,12 @@ THE SOFTWARE IS PROVIDED 'AS IS', WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLI
         <a name="submit"></a>
         <h1 id="Submit">Submit Contributions</h1>
 
-        After the event ends, please report your contributions by filling out the following form by <b>October 7<sup>th</sup></b>. Filling out the form is required for a chance to win a prize!
+        <b>Contribution submissions are now open!</b> Submit a summary of your Cross-Wiki Week edits by <b>October 7<sup>th</sup></b> using this linked form:
         <br><br>
         <div style="width: 100%; text-align: center;">
-            <button class="button" disabled>Submission form opens in October</button>
+            <form>
+                <button style="font-size: 1.1em;" formaction="https://forms.gle/Lrbcbxjo9TMzoiG68">Submit Contributions</button>
+            </form>
         </div>
 
         <br>
@@ -226,10 +228,12 @@ THE SOFTWARE IS PROVIDED 'AS IS', WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLI
         
         <h1 id="Submit">Modulo</h1>
 
-        Una volta concluso l'evento, siete pregati di segnalare i vostri contributi compilando il seguente modulo entro il 7 ottobre. Compilare questo modulo è necessario per partecipare all'estrazione del premio. 
+        <b>Siete pregati di segnalare i vostri contributi</b> compilando il seguente modulo entro il <b>7 ottobre</b>. Compilare questo modulo è necessario per partecipare all'estrazione del premio.
         <br><br>
         <div style="width: 100%; text-align: center;">
-            <button class="button" disabled>Submission form opens in October</button>
+            <form>
+                <button style="font-size: 1.1em;" formaction="https://forms.gle/Lrbcbxjo9TMzoiG68">Submit</button>
+            </form>
         </div>
 
         <br>
