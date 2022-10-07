@@ -406,5 +406,17 @@
       "url": "https://www.zeldapendium.de/wiki/$1",
       "mainpage": "Zeldapendium:Hauptseite"
     }
+  ],
+  "es": [
+    {
+      "id": "wikidex",
+      "title": "WikiDex",
+      "description": "WikiDex es la mayor enciclopedia Pokémon en español, con 20.200 artículos, que abarca toda la información oficial de los videojuegos, anime, manga y juego de cartas coleccionables.",
+      "logo": "/images/logos/wikidex.png",
+      "url": "https://www.wikidex.net/wiki/$1",
+      "mainpage": "WikiDex",
+      "forums": "https://www.wikidex.net/wiki/Foro:Index",
+      "discord": "https://discord.gg/Tb6B3Fq"
+    }
   ]
 }

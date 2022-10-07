@@ -11,7 +11,8 @@ include('_header.php');
          $enwikis = (array) $dataHelper->getMemberWikis('en');
          $dewikis = (array) $dataHelper->getMemberWikis('de');
          $itwikis = (array) $dataHelper->getMemberWikis('it');
-         $wikis = array_merge($enwikis, $dewikis, $itwikis);
+         $eswikis = (array) $dataHelper->getMemberWikis('es');
+         $wikis = array_merge($enwikis, $dewikis, $itwikis, $eswikis);
          shuffle($wikis);
          foreach ($wikis as $wiki) {
             echo "
@@ -47,8 +48,8 @@ include('_header.php');
          <br/><br/>
       </div>
       <div class="flex-section stats text-center white">
-         <h2>260,000+ articles</h2>
-         across three languages
+         <h2>280,000+ articles</h2>
+         across four languages
          <br/><br/>
       </div>
       <div class="flex-section stats text-center white">

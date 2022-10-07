@@ -26,6 +26,9 @@ THE SOFTWARE IS PROVIDED 'AS IS', WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLI
     <input class='member-tab' id='tab3' type='radio' name='tabs'>
     <label for='tab3'>Italian Members</label>
 
+    <input class='member-tab' id='tab4' type='radio' name='tabs'>
+    <label for='tab4'>Spanish Members</label>
+
     <section class="member-tab-content" id='content1'>
         <?php
         foreach ($dataHelper->getMemberWikis('en') as $wiki) {
@@ -69,11 +72,32 @@ THE SOFTWARE IS PROVIDED 'AS IS', WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLI
         ?>
     </section>
     <section class="member-tab-content" id='content3'>
-        The Italian NIWA refers to themselves as <i>NiwiN</i> (<i>Network italiano wiki indipendenti Nintendo</i>).
-        <br><br>
+        <div style="text-align:center;margin-bottom: 20px;margin-top: 10px;">The Italian NIWA refers to themselves as <i>NiwiN</i> <br> (<i>Network italiano wiki indipendenti Nintendo</i>).
+    </div>
 
         <?php
         foreach ($dataHelper->getMemberWikis('it') as $wiki) {
+            echo "
+            <div class='member'>
+                <div class='logo'>
+                    <a href='{$dataHelper->getWikiLink($wiki->url, $wiki->mainpage)}'>
+                        <img src='{$wiki->logo}' alt='{$wiki->title}' />
+                    </a>
+                </div>
+                <div class='description'>
+                    <div class='links'>
+                        {$dataHelper->generateMemberLinks($wiki)}
+                    </div>
+                    <p>{$wiki->description}</p>
+                </div>
+            </div>
+            ";
+        }
+        ?>
+    </section>
+    <section class="member-tab-content" id='content4'>
+        <?php
+        foreach ($dataHelper->getMemberWikis('es') as $wiki) {
             echo "
             <div class='member'>
                 <div class='logo'>
