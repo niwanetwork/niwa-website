@@ -181,7 +181,7 @@ class NiwaDataHelper
 			$links .= $this->generateMemberLink($member->chat, "Chat");
 		};
 		if (isset($member->discord)) {
-			$links .= $this->generateMemberLink($member->discord, '<img src="/images/discord.png" alt="Discord" width="20" style="filter: opacity(0.5) drop-shadow(0 0 0 blue);" />');
+			$links .= $this->generateMemberLink($member->discord, '<img src="/images/discord.png" alt="Discord" width="20" />');
 		};
 		if (isset($member->twitter)) {
 			$links .= $this->generateMemberLink($member->twitter, '<img src="/images/twitter.png" alt="Twitter" width="20" />');
