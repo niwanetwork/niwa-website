@@ -171,7 +171,7 @@
     {
       "id": "nookipedia",
       "title": "Nookipedia",
-      "description": "Founded in August 2005 on Wikia, Nookipedia was originally known as Animal Crossing City. Shortly after its five-year anniversary, Animal Crossing City decided to merge with the independent Animal Crossing Wiki, which in January 2011 was renamed to Nookipedia. Covering everything from the series including characters, items, critters, and much more, Nookipedia is your number one resource for everything Animal Crossing!",
+      "description": "First founded on October 23, 2010, Nookipedia is your go-to resource for everything related to Animal Crossing, whether that is characters, items, critters, and more! Not long after its founding, Animal Crossing City, originally from Wikia, merged its content to Nookipedia, then named Animal Crossing Wiki before January 2011. Nookipedia now has an API for people to use the data used on Nookipedia pages to create their own projects! Yes-yes, do enjoy the wonderful knowledge Nookipedia has to offer, hm!",
       "logo": "/images/logos/nookipedia.png",
       "icon": "/images/icons/nookipedia.png",
       "url": "https://nookipedia.com/wiki/$1",
