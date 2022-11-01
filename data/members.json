@@ -328,8 +328,7 @@
       "icon": "/images/icons/zeldapedia.png",
       "url": "https://zeldapedia.wiki/wiki/$1",
       "mainpage": "Main_Page",
-      "interwiki": "zeldapedia",
-      "forums": "https://zeldauniverse.net/forums/Board/191-Zelda-Wiki/",
+      "interwiki": "zeldawiki",
       "twitter": "https://twitter.com/zeldawiki",
       "facebook": "https://www.facebook.com/zeldawiki",
       "discord": "https://discord.gg/eJnnvYb"
