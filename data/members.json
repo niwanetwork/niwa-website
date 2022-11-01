@@ -404,7 +404,8 @@
       "description": "Zeldapendium ist eine Enzyklopädie, also ein umfassendes Lexikon, die möglichst alle erhältlichen Informationen zu Nintendos Videospiel-Serie The Legend of Zelda sammeln und schön aufbereiten möchte. Unser Name setzt sich aus dem Namen des Spiels, Zelda, und dem ursprünglich lateinischen Wort für Nachschlagewerk, Compendium, zusammen. Wir verstehen uns als Mediaprojekt von Fans für Fans. Ins Leben gerufen wurde dieses Gemeinschaftsprojekt in Zusammenarbeit von Zeldafans, Zelda Kingdom und Zelda Europe.",
       "logo": "/images/logos/zeldapendium.png",
       "url": "https://www.zeldapendium.de/wiki/$1",
-      "mainpage": "Zeldapendium:Hauptseite"
+      "mainpage": "Zeldapendium:Hauptseite",
+      "discord": "https://discord.gg/rmzeRFE"
     }
   ]
 }
