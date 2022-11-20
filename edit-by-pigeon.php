@@ -89,7 +89,7 @@ include('_header.php');
 	<div style="clear: both; padding: 10px 0px;"></div>
 
 	<br /><img src="/images/edit-by-pigeon/kaepora.png" alt="Kaepora from the Legend of Zelda" style="float: right; width: 100px;">
-	<p><b><a href="https://zelda.fandom.com/wiki/Kaepora_Gaebora">Kaepora Gaebora</a></b> from <b><a href="https://zelda.fandom.com/wiki/Main_Page">Zelda Wiki</a></b></p>
+	<p><b><a href="https://zeldapedia.wiki/wiki/Kaepora_Gaebora">Kaepora Gaebora</a></b> from <b><a href="https://zeldapedia.wiki/wiki/Main_Page">Zelda Wiki</a></b></p>
 	<p>This great, honorable owl will brave the path to Hyrule to deliver your edits to the hands of Zelda Wiki editors. Hoo, hoo, hoo!</p>
 
 </div>
