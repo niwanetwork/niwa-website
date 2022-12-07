@@ -51,10 +51,26 @@ class NiwaDataHelper
 	 */
 	public function getMemberWikis($languageCode = null)
 	{
+		$filteredMembers = [];
+
 		if ($languageCode) {
-			return $this->memberWikis->{$languageCode};
+			$filteredMembers = array_filter(
+				$this->memberWikis->{$languageCode}, 
+				function($val){ 
+					return !($val->former ?? false);
+				});
+		} else {
+			foreach ($this->memberWikis as $key => $data) {
+				$filteredMembers = array_merge($filteredMembers, $this->memberWikis->{$key});
+			}
+			$filteredMembers = array_filter(
+				$filteredMembers, 
+				function($val){ 
+					return !($val->former ?? false);
+				});
 		}
-		return $this->memberWikis;
+
+		return $filteredMembers;
 	}
 
 	/**
