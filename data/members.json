@@ -48,7 +48,8 @@
       "url": "https://dragon-quest.org/wiki/$1",
       "mainpage": "Main_Page",
       "interwiki": "dragonquest",
-      "forums": "https://www.woodus.com/forums/forum/88-dragon-quest-wiki/"
+      "forums": "https://www.woodus.com/forums/forum/88-dragon-quest-wiki/",
+      "former": true
     },
     {
       "id": "fewiki",
