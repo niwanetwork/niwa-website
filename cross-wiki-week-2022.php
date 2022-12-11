@@ -102,7 +102,7 @@ THE SOFTWARE IS PROVIDED 'AS IS', WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLI
         <h3 class="text-center">English Wikis</h3>
         <div class="text-center cww-grid">
             <?php
-            $wikis = $dataHelper->getMemberWikis('en');
+            $wikis = $dataHelper->getMemberWikis(languageCode: 'en', includeFormer: TRUE);
             $affiliates = $dataHelper->getAffiliates();
             $wikis = array_merge($wikis, $affiliates);
             foreach ($dataHelper->getCWW('2022', 'en') as $cww) {
@@ -126,7 +126,7 @@ THE SOFTWARE IS PROVIDED 'AS IS', WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLI
         <h3 class="text-center">Italian Wikis</h3>
         <div class="text-center cww-grid">
             <?php
-            $wikis = $dataHelper->getMemberWikis('it');
+            $wikis = $dataHelper->getMemberWikis(languageCode: 'it', includeFormer: TRUE);
             foreach ($dataHelper->getCWW('2022', 'it') as $cww) {
                 $id = $cww->id;
                 $wiki = $wikis[array_search($id, array_column($wikis, 'id'))];
@@ -250,7 +250,7 @@ THE SOFTWARE IS PROVIDED 'AS IS', WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLI
         <h3 class="text-center">Wiki in italiano</h3>
         <div class="text-center cww-grid">
             <?php
-            $wikis = $dataHelper->getMemberWikis('it');
+            $wikis = $dataHelper->getMemberWikis(languageCode: 'it', includeFormer: TRUE);
             foreach ($dataHelper->getCWW('2022', 'it') as $cww) {
                 $id = $cww->id;
                 $wiki = $wikis[array_search($id, array_column($wikis, 'id'))];
@@ -272,7 +272,7 @@ THE SOFTWARE IS PROVIDED 'AS IS', WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLI
         <h3 class="text-center">Wiki in inglese</h3>
         <div class="text-center cww-grid">
             <?php
-            $wikis = $dataHelper->getMemberWikis('en');
+            $wikis = $dataHelper->getMemberWikis(languageCode: 'en', includeFormer: TRUE);
             $affiliates = $dataHelper->getAffiliates();
             $wikis = array_merge($wikis, $affiliates);
             foreach ($dataHelper->getCWW('2022', 'en') as $cww) {
