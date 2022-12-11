@@ -45,29 +45,39 @@ class NiwaDataHelper
 	/**
 	 * Return all member wikis or if language code given,
 	 * all wikis for that language code.
+	 * $includeFormer may be set to true to retrieve former members.
 	 * 
 	 * @param string $languageCode
+	 * @param string $former
 	 * @return object
 	 */
-	public function getMemberWikis($languageCode = null)
+	public function getMemberWikis($languageCode = null, $includeFormer = null)
 	{
 		$filteredMembers = [];
 
 		if ($languageCode) {
-			$filteredMembers = array_filter(
+			if($includeFormer) {
+				$filteredMembers = $this->memberWikis->{$languageCode};
+			} else {
+				$filteredMembers = array_filter(
 				$this->memberWikis->{$languageCode}, 
 				function($val){ 
-					return !($val->former ?? false);
+					return !($val->former ?? FALSE);
 				});
+			}
 		} else {
 			foreach ($this->memberWikis as $key => $data) {
 				$filteredMembers = array_merge($filteredMembers, $this->memberWikis->{$key});
 			}
-			$filteredMembers = array_filter(
-				$filteredMembers, 
+			if($includeFormer) {
+				$filteredMembers = $this->memberWikis->{$languageCode};
+			} else {
+				$filteredMembers = array_filter(
+				$this->memberWikis->{$languageCode}, 
 				function($val){ 
-					return !($val->former ?? false);
+					return !($val->former ?? FALSE);
 				});
+			}
 		}
 
 		return $filteredMembers;
@@ -93,12 +103,16 @@ class NiwaDataHelper
 	public function getMemberWikiCount($languageCode = null)
 	{
 		if ($languageCode) {
-			return count($this->memberWikis->{$languageCode});
+			return count(array_filter($this->memberWikis->{$languageCode}, function($val) {
+				return !($val->former ?? FALSE);
+			}));
 		}
 
 		$wikiCount = 0;
 		foreach ($this->memberWikis as $languageMemberWikis) {
-			$wikiCount += count($languageMemberWikis);
+			$wikiCount += count(array_filter($languageMemberWikis, function($val){
+				return !($val->former ?? FALSE);
+			}));
 		}
 		return $wikiCount;
 	}
