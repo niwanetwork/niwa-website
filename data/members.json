@@ -40,6 +40,17 @@
       "discord": "https://discord.gg/dragalialost"
     },
     {
+      "id": "drawntolife",
+      "title": "Drawn to Life Wapopedia",
+      "description": "Wapopedia is the ultimate resource for Drawn to Life! Originally created on Wikia on July 8, 2008, the Wiki went independent, becoming Wapopedia, on November 16, 2020 in anticipation for the release of Drawn to Life: Two Realms. Now fully independent, we're drawn to be the number one encyclopedia and community hub for all things Drawn to Life!",
+      "logo": "/images/logos/drawntolife.png",
+      "icon": "/images/icons/drawntolife.png",
+      "url": "https://drawntolife.wiki/en/$1",
+      "mainpage": "Main_Page",
+      "interwiki": "drawntolife",
+      "discord": "https://discord.gg/y9CaVXr"
+    },
+    {
       "id": "dqwiki",
       "title": "Dragon Quest Wiki",
       "description": "Originally founded on Wikia, the Dragon Quest Wiki was largely inactive until FlyingRagnar became an admin in late 2009. The wiki went independent about a year later when it merged with the Dragon Quest Dictionary/Encyclopedia which was run by Zenithian and supported by the Dragon's Den.  The Dragon Quest Wiki aims to be the most complete resource for Dragon Quest information on the web. It continues to grow in the hope that one day the series will be as popular in the rest of the world as it is in Japan.",
