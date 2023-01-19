@@ -143,7 +143,7 @@
     {
       "id": "khwiki",
       "title": "Kingdom Hearts Wiki",
-      "description": "The Kingdom Hearts Wiki is a comprehensive wiki and encyclopedia dedicated to the Kingdom Hearts video game series from Square Enix.",
+      "description": "The Kingdom Hearts Wiki is a wiki focusing on the Kingdom Hearts video game series, developed by Square Enix in cooperation with Disney. The KHWiki strives to document all things related to Kingdom Hearts, from storyline elements to gameplay. The site was originally founded on April 1st, 2006 by Riku5464 on Wikia before moving to independent hosting on February 9th, 2011.",
       "logo": "/images/logos/khwiki.png",
       "icon": "/images/icons/khwiki.png",
       "url": "https://www.khwiki.com/$1",
