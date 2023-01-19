@@ -141,6 +141,19 @@
       "discord": "https://discord.gg/42GwSvV4Pg"
     },
     {
+      "id": "khwiki",
+      "title": "Kingdom Hearts Wiki",
+      "description": "The Kingdom Hearts Wiki is a comprehensive wiki and encyclopedia dedicated to the Kingdom Hearts video game series from Square Enix.",
+      "logo": "/images/logos/khwiki.png",
+      "icon": "/images/icons/khwiki.png",
+      "url": "https://www.khwiki.com/$1",
+      "mainpage": "",
+      "interwiki": "khwiki",
+      "facebook": "https://www.facebook.com/khwikinet",
+      "twitter": "https://twitter.com/KHWiki",
+      "discord": "https://discord.gg/bavMzKu"
+    },
+    {
       "id": "lylatwiki",
       "title": "Lylat Wiki",
       "description": "Out of seemingly nowhere, Lylat Wiki sprung up one day in early 2010. Led by creator, Justin Folvarcik, and project head, Tacopill, the wiki has reached stability since the move to its own domain. The staff of Lylat Wiki are glad to help out the NIWA wikis and are even prouder to join NIWA's ranks as the source for information on the Star Fox series.",
