@@ -154,6 +154,18 @@
       "discord": "https://discord.gg/bavMzKu"
     },
     {
+      "id": "kovopedia",
+      "title": "Kovopedia",
+      "description": "Kovopedia was originally founded as the Magical Wiki on Wikia in 2010. It went independent in 2022, and now strives to be the best source of information about the Baklava solar system. Now opens... the door to the heavens!",
+      "logo": "/images/logos/kovopedia.png",
+      "icon": "/images/icons/kovopedia.png",
+      "url": "https://kovopedia.com/wiki/$1",
+      "mainpage": "Main_Page",
+      "interwiki": "kovopedia",
+      "twitter": "https://twitter.com/Kovopedia",
+      "discord": "https://discord.com/invite/t9dT52fKM8"
+    },
+    {
       "id": "lylatwiki",
       "title": "Lylat Wiki",
       "description": "Out of seemingly nowhere, Lylat Wiki sprung up one day in early 2010. Led by creator, Justin Folvarcik, and project head, Tacopill, the wiki has reached stability since the move to its own domain. The staff of Lylat Wiki are glad to help out the NIWA wikis and are even prouder to join NIWA's ranks as the source for information on the Star Fox series.",
