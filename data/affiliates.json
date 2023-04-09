@@ -19,6 +19,15 @@
     "twitter": "https://twitter.com/doomwiki"
   },
   {
+    "id": "falloutwiki",
+    "title": "The Fallout Wiki",
+    "description": "The Fallout Wiki is dedicated to documenting and celebrating all aspects of the Fallout series, including games, community, media, and mods.",
+    "logo": "/images/logos/falloutwiki.png",
+    "url": "https://fallout.wiki/",
+    "twitter": "https://twitter.com/thefalloutwiki",
+    "discord": "https://discord.gg/falloutwiki"
+  },
+  {
     "id": "halopedia",
     "title": "Halopedia",
     "description": "The Halo encyclopedia and definitive source for Halo information that anyone can edit.",
