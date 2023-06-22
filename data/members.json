@@ -194,6 +194,19 @@
       "discord": "https://discord.gg/pYghWh3"
     },
     {
+      "id": "mysterydungeonwiki",
+      "title": "Mystery Dungeon Franchise Wiki",
+      "description": "The Mystery Dungeon Franchise Wiki (MDFW) is the Library of Alexandria for everything Mystery Dungeon related.",
+      "logo": "/images/logos/mysterydungeonwiki.png",
+      "icon": "/images/icons/mysterydungeonwiki.png",
+      "url": "https://www.mysterydungeonwiki.com/wiki/$1",
+      "mainpage": "Mystery_Dungeon_Franchise_Wiki",
+      "interwiki": "mdfw",
+      "twitter": "https://twitter.com/mdfw_en",
+      "facebook": "https://www.facebook.com/groups/814669675747116/",
+      "discord": "https://discord.gg/4dKnfpW"
+    },
+    {
       "id": "nintendowiki",
       "title": "Nintendo Wiki",
       "description": "Created on May 12, 2010, NintendoWiki (N-Wiki) is a collaborative project by the NIWA team to create an encyclopedia dedicated to Nintendo, being the company around which all other NIWA content is focused. It ranges from mainstream information such as the games and people who work for the company, to the most obscure info like patents and interesting trivia.",
