@@ -199,7 +199,7 @@
       "description": "The Mystery Dungeon Franchise Wiki (MDFW) is the Library of Alexandria for everything Mystery Dungeon related.",
       "logo": "/images/logos/mysterydungeonwiki.png",
       "icon": "/images/icons/mysterydungeonwiki.png",
-      "url": "https://www.mysterydungeonwiki.com/wiki/$1",
+      "url": "https://mysterydungeonwiki.com/wiki/$1",
       "mainpage": "Mystery_Dungeon_Franchise_Wiki",
       "interwiki": "mdfw",
       "twitter": "https://twitter.com/mdfw_en",
