@@ -235,7 +235,7 @@ class NiwaDataHelper
 			$links .= $this->generateMemberLink($member->telegram, '<img src="/images/telegram.png" alt="Telegram" width="20" />');
 		};
 		if (isset($member->youtube)) {
-			$links .= $this->generateMemberLink($member->youtube, '<img src="/images/youtube.png" alt="Telegram" width="20" />');
+			$links .= $this->generateMemberLink($member->youtube, '<img src="/images/youtube.png" alt="YouTube" width="20" />');
 		};
 
 		return $links;
