@@ -24,8 +24,10 @@
       "interwiki": "bulbapedia",
       "forums": "https://forums.bulbagarden.net/index.php?forums/bulbawiki-forum.195/",
       "twitter": "https://www.twitter.com/#!/Bulbapedia",
+      "twitch": "https://www.twitch.tv/bulbagarden",
       "facebook": "https://www.facebook.com/Bulbapedia",
-      "discord": "https://discord.gg/bulbagarden"
+      "discord": "https://discord.gg/bulbagarden",
+      "youtube": "https://www.youtube.com/user/Bulbagarden"
     },
     {
       "id": "dragalialost",
@@ -48,7 +50,8 @@
       "url": "https://drawntolife.wiki/en/$1",
       "mainpage": "Main_Page",
       "interwiki": "drawntolife",
-      "discord": "https://discord.gg/y9CaVXr"
+      "discord": "https://discord.gg/y9CaVXr",
+      "tumblr": "https://drawntolifeforall.tumblr.com/"
     },
     {
       "id": "dqwiki",
@@ -74,7 +77,8 @@
       "forums": "http://www.niwanetwork.org/forums/index.php?board=39.0",
       "twitter": "https://twitter.com/FEWikiOfficial",
       "facebook": "https://www.facebook.com/fireemblemwiki/",
-      "discord": "https://discord.gg/FzRd5P4nyQ"
+      "discord": "https://discord.gg/FzRd5P4nyQ",
+      "tumblr": "https://fireemblemwikiofficial.tumblr.com/"
     },
     {
       "id": "fzerowiki",
@@ -98,7 +102,8 @@
       "icon": "/images/icons/goldensununiverse.png",
       "url": "https://goldensunwiki.net/wiki/$1",
       "mainpage": "Main_Page",
-      "interwiki": "goldensun"
+      "interwiki": "goldensun",
+      "discord": "https://discord.gg/eZDwuad"
     },
     {
       "id": "harddrop",
@@ -112,7 +117,8 @@
       "forums": "https://harddrop.com/forums/",
       "twitter": "https://twitter.com/harddrop",
       "twitch": "https://www.twitch.tv/harddrop",
-      "discord": "https://discord.gg/harddrop"
+      "discord": "https://discord.gg/harddrop",
+      "facebook": "https://www.facebook.com/harddrop"
     },
     {
       "id": "icaruspedia",
@@ -138,7 +144,8 @@
       "interwiki": "inkipedia",
       "twitter": "https://twitter.com/splatoonwiki",
       "facebook": "https://www.facebook.com/Inkipedia",
-      "discord": "https://discord.gg/42GwSvV4Pg"
+      "discord": "https://discord.gg/42GwSvV4Pg",
+      "youtube": "https://www.youtube.com/Inkipedia"
     },
     {
       "id": "khwiki",
@@ -151,7 +158,8 @@
       "interwiki": "khwiki",
       "facebook": "https://www.facebook.com/khwikinet",
       "twitter": "https://twitter.com/KHWiki",
-      "discord": "https://discord.gg/bavMzKu"
+      "discord": "https://discord.gg/bavMzKu",
+      "youtube": "https://www.youtube.com/@KingdomHeartsWiki"
     },
     {
       "id": "kovopedia",
@@ -191,7 +199,8 @@
       "forums": "http://www.niwanetwork.org/forums/index.php?board=14.0",
       "twitter": "https://twitter.com/MetroidWikiNIWA",
       "facebook": "https://www.facebook.com/MetroidWiki",
-      "discord": "https://discord.gg/pYghWh3"
+      "discord": "https://discord.gg/pYghWh3",
+      "youtube": "https://www.youtube.com/user/TheMetroidWiki"
     },
     {
       "id": "mysterydungeonwiki",
@@ -202,9 +211,12 @@
       "url": "https://mysterydungeonwiki.com/wiki/$1",
       "mainpage": "Mystery_Dungeon_Franchise_Wiki",
       "interwiki": "mdfw",
+      "instagram": "https://www.instagram.com/mysterydungeonwiki/",
       "twitter": "https://twitter.com/mdfw_en",
       "facebook": "https://www.facebook.com/groups/814669675747116/",
-      "discord": "https://discord.gg/4dKnfpW"
+      "discord": "https://discord.gg/4dKnfpW",
+      "reddit": "https://www.reddit.com/r/MysteryDungeonWiki/",
+      "youtube": "https://www.youtube.com/@MDFW"
     },
     {
       "id": "nintendowiki",
@@ -227,6 +239,7 @@
       "url": "https://nookipedia.com/wiki/$1",
       "mainpage": "Main_Page",
       "interwiki": "nookipedia",
+      "instagram": "https://www.instagram.com/nookipedia/",
       "twitter": "https://www.twitter.com/nookipedia",
       "facebook": "https://www.facebook.com/nookipedia",
       "discord": "https://discord.gg/cpQ5tJV"
@@ -386,7 +399,7 @@
     }
   ],
   "it": [
-     {
+    {
       "id": "pokemoncentral",
       "title": "Pokémon Central Wiki",
       "description": "Pokémon Central Wiki è un\"enciclopedia Pokémon in lingua italiana. È stata creata il 28 marzo 2008 da Gkx e Ipergorilla. Il 19 agosto 2010 è entrata a far parte del progetto Encyclopædiæ Pokémonis.",
@@ -395,9 +408,12 @@
       "mainpage": "Home",
       "forums": "https://forum.pokemoncentral.it/",
       "chat": "https://telegram.me/pcentralchat",
+      "instagram": "https://www.instagram.com/pokemoncentral_official",
       "twitter": "https://twitter.com/pokemoncentral",
       "facebook": "https://www.facebook.com/pokemoncentral",
-      "discord": "https://discord.gg/WX4RrRf"
+      "discord": "https://discord.gg/WX4RrRf",
+      "telegram": "https://telegram.me/pokemoncentral",
+      "youtube": "https://www.youtube.com/pokemoncentralvideo"
     },
     {
       "id": "supermariowikiit",
@@ -407,9 +423,13 @@
       "url": "https://www.mariowiki.it/$1",
       "mainpage": "Pagina_principale",
       "forums": "https://www.mariocastle.it/forum/",
+      "instagram": "https://www.instagram.com/mariocastle.it/",
       "twitter": "https://twitter.com/mariocastle_it",
+      "twitch": "https://twitch.tv/mariocastle",
       "facebook": "https://www.facebook.com/mariocastle.it",
-      "discord": " https://discord.gg/jjncRZu"
+      "discord": "https://discord.gg/jjncRZu",
+      "telegram": "https://telegram.me/mariocastle",
+      "youtube": "https://youtube.com/mariocastlechannel"
     },
     {
       "id": "wikiboundit",
@@ -421,7 +441,8 @@
       "mainpage": "Pagina_principale",
       "twitter": "https://twitter.com/wikibound_it",
       "facebook": "https://www.facebook.com/WikiBoundITA",
-      "discord": "https://discord.gg/7TqG99n"
+      "discord": "https://discord.gg/7TqG99n",
+      "telegram": "https://t.me/wikibound"
     },
     {
       "id": "xenopediait",
@@ -432,9 +453,13 @@
       "url": "https://www.xenopedia.it/$1",
       "mainpage": "Pagina_principale",
       "chat": "https://t.me/XenobladeRAlpha",
+      "instagram": "https://www.instagram.com/xenobladeralpha",
       "twitter": "https://twitter.com/XenobladeRAlpha",
+      "twitch": "https://www.twitch.tv/xenobladeuniverseralpha",
       "facebook": "https://www.facebook.com/XenobladeRAlpha",
-      "discord": "https://discord.gg/A9vZCUP"
+      "discord": "https://discord.gg/A9vZCUP",
+      "telegram": "https://t.me/XenobladeItalia",
+      "youtube": "https://www.youtube.com/channel/UCh-L-JnEoO6grNN73xUTWtA"
     }
   ],
   "de": [
@@ -446,7 +471,8 @@
       "url": "https://mariowiki.net/wiki/$1",
       "mainpage": "MarioWiki:Hauptseite",
       "forums": "https://mario-forum.net/",
-      "facebook": "https://www.facebook.com/mariowiki.net"
+      "facebook": "https://www.facebook.com/mariowiki.net",
+      "discord": "https://discord.gg/mXA6bR8"
     },
     {
       "id": "zeldapendium",
