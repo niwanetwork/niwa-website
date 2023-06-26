@@ -225,6 +225,18 @@ class NiwaDataHelper
 		if (isset($member->facebook)) {
 			$links .= $this->generateMemberLink($member->facebook, '<img src="/images/facebook.png" alt="Facebook" width="20" />');
 		};
+		if (isset($member->tumblr)) {
+			$links .= $this->generateMemberLink($member->tumblr, '<img src="/images/tumblr.png" alt="Tumblr" width="20" />');
+		};
+		if (isset($member->reddit)) {
+			$links .= $this->generateMemberLink($member->reddit, '<img src="/images/reddit.png" alt="Reddit" width="20" />');
+		};
+		if (isset($member->telegram)) {
+			$links .= $this->generateMemberLink($member->telegram, '<img src="/images/telegram.png" alt="Telegram" width="20" />');
+		};
+		if (isset($member->youtube)) {
+			$links .= $this->generateMemberLink($member->youtube, '<img src="/images/youtube.png" alt="Telegram" width="20" />');
+		};
 
 		return $links;
 	}
