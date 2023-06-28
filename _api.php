@@ -213,14 +213,29 @@ class NiwaDataHelper
 		if (isset($member->discord)) {
 			$links .= $this->generateMemberLink($member->discord, '<img src="/images/discord.png" alt="Discord" width="20" />');
 		};
+		if (isset($member->instagram)) {
+			$links .= $this->generateMemberLink($member->instagram, '<img src="/images/instagram.png" alt="Instagram" width="20" />');
+		};
 		if (isset($member->twitter)) {
 			$links .= $this->generateMemberLink($member->twitter, '<img src="/images/twitter.png" alt="Twitter" width="20" />');
 		};
 		if (isset($member->twitch)) {
-			$links .= $this->generateMemberLink($member->twitch, "Twitch");
+			$links .= $this->generateMemberLink($member->twitch, '<img src="/images/twitch.png" alt="Twitch" width="20" />');
 		};
 		if (isset($member->facebook)) {
 			$links .= $this->generateMemberLink($member->facebook, '<img src="/images/facebook.png" alt="Facebook" width="20" />');
+		};
+		if (isset($member->tumblr)) {
+			$links .= $this->generateMemberLink($member->tumblr, '<img src="/images/tumblr.png" alt="Tumblr" width="20" />');
+		};
+		if (isset($member->reddit)) {
+			$links .= $this->generateMemberLink($member->reddit, '<img src="/images/reddit.png" alt="Reddit" width="20" />');
+		};
+		if (isset($member->telegram)) {
+			$links .= $this->generateMemberLink($member->telegram, '<img src="/images/telegram.png" alt="Telegram" width="20" />');
+		};
+		if (isset($member->youtube)) {
+			$links .= $this->generateMemberLink($member->youtube, '<img src="/images/youtube.png" alt="YouTube" width="20" />');
 		};
 
 		return $links;
