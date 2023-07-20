@@ -399,6 +399,19 @@
   ],
   "it": [
     {
+      "id": "pikipediait",
+      "title": "Pikipedia (IT)",
+      "description": "Pikipedia è un'enciclopedia dedicata alla serie di Pikmin. È stata ufficialmente aperta il 12 febbraio 2023 e fa parte de La Tana dei Pikmin, la community italiana completamente dedicata a questa serie.",
+      "logo": "/images/logos/pikipediait.png",
+      "url": "https://pikminitalia.it/wiki/$1",
+      "mainpage": "Pagina_principale",
+      "instagram": "https://www.instagram.com/pikminitalia/",
+      "twitter": "https://twitter.com/PikminItalia",
+      "telegram": "https://t.me/tanadeipikmin",
+      "twitch": "https://www.twitch.tv/latanadeipikmin",
+      "youtube": "https://www.youtube.com/pokemoncentralvideo"
+    },
+    {
       "id": "pokemoncentral",
       "title": "Pokémon Central Wiki",
       "description": "Pokémon Central Wiki è un\"enciclopedia Pokémon in lingua italiana. È stata creata il 28 marzo 2008 da Gkx e Ipergorilla. Il 19 agosto 2010 è entrata a far parte del progetto Encyclopædiæ Pokémonis.",
