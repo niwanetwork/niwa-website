@@ -430,16 +430,14 @@
     {
       "id": "supermariowikiit",
       "title": "Super Mario Wiki (IT)",
-      "description": "La Super Mario Wiki è un\"enciclopedia su tutto ciò che riguarda la serie di Super Mario. È stata fondata il 30 novembre 2011 ed è affiliata con la Super Mario Wiki inglese e la Mario Wiki tedesca. Fa parte del Mario's Castle, primo sito italiano su Mario.",
+      "description": "La Super Mario Wiki è un'enciclopedia su tutto ciò che riguarda la serie di Super Mario. È stata fondata il 30 novembre 2011 ed è affiliata con la Super Mario Wiki inglese e la Mario Wiki tedesca. Fa parte del Mario's Castle, primo sito italiano su Mario.",
       "logo": "/images/logos/mariowikiit.png",
       "url": "https://www.mariowiki.it/$1",
       "mainpage": "Pagina_principale",
-      "forums": "https://www.mariocastle.it/forum/",
       "instagram": "https://www.instagram.com/mariocastle.it/",
       "twitter": "https://twitter.com/mariocastle_it",
       "twitch": "https://twitch.tv/mariocastle",
-      "facebook": "https://www.facebook.com/mariocastle.it",
-      "discord": "https://discord.gg/jjncRZu",
+      "discord": "https://discord.gg/WYgHZnv",
       "telegram": "https://telegram.me/mariocastle",
       "youtube": "https://youtube.com/mariocastlechannel"
     },
