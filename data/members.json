@@ -271,6 +271,16 @@
       "discord": "https://discord.gg/msMKc3G"
     },
     {
+      "id": "rhythmheaven",
+      "title": "Rhythm Heaven Wiki",
+      "description": "Ain't got rhythm? Rhythm Heaven Wiki is here to solve your needs! While it can't improve your rhythm, it can provide you with information on the charming series and the many rhythm games in it. Founded in 2009, independent since 2023.",
+      "logo": "/images/logos/rhythmheavenwiki.png",
+      "icon": "/images/icons/rhythmheavenwiki.png",
+      "url": "https://rhwiki.net/wiki/$1",
+      "mainpage": "Home",
+      "interwiki": "rhythmheaven"
+    },
+    {
       "id": "smashwiki",
       "title": "SmashWiki",
       "description": "Originally two separate wikis (one on SmashBoards, the other on Wikia), SmashWiki as we know it was formed out of a merge on February 29th, 2008, becoming independent on September 28th, 2010. SmashWiki is the premier source of Smash Bros. information, from simple tidbits to detailed mechanics, and also touches on the origins of its wealth of content from its sibling franchises.",
