@@ -51,7 +51,7 @@ THE SOFTWARE IS PROVIDED 'AS IS', WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLI
 
         <br>
 
-        If you forgot to add the hashtag, or made a contribution that doesn't allow for edit summaries (like uploading a file), you can use this form to submit those edits via <a href="https://forms.gle/bxSckmk8oDdei2ry5" target="_blank">this form</a>.
+        If you forget to add the hashtag to your edit(s), or make a contribution that doesn't allow for edit summaries (like uploading a file), you can submit those edits via <a href="https://forms.gle/bxSckmk8oDdei2ry5" target="_blank">this form</a>.
 
         <br>
 
