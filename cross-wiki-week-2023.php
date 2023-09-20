@@ -90,7 +90,6 @@ THE SOFTWARE IS PROVIDED 'AS IS', WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLI
             </ul>
             <li>As long as you make at least one non-minor edit, you're eligible to win the prize.</li>
             <li>Each wiki is a bit different! Become familiar with the differing guidelines, styling, and policies of each wiki. Reach out to each wiki's help resources if you have any questions.</li>
-            <li>At the end of the event, fill out and submit the participation form by <b>October 7<sup>th</sup></b> for a chance to win the prize. Even if you don't want the prize, we appreciate you filling the form out for statistical purposes.</li>
         </ul>
 
         <br>
