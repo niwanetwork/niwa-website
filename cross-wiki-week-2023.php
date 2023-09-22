@@ -31,15 +31,19 @@ THE SOFTWARE IS PROVIDED 'AS IS', WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLI
         Whether it's adding new content, uploading an image, or adding a reference, we want you to take your experience and love for video games to a new wiki!
         <br><br>
         Two random participants will win <b>$20/€20 Nintendo e-Shop Gift Cards</b>.
-
         <br><br>
+        Our goal with this annual event is to bring editors to new wikis, promote cooperation, support smaller wikis, and help create new long-term editors.
+        
+        <br><br>
+        <div class="text-center"><img class="margin-auto" src="/images/nintendo_characters.png" alt="Several mainline Nintendo characters, including Mario, Pikachu, Kirby, Samus, Bowser, and Donkey Kong." width="400px"></div>
+        <br>
 
         <a name="submit"></a>
         <h1 id="Submit">Sign-up and Submit Contributions</h1>
 
-        If you'd like to participate, use the sign-up link below at any time to provide your wiki username and contact info.
+        <b>We have a new process this year!</b> If you'd like to participate, use the sign-up link below at any time to provide your wiki username and contact info.
         <br><br>
-        <b>New this year!</b> To submit your edits for the event, simply add the hashtag "#cww" to the edit summaries of edits you make from September 23<sup>rd</sup> through October 1<sup>st</sup>.
+        To submit your edits for the event, simply add the hashtag "#cww" to the edit summaries of edits you make from September 23<sup>rd</sup> through October 1<sup>st</sup>.
         We will gather all #cww edits and score them for the drawing.
         
         <br><br>
@@ -52,20 +56,6 @@ THE SOFTWARE IS PROVIDED 'AS IS', WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLI
         <br>
 
         If you forget to add the hashtag to your edit(s), or make a contribution that doesn't allow for edit summaries (like uploading a file), you can submit those edits via <a href="https://forms.gle/bxSckmk8oDdei2ry5" target="_blank">this separate form</a>.
-
-        <br>
-
-        <h1 id="Goals">Goals</h1>
-
-        Why are we hosting this event? In addition to being a fun way of celebrating Nintendo's birthday, we hope this event...
-        <ul>
-            <li>...exposes editors to new wikis</li>
-            <li>...promotes cooperation between NIWA wikis</li>
-            <li>...provides more support for smaller wikis</li>
-            <li>...creates some new long-term editors</li>
-        </ul>
-
-        <div class="text-center"><img class="margin-auto" src="/images/nintendo_characters.png" alt="Several mainline Nintendo characters, including Mario, Pikachu, Kirby, Samus, Bowser, and Donkey Kong." width="400px"></div>
 
         <br>
 
