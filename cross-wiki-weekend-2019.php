@@ -132,7 +132,7 @@ THE SOFTWARE IS PROVIDED 'AS IS', WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLI
 
 		<br>
 
-		<h3 style="text-align: center;">English Wikis</h3>
+		<h2 style="text-align: center;">English Wikis</h2>
 		<table style="margin: 5px; width: 100%;">
 			<tr>
 				<td style="padding: 8px 4px; text-align: center; width: 25%;"><a style="font-weight: normal;" href="https://armswiki.org/wiki/ARMS_Institute:To_Do"><img src="/images/logos/armswiki.png" alt="ARMS Institute" width="90px"><br/>To-Do List</a></td>
@@ -172,7 +172,7 @@ THE SOFTWARE IS PROVIDED 'AS IS', WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLI
 			</tr>
 		</table>
 
-		<h3 style="text-align: center;">Italian Wikis</h3>
+		<h2 style="text-align: center;">Italian Wikis</h2>
 		<table style="margin: 5px; width: 100%;">
 			<tr>
 				<td style="padding: 8px 4px; text-align: center; width: 25%;"><a style="color:#53C651;" href="https://wiki.pokemoncentral.it/Meta:Cross-Wiki_Weekend"><img src="/images/logos/pokemoncentral.png" alt="Pokémon Central Wiki" width="90px"><br/>Cross-Wiki Guide</a></td>
@@ -335,7 +335,7 @@ THE SOFTWARE IS PROVIDED 'AS IS', WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLI
 
 		<br>
 
-		<h3 style="text-align: center;">Wiki in inglese</h3>
+		<h2 style="text-align: center;">Wiki in inglese</h2>
 		<table style="margin: 5px; width: 100%;">
 			<tr>
 				<td style="padding: 8px 4px; text-align: center; width: 25%;"><a style="font-weight: normal;" href="https://armswiki.org/wiki/ARMS_Institute:To_Do"><img src="/images/logos/armswiki.png" alt="ARMS Institute" width="90px"><br/>To-Do List</a></td>
@@ -375,7 +375,7 @@ THE SOFTWARE IS PROVIDED 'AS IS', WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLI
 			</tr>
 		</table>
 
-		<h3 style="text-align: center;">Wiki in italiano</h3>
+		<h2 style="text-align: center;">Wiki in italiano</h2>
 		<table style="margin: 5px; width: 100%;">
 			<tr>
 				<td style="padding: 8px 4px; text-align: center; width: 25%;"><a style="color:#53C651;" href="https://wiki.pokemoncentral.it/Meta:Cross-Wiki_Weekend"><img src="/images/logos/pokemoncentral.png" alt="Pokémon Central Wiki" width="90px"><br/>Cross-Wiki Guide</a></td>

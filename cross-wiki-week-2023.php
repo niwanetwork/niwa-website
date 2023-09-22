@@ -39,8 +39,8 @@ THE SOFTWARE IS PROVIDED 'AS IS', WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLI
 
         If you'd like to participate, use the sign-up link below at any time to provide your wiki username and contact info.
         <br><br>
-        To submit your edits for the event, simply add the hashtag "#cww" to the edit summaries of edits you make from September 23<sup>rd</sup> through October 1<sup>st</sup>.
-        We'll gather all #cww edits and score them for the drawing.
+        <b>New this year!</b> To submit your edits for the event, simply add the hashtag "#cww" to the edit summaries of edits you make from September 23<sup>rd</sup> through October 1<sup>st</sup>.
+        We will gather all #cww edits and score them for the drawing.
         
         <br><br>
         <div style="width: 100%; text-align: center;">
@@ -51,7 +51,7 @@ THE SOFTWARE IS PROVIDED 'AS IS', WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLI
 
         <br>
 
-        If you forget to add the hashtag to your edit(s), or make a contribution that doesn't allow for edit summaries (like uploading a file), you can submit those edits via <a href="https://forms.gle/bxSckmk8oDdei2ry5" target="_blank">this form</a>.
+        If you forget to add the hashtag to your edit(s), or make a contribution that doesn't allow for edit summaries (like uploading a file), you can submit those edits via <a href="https://forms.gle/bxSckmk8oDdei2ry5" target="_blank">this separate form</a>.
 
         <br>
 
@@ -75,20 +75,10 @@ THE SOFTWARE IS PROVIDED 'AS IS', WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLI
 
         <ul>
             <li>The event starts at 00:01 (UTC) on Friday, September 23, and runs until 23:59 (UTC) on Sunday, October 1.</li>
-            <li>To participate, contribute to at least one participating wiki (listed below) that you have never, or rarely, contributed to.</li>
-            <li>To simplify contribution tracking, participants must have an account on the wiki(s) they are contributing to for a chance to win.</li>
+            <li>Contributions to any NIWA member or affiliate wikis are eligible.</li>
+            <li>Participants must have an account on the wiki(s) they are contributing to for a chance to win.</li>
             <li>Each contributor's edits are ranked 1 to 10. The more substantial your contributions are, the higher chance you have of winning the prize!</li>
-            <li>Contributions should improve the wiki in some way. More substantial contributions mean more entries into the contest. Try some of the following:
-            <ul>
-                <li>Adding new prose to articles.</li>
-                <li>Copy-editing large sections or entire articles.</li>
-                <li>Adding references to verify information.</li>
-                <li>Uploading photos.</li>
-                <li>Creating new articles.</li>
-                <li>Categorizing pages.</li>
-                <li>Adding template documentation.</li>
-            </ul>
-            <li>As long as you make at least one non-minor edit, you're eligible to win the prize.</li>
+            <li>Contributions should improve the wiki in some way. More substantial contributions mean more entries into the contest.</li>
             <li>Each wiki is a bit different! Become familiar with the differing guidelines, styling, and policies of each wiki. Reach out to each wiki's help resources if you have any questions.</li>
         </ul>
 
@@ -97,7 +87,51 @@ THE SOFTWARE IS PROVIDED 'AS IS', WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLI
         <a name="guide"></a>
         <h1 id="Editing Guide">Editing Guides</h1>
 
-        Editing guides are coming soon.
+        Many NIWA wikis have created guides to help new editors find things to edit and improve.
+        Note that edits to all <a href="/members">member</a> and <a href="/affiliates">affiliate</a> wikis are eligible for Cross-Wiki Week,
+        even if the wiki doesn't have a guide listed below.
+
+        <h2 class="text-center">English Wiki Guides</h2>
+        <div class="text-center cww-grid">
+            <?php
+            $wikis = $dataHelper->getMemberWikis('en', TRUE);
+            $affiliates = $dataHelper->getAffiliates();
+            $wikis = array_merge($wikis, $affiliates);
+            foreach ($dataHelper->getCWW('2023', 'en') as $cww) {
+                $id = $cww->id;
+                $wiki = $wikis[array_search($id, array_column($wikis, 'id'))];
+                echo "
+                    <div>
+                        <a href='{$dataHelper->getWikiLink((isset($wiki->contenturl)) ? ($wiki->contenturl) : ($wiki->url), $cww->page)}'>
+                            <img class='margin-auto' src='{$wiki->logo}' alt='{$wiki->title}' width='100' />
+                            <br />
+                            {$wiki->title} Guide
+                        </a>
+                    </div>
+                ";
+            }
+            ?>
+        </div>
+
+        <h2 class="text-center">Italian Wiki Guides</h2>
+        <div class="text-center cww-grid">
+            <?php
+            $wikis = $dataHelper->getMemberWikis('it', TRUE);
+            foreach ($dataHelper->getCWW('2023', 'it') as $cww) {
+                $id = $cww->id;
+                $wiki = $wikis[array_search($id, array_column($wikis, 'id'))];
+                echo "
+                    <div>
+                        <a href='{$dataHelper->getWikiLink((isset($wiki->contenturl)) ? ($wiki->contenturl) : ($wiki->url), $cww->page)}'>
+                            <img class='margin-auto' src='{$wiki->logo}' alt='{$wiki->title}' width='100' />
+                            <br />
+                            {$wiki->title} Guide
+                        </a>
+                    </div>
+                ";
+            }
+            ?>
+        </div>
 
         <br><br>
 
@@ -198,7 +232,7 @@ THE SOFTWARE IS PROVIDED 'AS IS', WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLI
 
         <br><br>
 
-        <h3 class="text-center">Wiki in italiano</h3>
+        <h2 class="text-center">Wiki in italiano</h2>
         <div class="text-center cww-grid">
             <?php
             $wikis = $dataHelper->getMemberWikis('it', TRUE);
@@ -220,7 +254,7 @@ THE SOFTWARE IS PROVIDED 'AS IS', WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLI
         
         <br><br>
         
-        <h3 class="text-center">Wiki in inglese</h3>
+        <h2 class="text-center">Wiki in inglese</h2>
         <div class="text-center cww-grid">
             <?php
             $wikis = $dataHelper->getMemberWikis('en', TRUE);

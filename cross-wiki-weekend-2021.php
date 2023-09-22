@@ -84,7 +84,7 @@ THE SOFTWARE IS PROVIDED 'AS IS', WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLI
 
         <br>
 
-        <h3 class="text-center">English Wikis</h3>
+        <h2 class="text-center">English Wikis</h2>
         <div class="text-center cww-grid">
             <?php
             $wikis = $dataHelper->getMemberWikis('en', TRUE);
@@ -104,7 +104,7 @@ THE SOFTWARE IS PROVIDED 'AS IS', WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLI
             ?>
         </div>
         
-        <h3 class="text-center">Italian Wikis</h3>
+        <h2 class="text-center">Italian Wikis</h2>
         <div class="text-center cww-grid">
             <?php
             $wikis = $dataHelper->getMemberWikis('it', TRUE);
@@ -233,7 +233,7 @@ THE SOFTWARE IS PROVIDED 'AS IS', WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLI
 
         <br>
         
-        <h3 class="text-center">Wiki in italiano</h3>
+        <h2 class="text-center">Wiki in italiano</h2>
         <div class="text-center cww-grid">
             <?php
             $wikis = $dataHelper->getMemberWikis('it', TRUE);
@@ -253,7 +253,7 @@ THE SOFTWARE IS PROVIDED 'AS IS', WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLI
             ?>
         </div>
         
-        <h3 class="text-center">Wiki in inglese</h3>
+        <h2 class="text-center">Wiki in inglese</h2>
         <div class="text-center cww-grid">
             <?php
             $wikis = $dataHelper->getMemberWikis('en', TRUE);

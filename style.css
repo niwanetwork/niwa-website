@@ -269,6 +269,11 @@ button[disabled]:hover {
   padding: 3px 5px 3px 5px;
 }
 
+.main h2 {
+  font-size: 1.25em;
+  margin: 1.5em 0;
+}
+
 .stats {
   text-align: center;
 }
@@ -504,7 +509,7 @@ button[disabled]:hover {
   justify-content: center;
   display: grid;
   grid-template-columns: repeat(auto-fill, calc(120px));
-  grid-gap: 1.5em 1em;
+  grid-gap: 2em 1em;
 }
 
 

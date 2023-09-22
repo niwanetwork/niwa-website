@@ -136,7 +136,7 @@ class NiwaDataHelper
 	 */
 	public function getWikiLink($url, $page = "")
 	{
-		return str_replace(self::URL_REPLACE_STRING, $page, $url);
+		return str_replace(self::URL_REPLACE_STRING, urlencode($page), $url);
 	}
 
 	/**
