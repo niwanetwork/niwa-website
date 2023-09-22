@@ -3,7 +3,7 @@
     "en": [
       {
         "id": "bulbapedia",
-        "title": "Contents",
+        "title": "Editor Hub",
         "page": "Bulbapedia:Editor's_Hub"
       },
       {
@@ -55,6 +55,11 @@
         "id": "nookipedia",
         "title": "Cross-Wiki Guide",
         "page": "Nookipedia:Cross-Wiki_Week"
+      },
+      {
+        "id": "obeymewiki",
+        "title": "Contribution Guide",
+        "page": "The_Obey_Me_Wiki:How_to_Contribute"
       },
       {
         "id": "pikipedia",
