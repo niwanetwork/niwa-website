@@ -506,12 +506,14 @@ button[disabled]:hover {
 
 /* CWW pages */
 .cww-grid {
-  justify-content: center;
-  display: grid;
-  grid-template-columns: repeat(auto-fill, calc(120px));
+  display: flex;
+  flex-wrap: wrap;
   grid-gap: 2em 1em;
+  align-items: baseline;
 }
-
+.cww-grid > div {
+  flex: 120px;
+}
 
 @-moz-document url-prefix() {
   .box .title {
