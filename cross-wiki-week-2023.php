@@ -64,7 +64,7 @@ THE SOFTWARE IS PROVIDED 'AS IS', WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLI
         Before participating, please take a few moments to review these rules - especially if you want a shot at the prize!
 
         <ul>
-            <li>The event starts at 00:01 (UTC) on Friday, September 23, and runs until 23:59 (UTC) on Sunday, October 1.</li>
+            <li>The event starts at 00:01 (UTC) on Saturday, September 23, and runs until 23:59 (UTC) on Sunday, October 1.</li>
             <li>Contributions to any NIWA member or affiliate wikis are eligible.</li>
             <li>Participants must have an account on the wiki(s) they are contributing to for a chance to win.</li>
             <li>Each contributor's edits are ranked 1 to 10. The more substantial your contributions are, the higher chance you have of winning the prize!</li>
