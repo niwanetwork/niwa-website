@@ -202,6 +202,17 @@
       "youtube": "https://www.youtube.com/user/TheMetroidWiki"
     },
     {
+      "id": "miiwiki",
+      "title": "Mii Wiki",
+      "description": "Founded in 2021, MiiWiki is the first independent wiki all about Nintendo's Miis and the games in which they appear, including series such as Wii Sports, Tomodachi and Miitopia.",
+      "logo": "/images/logos/miiwiki.png",
+      "icon": "/images/icons/miiwiki.png",
+      "url": "https://miiwiki.org/wiki/$1",
+      "mainpage": "Mii_Wiki",
+      "interwiki": "miiwiki",
+      "discord": "https://discord.gg/KDFsPFxkcS"
+    },
+    {
       "id": "mysterydungeonwiki",
       "title": "Mystery Dungeon Franchise Wiki",
       "description": "The Mystery Dungeon Franchise Wiki (MDFW) is the Library of Alexandria for everything Mystery Dungeon related.",
