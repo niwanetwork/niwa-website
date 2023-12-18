@@ -272,13 +272,14 @@ tr:nth-child(odd) {
   font-size: 0.938em;
 }
 
-.main h1 {
+.main h1, .box .title {
   font-size: 1.25em;
   font-weight: normal;
   background: #e9e9e9;
   border: 1px #cecece solid;
   border-radius: 5px;
   padding: 3px 5px 3px 5px;
+  margin: 12px 0;
 }
 
 .main h2 {
@@ -295,13 +296,7 @@ tr:nth-child(odd) {
   flex-basis: 25%;
   padding: 5px 10px 5px 5px;
 }
-.box .title {
-  font-size: 1.25em;
-  background: #e9e9e9;
-  border: 1px #cecece solid;
-  border-radius: 5px;
-  padding: 3px 5px 3px 5px;
-}
+
 .box .post {
   margin: 5px 0 5px 0;
 }
