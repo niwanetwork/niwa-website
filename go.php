@@ -20,6 +20,7 @@
                 if ($wiki->id === $site) {
                 $target = $wiki->url;
                     $target = str_replace('$1', $article, $target);
+                    $target = rtrim($target, '/');
                 }
             }
 
