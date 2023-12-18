@@ -10,3 +10,4 @@ foreach ($dataHelper->getMemberWikis('en') as $wiki) {
 }
 $random = rand(0, count($randomUrls));
 header("Location: {$randomUrls[$random]}");
+exit();
