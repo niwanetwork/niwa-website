@@ -56,6 +56,7 @@ class NiwaDataHelper
 		$filteredMembers = [];
 
 		if ($languageCode) {
+			// If specific language is requested...
 			if($includeFormer) {
 				$filteredMembers = $this->memberWikis->{$languageCode};
 			} else {
@@ -66,14 +67,19 @@ class NiwaDataHelper
 				});
 			}
 		} else {
-			foreach ($this->memberWikis as $key => $data) {
-				$filteredMembers = array_merge($filteredMembers, $this->memberWikis->{$key});
+			// If all languages are requested...
+
+			// Merge language arrays:
+			$allMemberWikis = [];
+			foreach ($this->memberWikis as $memberWikis) {
+				$allMemberWikis = array_merge($allMemberWikis, $memberWikis);
 			}
-			if($includeFormer) {
-				$filteredMembers = $this->memberWikis->{$languageCode};
+			
+			if ($includeFormer) {
+				$filteredMembers = $allMemberWikis;
 			} else {
 				$filteredMembers = array_filter(
-				$this->memberWikis->{$languageCode}, 
+				$allMemberWikis, 
 				function($val){ 
 					return !($val->former ?? FALSE);
 				});
