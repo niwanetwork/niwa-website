@@ -1,32 +1,36 @@
 <?php
     $title = 'Forwarding Service';
-    include('_header.php');
-
+    include('_api.php');
     $dataHelper = new NiwaDataHelper();
+
     $wikis = $dataHelper->getMemberWikis();
 
-    $url = $_SERVER['REQUEST_URI'];
-    $urlParts = parse_url($url);
-    $path = $urlParts['path'];
-    $pathSegments = explode('/', $path);
+    $queries = array();
+    parse_str($_SERVER['QUERY_STRING'], $queries);
 
-    if (count($pathSegments) > 2) {
-        $site = $pathSegments[2] ?? null;
-        $article = implode('/', array_slice($pathSegments, 3)) ?? null;
-        $target = null;
+    if ($queries['target']) {
+        $pathSegments = explode('/', $queries['target']);
 
-        foreach ($wikis as $wiki) {
-            if ($wiki->id === $site) {
+        if (count($pathSegments) > 0) {
+            $site = $pathSegments[0] ?? null;
+            $article = implode('/', array_slice($pathSegments, 1)) ?? null;
+            $target = null;
+
+            foreach ($wikis as $wiki) {
+                if ($wiki->id === $site) {
                 $target = $wiki->url;
-                $target = str_replace('$1', $article, $target);
+                    $target = str_replace('$1', $article, $target);
+                }
+            }
+
+            if ($target) {
+                header("Location: {$target}");
+                exit();
             }
         }
-
-        if ($target) {
-            header("Location: {$target}");
-            exit();
-        }
     }
+
+    include('_header.php');
 ?>
 
 <style>

@@ -1,5 +1,7 @@
 <?php
 include('_header.php');
+include('_api.php');
+$dataHelper = new NiwaDataHelper();
 ?>
 
 <link rel="stylesheet" type="text/css" href="dependencies/slick/slick.css"/>

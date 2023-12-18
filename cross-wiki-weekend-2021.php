@@ -1,6 +1,8 @@
 <?php
 $title = 'Cross-Wiki Weekend 2021';
 include('_header.php');
+include('_api.php');
+$dataHelper = new NiwaDataHelper();
 ?>
 
 <!-- Tabs derived from https://codepen.io/oknoblich/pen/tfjFl -->

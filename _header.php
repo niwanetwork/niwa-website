@@ -1,7 +1,3 @@
-<?php
-include('_api.php');
-$dataHelper = new NiwaDataHelper();
-?>
 <!DOCTYPE html>
 <html lang="en" xmlns:fb="http://www.facebook.com/2008/fbml">
 <head>

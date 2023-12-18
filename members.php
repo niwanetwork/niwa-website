@@ -2,6 +2,8 @@
 $title = 'Members';
 
 include('_header.php');
+include('_api.php');
+$dataHelper = new NiwaDataHelper();
 ?>
 
 <div class="main">
