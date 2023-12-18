@@ -1,5 +1,5 @@
 <?php
-    $title = 'Redirect Service';
+    $title = 'Forwarding Service';
     include('_header.php');
 
     $dataHelper = new NiwaDataHelper();
@@ -29,8 +29,25 @@
     }
 ?>
 
+<style>
+    .beta {
+        box-sizing: border-box;
+        width: 100%;
+        padding: 1em;
+        background-color: #f4ebab;
+        border: 2px solid #f5e366;
+        border-radius: 10px;
+    }
+</style>
+
 <div class="main">
-    <h1>NIWA Redirect Service</h1>
+    <h1>NIWA Forwarding Service</h1>
+
+    <div class="beta">
+        This forwarding service is currently in <b>beta</b>. Site IDs are subject to change.
+    </div>
+
+    <br />
     
     This URL serves as a gateway to link to any article on any NIWA member wiki.
 
