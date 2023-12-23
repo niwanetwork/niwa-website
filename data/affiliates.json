@@ -52,6 +52,14 @@
     "discord": "https://discord.gg/9jesgZvgbt"
   },
   {
+    "id": "koeitecmowiki",
+    "title": "Koei Tecmo Wiki",
+    "description": "The Koei Tecmo Wiki is an independent wiki dedicated to covering everything related to Koei Tecmo. Whether if it's games, merchandise, events, or even personnel, the wiki is bound to have information on them.",
+    "logo": "/images/logos/koeitecmo.png",
+    "url": "https://koeitecmo.wiki/wiki/Main_Page",
+    "contenturl": "https://koeitecmo.wiki/wiki/$1"
+  },
+  {
     "id": "obeymewiki",
     "title": "The Obey Me Wiki",
     "description": "The Obey Me Wiki is all about the demon-romancing mobile games Obey Me! and Obey Me! Nightbringer made by NTT Solmare.",
