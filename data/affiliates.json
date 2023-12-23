@@ -54,7 +54,7 @@
   {
     "id": "koeitecmowiki",
     "title": "Koei Tecmo Wiki",
-    "description": "The Koei Tecmo Wiki is an independent wiki dedicated to covering everything related to Koei Tecmo. Whether if it's games, merchandise, events, or even personnel, the wiki is bound to have information on them.",
+    "description": "The Koei Tecmo Wiki is an independent wiki dedicated to covering everything related to Koei Tecmo. Whether it's games, merchandise, events, or even personnel, the wiki is bound to have information on them.",
     "logo": "/images/logos/koeitecmo.png",
     "url": "https://koeitecmo.wiki/wiki/Main_Page",
     "contenturl": "https://koeitecmo.wiki/wiki/$1"
