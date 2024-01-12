@@ -158,6 +158,13 @@ THE SOFTWARE IS PROVIDED 'AS IS', WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLI
 
         <br><br>
 
+        <h1 id="Conclusion">Conclusion</h1>
+        This year, we had 5 participants contribute to 5 member wikis and affiliates.
+
+        The lucky winners of the $20 eShop Gift Cards were <b>Sunmarsh</b> and <b>PanchamBro</b>. Congratulations!
+
+        <br><br>
+
         <hr>
 
         <br>
