@@ -139,7 +139,7 @@ THE SOFTWARE IS PROVIDED 'AS IS', WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLI
         <br><br>
 
         <h1 id="Conclusion">Conclusion</h1>
-        This year, we had 30 participants eligible for the prize.
+        We had 30 participants submit valid contributions for Cross-Wiki Week 2023.
         Participants contributed a record-breaking 2,700+ edits to 27 NIWA member wikis and affiliates!
 
         <br><br>
