@@ -158,6 +158,13 @@ THE SOFTWARE IS PROVIDED 'AS IS', WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLI
 
         <br><br>
 
+        <h1 id="Conclusion">Conclusion</h1>
+        We had 5 participants submit valid contributions to 5 wikis for Cross-Wiki Week 2022.
+
+        The lucky winners of the $20 eShop Gift Cards were <b>Sunmarsh</b> and <b>PanchamBro</b>. Congratulations!
+
+        <br><br>
+
         <hr>
 
         <br>

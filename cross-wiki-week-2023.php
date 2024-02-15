@@ -138,6 +138,26 @@ THE SOFTWARE IS PROVIDED 'AS IS', WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLI
 
         <br><br>
 
+        <h1 id="Conclusion">Conclusion</h1>
+        We had 30 participants submit valid contributions for Cross-Wiki Week 2023.
+        Participants contributed a record-breaking 2,700+ edits to 27 NIWA member wikis and affiliates!
+
+        <br><br>
+
+        The lucky winners of the $20 eShop Gift Cards were <b>Hadamsj</b> and <b>ShadowKirby</b>.
+
+        <br><br>
+
+        Given the number of participants and contributions this year,
+        we decided to also recognize our top contributor this year with an additional $20 eShop prize.
+        Our top contributor this year was <b>Anemoia</b>.
+
+        <br><br>
+
+        Congratulations to the winners, and thank you to all our participants this year! We hope to see you again in 2024.
+
+        <br><br>
+
         <hr>
 
         <br><br>
