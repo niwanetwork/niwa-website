@@ -49,7 +49,7 @@ $dataHelper = new NiwaDataHelper();
          <br/><br/>
       </div>
       <div class="flex-section stats text-center white">
-         <h2>280,000+ articles</h2>
+         <h2>320,000+ articles</h2>
          across three languages
          <br/><br/>
       </div>
