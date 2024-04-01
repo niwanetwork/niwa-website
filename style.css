@@ -19,6 +19,16 @@ img {
   display: block;
 }
 
+figure {
+  text-align: center;
+  font-size: .8em;
+  font-style: italic;
+  margin: 0 auto;
+  padding: 1em;
+}
+figure img {
+  margin: 0 auto;
+}
 ul,
 ol {
   font-size: 0.938em;
@@ -82,6 +92,19 @@ tr:nth-child(odd) {
 }
 .margin-auto {
   margin: auto;
+}
+
+.float-right {
+  float: right;
+}
+.float-left {
+  float: right;
+}
+@media (max-width: 600px) {
+  .float-right, .float-left {
+    float: none;
+    width: 100%;
+  }
 }
 
 /* Main/content styling */
@@ -241,7 +264,6 @@ tr:nth-child(odd) {
 }
 
 .main {
-  flex-basis: 75%;
   padding: 5px;
   overflow: hidden;
 }

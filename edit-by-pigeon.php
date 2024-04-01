@@ -95,6 +95,5 @@ include('_header.php');
 </div>
 
 <?php
-include('_sidebar.php');
 include('_footer.php');
 ?>
