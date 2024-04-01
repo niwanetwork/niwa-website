@@ -119,7 +119,7 @@ include('_header.php');
             <a target="_blank" href="https://goldensunwiki.net/wiki/Golden_Sun_series/Detailed_plot_summary">Golden Sun's plot</a>.
         </li>
         <li>
-            A Scuttlebug-raising kit.
+            A <a target="_blank" href="https://www.mariowiki.com/Scuttlebug">Scuttlebug</a>-raising kit.
         </li>
         <li>
             <a target="_blank" href="https://www.metroidwiki.org/wiki/Ridley">Ridley's</a> Stand-up Comedy Album,
