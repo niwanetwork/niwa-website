@@ -62,9 +62,8 @@ include('_header.php');
             like <a target="_blank" href="https://www.ssbwiki.com/Waluigi">Waluigi's</a> shadow and the left Joy-Con.
         </li>
         <li>
-            "<a target="_blank" href="https://bulbapedia.bulbagarden.net/wiki/Who%27s_That_Pok%C3%A9mon%3F">
-                Who's That Pokémon?
-            </a> The Complete Edition",
+            "<a target="_blank" href="https://bulbapedia.bulbagarden.net/wiki/Who%27s_That_Pok%C3%A9mon%3F">Who's That Pokémon?</a>
+            The Complete Edition",
             featuring the silhouette of 283,486 fan-made Pokémon that you've never heard of.
         </li>
         <li>
