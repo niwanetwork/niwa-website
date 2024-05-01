@@ -104,13 +104,5 @@
     "facebook": "http://www.facebook.com/wikisimpsons",
     "twitter": "http://twitter.com/simpsonswiki",
     "discord": "https://discord.gg/GyneDH6"
-  },
-  {
-    "id": "zeldachaos",
-    "title": "Zelda Chaos",
-    "description": "Zelda Chaos is the top resource for all things exploitable in Zelda.",
-    "logo": "/images/logos/zeldachaos.png",
-    "url": "https://jaytheham.com/zcw/Main_Page",
-    "contenturl": "https://jaytheham.com/zcw/$1"
   }
 ]
