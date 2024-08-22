@@ -503,6 +503,7 @@ tr:nth-child(odd) {
 }
 .member .logo img {
   margin: 0 auto;
+  filter: drop-shadow(1px 1px 1px rgba(0, 0, 0, 0.8));
 }
 
 .member .description {
