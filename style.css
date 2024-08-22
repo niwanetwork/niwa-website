@@ -463,7 +463,7 @@ tr:nth-child(odd) {
 .member-tab + label {
   border: 0px solid;
   display: inline-block;
-  padding: 15px 25px;
+  padding: 10px;
   text-align: center;
   color: #555;
 }
