@@ -30,6 +30,17 @@
       "youtube": "https://www.youtube.com/user/Bulbagarden"
     },
     {
+      "id": "chibirobo",
+      "title": "Chibi-Robo! Wiki",
+      "description": "Originally founded on Wikia in late 2008, the Chibi-Robo! Wiki became independent in 2024 with the help of Bulbagarden. It aims to be a comprehensive encyclopedia for the Chibi-Robo! series, as well as a hub for fans of the tiny robot to spread the happiness.",
+      "logo": "/images/logos/chibirobowiki.png",
+      "url": "https://chibi-robo.wiki/wiki/$1",
+      "mainpage": "Chibi-Robo_Wiki",
+      "interwiki": "chibirobo",
+      "twitter": "https://twitter.com/ChibiRoboWiki",
+      "discord": "https://discord.com/invite/NstvTyFRPt"
+    },
+    {
       "id": "dragalialost",
       "title": "Dragalia Lost Wiki",
       "description": "The Dragalia Lost Wiki was originally founded in September 2018 on the Gamepedia platform but went independent in January 2021. The Wiki aims to document anything and everything Dragalia Lost, from in-game data to mechanics, story, guides, and more!",
@@ -511,6 +522,18 @@
       "url": "https://www.zeldapendium.de/wiki/$1",
       "mainpage": "Zeldapendium:Hauptseite",
       "discord": "https://discord.gg/rmzeRFE"
+    }
+  ],
+  "fr": [
+    {
+      "id": "inkipediafr",
+      "title": "Inkipédia",
+      "description": "Inkipédia est une encyclopédie en ligne dédiée à la franchise Splatoon. Lancée le 8 juin 2016, Inkipédia est la version francophone d'Inkipedia, le wiki Splatoon anglophone. Notre objectif est de couvrir tous les aspects de la franchise, quelle que soit leur importance. Rejoignez-nous dès maintenant !",
+      "logo": "/images/logos/frinkipedia.png",
+      "url": "https://fr.splatoonwiki.org/wiki/$1",
+      "mainpage": "Accueil",
+      "twitter": "https://twitter.com/splatoonwiki_FR",
+      "discord": "https://discord.gg/f3ArbHcYMF"
     }
   ]
 }
