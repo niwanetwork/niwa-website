@@ -23,10 +23,13 @@ THE SOFTWARE IS PROVIDED 'AS IS', WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLI
     <label for='tab1'>English Members</label>
 
     <input class='member-tab' id='tab2' type='radio' name='tabs'>
-    <label for='tab2'>German Members</label>
+    <label for='tab2'>French Members</label>
 
     <input class='member-tab' id='tab3' type='radio' name='tabs'>
-    <label for='tab3'>Italian Members</label>
+    <label for='tab3'>German Members</label>
+
+    <input class='member-tab' id='tab4' type='radio' name='tabs'>
+    <label for='tab4'>Italian Members</label>
 
     <section class="member-tab-content" id='content1'>
         <?php
@@ -51,7 +54,7 @@ THE SOFTWARE IS PROVIDED 'AS IS', WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLI
     </section>
     <section class="member-tab-content" id='content2'>
         <?php
-        foreach ($dataHelper->getMemberWikis('de') as $wiki) {
+        foreach ($dataHelper->getMemberWikis('fr') as $wiki) {
             echo "
             <div class='member'>
                 <div class='logo'>
@@ -71,6 +74,27 @@ THE SOFTWARE IS PROVIDED 'AS IS', WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLI
         ?>
     </section>
     <section class="member-tab-content" id='content3'>
+        <?php
+        foreach ($dataHelper->getMemberWikis('de') as $wiki) {
+            echo "
+            <div class='member'>
+                <div class='logo'>
+                    <a href='{$dataHelper->getWikiLink($wiki->url, $wiki->mainpage)}'>
+                        <img src='{$wiki->logo}' alt='{$wiki->title}' />
+                    </a>
+                </div>
+                <div class='description'>
+                    <div class='links'>
+                        {$dataHelper->generateMemberLinks($wiki)}
+                    </div>
+                    <p>{$wiki->description}</p>
+                </div>
+            </div>
+            ";
+        }
+        ?>
+    </section>
+    <section class="member-tab-content" id='content4'>
         The Italian NIWA refers to themselves as <i>NiwiN</i> (<i>Network italiano wiki indipendenti Nintendo</i>).
         <br><br>
 

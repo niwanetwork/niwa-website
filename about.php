@@ -9,7 +9,7 @@ include('_header.php');
 
 	<p>All of the wikis in NIWA are separately owned, operated and hosted. Each maintains their own unique designs, values and traditions. We are bound together by our common desire to better ourselves (and each other) while retaining our own identities and autonomy. Most importantly, the main purpose of NIWA is to improve each and every reader's ability to access information about all things Nintendo.</p>
 
-	<p>Since its founding, NIWA has expanded to cover three languages: English, German, and Italian.</p>
+	<p>Since its founding, NIWA has expanded to cover four languages: English, French, German, and Italian.</p>
 
 	<h1>Our Principles</h1>
 
