@@ -457,14 +457,15 @@ tr:nth-child(odd) {
   border-top: 2px solid #B22222;
   border-bottom: 0px solid;
   color: #555;
+  font-weight: 600;
 }
 
 .member-tab + label {
   border: 0px solid;
-  color: #BBBBBB;
   display: inline-block;
   padding: 15px 25px;
   text-align: center;
+  color: #555;
 }
 
 .member-tab + label:hover {
