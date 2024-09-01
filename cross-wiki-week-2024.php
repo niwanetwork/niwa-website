@@ -29,7 +29,7 @@ THE SOFTWARE IS PROVIDED 'AS IS', WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLI
     <section class="member-tab-content" id='content1'>
         To celebrate Nintendo's birthday on September 23<sup>rd</sup>, NIWA will be hosting its annual <b>Cross-Wiki Week</b> event!
         <br><br>
-        From <b>September 20<sup>th</sup> 30<sup>th</sup></b>, everyone is invited to edit NIWA wikis that they have never (or infrequently) edited before.
+        From <b>September 20<sup>th</sup> through 30<sup>th</sup></b>, everyone is invited to edit NIWA wikis that they have never (or infrequently) edited before.
         Whether it's adding new content, uploading an image, or adding a reference, we want you to take your experience and love for video games to a new wiki!
         <br><br>
         Two random participants will win <b>$20/€20 Nintendo e-Shop Gift Cards</b>.
@@ -43,7 +43,7 @@ THE SOFTWARE IS PROVIDED 'AS IS', WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLI
         <a name="submit"></a>
         <h1 id="Submit">Sign-up and Submit Contributions</h1>
 
-        <b>We have a new process this year!</b> If you'd like to participate, use the sign-up link below at any time to provide your wiki username and contact info.
+        If you'd like to participate, use the sign-up link below at any time to provide your wiki username and contact info.
         <br><br>
         To submit your edits for the event, simply add the hashtag "#cww" to the edit summaries of edits you make from September 20<sup>th</sup> through 30<sup>th</sup>.
         We will gather all #cww edits and score them for the drawing.
@@ -51,7 +51,7 @@ THE SOFTWARE IS PROVIDED 'AS IS', WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLI
         <br><br>
         <div style="width: 100%; text-align: center;">
             <form>
-                <button style="font-size: 1.1em;" formaction="https://forms.gle/qs7DaJ9QYmQYG7cB8">Sign-up</button>
+                <button style="font-size: 1.1em;" formaction="https://forms.gle/NJfbF17qUGzCfFXU9">Sign-up</button>
             </form>
         </div>
 
