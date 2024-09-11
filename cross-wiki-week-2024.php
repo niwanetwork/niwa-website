@@ -79,13 +79,11 @@ THE SOFTWARE IS PROVIDED 'AS IS', WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLI
         <a name="guide"></a>
         <h1 id="Editing Guide">Editing Guides</h1>
 
-        Coming soon.
-<!--         Many NIWA wikis have created guides to help new editors find things to edit and improve.
+        Many NIWA wikis have created guides to help new editors find things to edit and improve.
         Note that edits to all <a href="/members">member</a> and <a href="/affiliates">affiliate</a> wikis are eligible for Cross-Wiki Week,
         even if the wiki doesn't have a guide listed below.
 
         <h2 class="text-center">English Wiki Guides</h2>
-        Coming soon.
         <div class="text-center cww-grid">
             <?php
             $wikis = $dataHelper->getMemberWikis('en', TRUE);
@@ -107,7 +105,27 @@ THE SOFTWARE IS PROVIDED 'AS IS', WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLI
             ?>
         </div>
 
-        <h2 class="text-center">Italian Wiki Guides</h2>
+        <h2 class="text-center">French Wiki Guides</h2>
+        <div class="text-center cww-grid">
+            <?php
+            $wikis = $dataHelper->getMemberWikis('fr', TRUE);
+            foreach ($dataHelper->getCWW('2024', 'fr') as $cww) {
+                $id = $cww->id;
+                $wiki = $wikis[array_search($id, array_column($wikis, 'id'))];
+                echo "
+                    <div>
+                        <a href='{$dataHelper->getWikiLink((isset($wiki->contenturl)) ? ($wiki->contenturl) : ($wiki->url), $cww->page)}'>
+                            <img class='margin-auto' src='{$wiki->logo}' alt='{$wiki->title}' width='100' />
+                            <br />
+                            {$wiki->title} Guide
+                        </a>
+                    </div>
+                ";
+            }
+            ?>
+        </div>
+
+        <!-- <h2 class="text-center">Italian Wiki Guides</h2>
         <div class="text-center cww-grid">
             <?php
             $wikis = $dataHelper->getMemberWikis('it', TRUE);
