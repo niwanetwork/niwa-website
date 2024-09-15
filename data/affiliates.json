@@ -106,6 +106,15 @@
     "discord": "https://discord.gg/GyneDH6"
   },
   {
+    "id": "witchhatatelier",
+    "title": "Witch Hat Atelier Wiki",
+    "description": "Welcome to the Indipendent Witch Hat Atelier Wiki! A Wiki dedicated to the universe of the Witch Hat Atelier (Tongari Boushi no Atorie) and Kitchen of Witch Hat (Tongari Boushi no Kitchen) manga series, written and drawn by Kamome Shirahama.",
+    "logo": "/images/logos/witchhatatelierwiki.png",
+    "url": "https://witchhatatelier.telepedia.net/wiki/Witch_Hat_Atelier_Wiki",
+    "contenturl": "https://witchhatatelier.telepedia.net/wiki/$1",
+    "discord": "https://discord.gg/u9Ts73DK"
+  },
+  {
     "id": "zeldachaos",
     "title": "Zelda Chaos",
     "description": "Zelda Chaos is the top resource for all things exploitable in Zelda.",
