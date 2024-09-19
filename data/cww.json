@@ -37,6 +37,11 @@
         "page": "Community:Cross-Wiki_Week"
       },
       {
+        "id": "lylatwiki",
+        "title": "Cross-Wiki Guide",
+        "page": "Lylat_Wiki:Cross-Wiki_Week"
+      },
+      {
         "id": "miiwiki",
         "title": "Cross-Wiki Guide",
         "page": "MiiWiki:Cross-Wiki_Week"
@@ -45,6 +50,11 @@
         "id": "mysterydungeonwiki",
         "title": "Cross-Wiki Guide",
         "page": "Community:Cross-Wiki_Week"
+      },
+      {
+        "id": "nintendowiki",
+        "title": "Cross-Wiki Guide",
+        "page": "NintendoWiki:Cross-Wiki_Week"
       },
       {
         "id": "nookipedia",
@@ -60,6 +70,11 @@
         "id": "pikipedia",
         "title": "Cross-Wiki Guide",
         "page": "Pikipedia:Cross-Wiki_Week"
+      },
+      {
+        "id": "rhythmheaven",
+        "title": "Cross-Wiki Guide",
+        "page": "RH_Wiki:Cross-Wiki_Week"
       },
       {
         "id": "smashwiki",
