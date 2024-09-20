@@ -112,7 +112,13 @@
         "page": "Zelda_Wiki:Cross-Wiki_Week"
       }
     ],
-    "it": [],
+    "it": [
+      {
+        "id": "supermariowikiit",
+        "title": "Cross-Wiki Guide",
+        "page": "Super_Mario_Wiki:Cross-Wiki_Week"
+      }
+    ],
     "fr": [
       {
         "id": "inkipediafr",
