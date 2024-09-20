@@ -114,6 +114,11 @@
     ],
     "it": [
       {
+        "id": "pikipediait",
+        "title": "Cross-Wiki Guide",
+        "page": "Pikipedia:Cross-Wiki_Week"
+      },
+      {
         "id": "supermariowikiit",
         "title": "Cross-Wiki Guide",
         "page": "Super_Mario_Wiki:Cross-Wiki_Week"
