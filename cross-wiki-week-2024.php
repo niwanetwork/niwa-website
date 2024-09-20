@@ -125,7 +125,7 @@ THE SOFTWARE IS PROVIDED 'AS IS', WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLI
             ?>
         </div>
 
-        <!-- <h2 class="text-center">Italian Wiki Guides</h2>
+        <h2 class="text-center">Italian Wiki Guides</h2>
         <div class="text-center cww-grid">
             <?php
             $wikis = $dataHelper->getMemberWikis('it', TRUE);
@@ -143,7 +143,7 @@ THE SOFTWARE IS PROVIDED 'AS IS', WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLI
                 ";
             }
             ?>
-        </div> -->
+        </div>
 
         <br><br>
 
