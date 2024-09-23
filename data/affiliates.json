@@ -8,7 +8,8 @@
     "forums": "https://forums.bulbagarden.net/index.php",
     "twitter": "https://twitter.com/Bulbagarden",
     "facebook": "https://www.facebook.com/Bulbagarden",
-    "discord": "https://discord.gg/bulbagarden"
+    "discord": "https://discord.gg/bulbagarden",
+    "bluesky": "https://bsky.app/profile/bulbagarden.bsky.social"
   },
   {
     "id": "doomwiki",
@@ -27,7 +28,8 @@
     "url": "https://fallout.wiki/",
     "contenturl": "https://fallout.wiki/wiki/$1",
     "twitter": "https://twitter.com/thefalloutwiki",
-    "discord": "https://discord.gg/falloutwiki"
+    "discord": "https://discord.gg/falloutwiki",
+    "bluesky": "https://bsky.app/profile/fallout.wiki"
   },
   {
     "id": "halopedia",
@@ -38,7 +40,8 @@
     "contenturl": "https://www.halopedia.org/$1",
     "facebook": "https://www.facebook.com/HalopediaWiki",
     "twitter": "https://twitter.com/Halopedia",
-    "discord": "https://discord.gg/W3HK45M"
+    "discord": "https://discord.gg/W3HK45M",
+    "bluesky": "https://bsky.app/profile/halopedia.bsky.social"
   },
   {
     "id": "jojowiki",
@@ -49,7 +52,8 @@
     "contenturl": "https://jojowiki.com/$1",
     "forums": "https://jojowiki.com/Special:WikiForum",
     "twitter": "https://twitter.com/jojo_wiki",
-    "discord": "https://discord.gg/9jesgZvgbt"
+    "discord": "https://discord.gg/9jesgZvgbt",
+    "bluesky": "https://bsky.app/profile/jojowiki.com"
   },
   {
     "id": "koeitecmowiki",
@@ -67,7 +71,8 @@
     "url": "https://obeymewiki.com/wiki/Main",
     "contenturl": "https://obeymewiki.com/wiki/$1",
     "twitter": "https://twitter.com/ObeyMeWiki",
-    "discord": "https://discord.gg/sabT8Y5ZGP"
+    "discord": "https://discord.gg/sabT8Y5ZGP",
+    "bluesky": "https://bsky.app/profile/obeymewiki.com"
   },
   {
     "id": "seiwanetwork",
@@ -92,7 +97,8 @@
     "url": "http://wikimon.net/",
     "contenturl": "http://wikimon.net/$1",
     "facebook": "http://www.facebook.com/digiwikimon",
-    "twitter": "http://twitter.com/Wikimon_net"
+    "twitter": "http://twitter.com/Wikimon_net",
+    "bluesky": "https://bsky.app/profile/wikimon.bsky.social"
   },
   {
     "id": "simpsonswiki",

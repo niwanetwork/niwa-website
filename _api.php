@@ -228,6 +228,9 @@ class NiwaDataHelper
 		if (isset($member->mastodon)) {
 			$links .= $this->generateMemberLink($member->mastodon, '<img src="/images/mastodon.png" alt="Mastodon" width="20" />');
 		};
+		if (isset($member->bluesky)) {
+			$links .= $this->generateMemberLink($member->bluesky, '<img src="/images/bluesky.png" alt="Bluesky" width="20" />');
+		};
 		if (isset($member->twitch)) {
 			$links .= $this->generateMemberLink($member->twitch, '<img src="/images/twitch.png" alt="Twitch" width="20" />');
 		};
