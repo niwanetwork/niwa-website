@@ -24,12 +24,12 @@
             </li>
             <li>
               <a href="https://facebook.com/NIWANetwork" title="Like us on Facebook">
-                <img src="/images/social/facebook.png" alt="Facebook" title="Like NIWA on Facebook" />
+                <img src="/images/social/facebook.png" alt="Facebook" width="30" title="Like NIWA on Facebook" />
               </a>
             </li>
             <li>
               <a href="https://twitter.com/NIWANetwork" title="Follow us on Twitter">
-                <img src="/images/social/twitter.png" alt="Twitter" title="Follow NIWA on Twitter" />
+                <img src="/images/social/twitter.png" alt="Twitter" width="30" title="Follow NIWA on Twitter" />
               </a>
             </li>
         </ul>
