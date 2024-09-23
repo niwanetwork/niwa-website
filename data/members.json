@@ -23,7 +23,8 @@
       "twitch": "https://www.twitch.tv/bulbagarden",
       "facebook": "https://www.facebook.com/Bulbapedia",
       "discord": "https://discord.gg/bulbagarden",
-      "youtube": "https://www.youtube.com/user/Bulbagarden"
+      "youtube": "https://www.youtube.com/user/Bulbagarden",
+      "bluesky": "https://bsky.app/profile/bulbapedia.bsky.social"
     },
     {
       "id": "chibirobo",
@@ -35,7 +36,8 @@
       "interwiki": "chibirobo",
       "twitter": "https://twitter.com/ChibiRoboWiki",
       "discord": "https://discord.com/invite/NstvTyFRPt",
-      "youtube": "https://www.youtube.com/channel/UCmu1kl1AM7oxnVlBVbgQKSg"
+      "youtube": "https://www.youtube.com/channel/UCmu1kl1AM7oxnVlBVbgQKSg",
+      "bluesky": "https://bsky.app/profile/chibirobowiki.bsky.social"
     },
     {
       "id": "dragalialost",
@@ -81,7 +83,8 @@
       "forums": "http://www.niwanetwork.org/forums/index.php?board=39.0",
       "twitter": "https://twitter.com/FEWikiOfficial",
       "discord": "https://discord.gg/FzRd5P4nyQ",
-      "tumblr": "https://fireemblemwikiofficial.tumblr.com/"
+      "tumblr": "https://fireemblemwikiofficial.tumblr.com/",
+      "bluesky": "https://bsky.app/profile/fireemblemwiki.org"
     },
     {
       "id": "fzerowiki",
@@ -167,7 +170,8 @@
       "mainpage": "Main_Page",
       "interwiki": "kovopedia",
       "twitter": "https://twitter.com/Kovopedia",
-      "discord": "https://discord.com/invite/t9dT52fKM8"
+      "discord": "https://discord.com/invite/t9dT52fKM8",
+      "bluesky": "https://bsky.app/profile/kovopedia.com"
     },
     {
       "id": "lylatwiki",
@@ -219,7 +223,8 @@
       "facebook": "https://www.facebook.com/groups/814669675747116/",
       "discord": "https://discord.gg/4dKnfpW",
       "reddit": "https://www.reddit.com/r/MysteryDungeonWiki/",
-      "youtube": "https://www.youtube.com/@MDFW"
+      "youtube": "https://www.youtube.com/@MDFW",
+      "bluesky": "https://bsky.app/profile/mdfw.bsky.social"
     },
     {
       "id": "nintendowiki",
@@ -243,7 +248,8 @@
       "instagram": "https://www.instagram.com/nookipedia/",
       "twitter": "https://www.twitter.com/nookipedia",
       "facebook": "https://www.facebook.com/nookipedia",
-      "discord": "https://discord.gg/cpQ5tJV"
+      "discord": "https://discord.gg/cpQ5tJV",
+      "bluesky": "https://bsky.app/profile/nookipedia.com"
     },
     {
       "id": "pikipedia",
@@ -312,7 +318,8 @@
       "interwiki": "strategywiki",
       "twitter": "https://twitter.com/StrategyWiki",
       "facebook": "https://www.facebook.com/StrategyWiki",
-      "discord": "https://discord.gg/pYghWh3"
+      "discord": "https://discord.gg/pYghWh3",
+      "bluesky": "https://bsky.app/profile/strategywiki.org"
     },
     {
       "id": "supermariowiki",
@@ -370,7 +377,8 @@
       "forums": "http://www.niwanetwork.org/forums/index.php?board=13.0",
       "facebook": "https://facebook.com/wikirby",
       "discord": "https://discord.gg/4y9BPyj",
-      "twitter": "https://twitter.com/WiKirby_86"
+      "twitter": "https://twitter.com/WiKirby_86",
+      "bluesky": "https://bsky.app/profile/wikirby.com"
     },
     {
       "id": "xenoserieswiki",
@@ -393,7 +401,8 @@
       "interwiki": "zeldawiki",
       "twitter": "https://twitter.com/zeldawiki",
       "facebook": "https://www.facebook.com/zeldawiki",
-      "discord": "https://discord.gg/eJnnvYb"
+      "discord": "https://discord.gg/eJnnvYb",
+      "bluesky": "https://bsky.app/profile/zeldawiki.bsky.social"
     }
   ],
   "it": [
