@@ -6,11 +6,11 @@
     "logo": "/images/logos/bulbagarden.png",
     "url": "https://bulbagarden.net/",
     "forums": "https://forums.bulbagarden.net/index.php",
-    "twitter": "https://twitter.com/Bulbagarden",
-    "facebook": "https://www.facebook.com/Bulbagarden",
-    "discord": "https://discord.gg/bulbagarden",
     "bluesky": "https://bsky.app/profile/bulbagarden.bsky.social",
-    "mastodon": "https://mastodon.social/@bulbagarden"
+    "discord": "https://discord.gg/bulbagarden",
+    "facebook": "https://www.facebook.com/Bulbagarden",
+    "mastodon": "https://mastodon.social/@bulbagarden",
+    "twitter": "https://twitter.com/Bulbagarden"
   },
   {
     "id": "doomwiki",
@@ -19,8 +19,8 @@
     "logo": "/images/logos/doomwiki.png",
     "url": "http://doomwiki.org/wiki/Entryway",
     "contenturl": "http://doomwiki.org/wiki/$1",
-    "twitter": "https://twitter.com/doomwiki",
-    "mastodon": "https://mastodon.gamedev.place/@doomwiki"
+    "mastodon": "https://mastodon.gamedev.place/@doomwiki",
+    "twitter": "https://twitter.com/doomwiki"
   },
   {
     "id": "falloutwiki",
@@ -29,9 +29,9 @@
     "logo": "/images/logos/falloutwiki.png",
     "url": "https://fallout.wiki/",
     "contenturl": "https://fallout.wiki/wiki/$1",
-    "twitter": "https://twitter.com/thefalloutwiki",
+    "bluesky": "https://bsky.app/profile/fallout.wiki",
     "discord": "https://discord.gg/falloutwiki",
-    "bluesky": "https://bsky.app/profile/fallout.wiki"
+    "twitter": "https://twitter.com/thefalloutwiki"
   },
   {
     "id": "halopedia",
@@ -40,10 +40,10 @@
     "logo": "/images/logos/halopedia.png",
     "url": "https://www.halopedia.org/",
     "contenturl": "https://www.halopedia.org/$1",
-    "facebook": "https://www.facebook.com/HalopediaWiki",
-    "twitter": "https://twitter.com/Halopedia",
+    "bluesky": "https://bsky.app/profile/halopedia.bsky.social",
     "discord": "https://discord.gg/W3HK45M",
-    "bluesky": "https://bsky.app/profile/halopedia.bsky.social"
+    "facebook": "https://www.facebook.com/HalopediaWiki",
+    "twitter": "https://twitter.com/Halopedia"
   },
   {
     "id": "jojowiki",
@@ -53,9 +53,9 @@
     "url": "https://jojowiki.com/JoJo_Wiki",
     "contenturl": "https://jojowiki.com/$1",
     "forums": "https://jojowiki.com/Special:WikiForum",
-    "twitter": "https://twitter.com/jojo_wiki",
+    "bluesky": "https://bsky.app/profile/jojowiki.com",
     "discord": "https://discord.gg/9jesgZvgbt",
-    "bluesky": "https://bsky.app/profile/jojowiki.com"
+    "twitter": "https://twitter.com/jojo_wiki"
   },
   {
     "id": "koeitecmowiki",
@@ -72,9 +72,9 @@
     "logo": "/images/logos/obeymewiki.png",
     "url": "https://obeymewiki.com/wiki/Main",
     "contenturl": "https://obeymewiki.com/wiki/$1",
-    "twitter": "https://twitter.com/ObeyMeWiki",
+    "bluesky": "https://bsky.app/profile/obeymewiki.com",
     "discord": "https://discord.gg/sabT8Y5ZGP",
-    "bluesky": "https://bsky.app/profile/obeymewiki.com"
+    "twitter": "https://twitter.com/ObeyMeWiki"
   },
   {
     "id": "seiwanetwork",
@@ -98,9 +98,9 @@
     "logo": "/images/logos/wikimon.png",
     "url": "http://wikimon.net/",
     "contenturl": "http://wikimon.net/$1",
+    "bluesky": "https://bsky.app/profile/wikimon.bsky.social",
     "facebook": "http://www.facebook.com/digiwikimon",
-    "twitter": "http://twitter.com/Wikimon_net",
-    "bluesky": "https://bsky.app/profile/wikimon.bsky.social"
+    "twitter": "http://twitter.com/Wikimon_net"
   },
   {
     "id": "simpsonswiki",
@@ -109,9 +109,9 @@
     "logo": "/images/logos/wikisimpsons.png",
     "url": "https://simpsonswiki.com/wiki/Main_Page",
     "contenturl": "https://simpsonswiki.com/wiki/$1",
+    "discord": "https://discord.gg/GyneDH6",
     "facebook": "http://www.facebook.com/wikisimpsons",
-    "twitter": "http://twitter.com/simpsonswiki",
-    "discord": "https://discord.gg/GyneDH6"
+    "twitter": "http://twitter.com/simpsonswiki"
   },
   {
     "id": "witchhatatelier",

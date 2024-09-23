@@ -19,12 +19,12 @@
       "mainpage": "Main_Page",
       "interwiki": "bulbapedia",
       "forums": "https://forums.bulbagarden.net/index.php?forums/bulbawiki-forum.195/",
-      "twitter": "https://www.twitter.com/#!/Bulbapedia",
-      "twitch": "https://www.twitch.tv/bulbagarden",
-      "facebook": "https://www.facebook.com/Bulbapedia",
+      "bluesky": "https://bsky.app/profile/bulbapedia.bsky.social",
       "discord": "https://discord.gg/bulbagarden",
-      "youtube": "https://www.youtube.com/user/Bulbagarden",
-      "bluesky": "https://bsky.app/profile/bulbapedia.bsky.social"
+      "facebook": "https://www.facebook.com/Bulbapedia",
+      "twitch": "https://www.twitch.tv/bulbagarden",
+      "twitter": "https://www.twitter.com/#!/Bulbapedia",
+      "youtube": "https://www.youtube.com/user/Bulbagarden"
     },
     {
       "id": "chibirobo",
@@ -34,10 +34,10 @@
       "url": "https://chibi-robo.wiki/wiki/$1",
       "mainpage": "Chibi-Robo_Wiki",
       "interwiki": "chibirobo",
-      "twitter": "https://twitter.com/ChibiRoboWiki",
+      "bluesky": "https://bsky.app/profile/chibirobowiki.bsky.social",
       "discord": "https://discord.com/invite/NstvTyFRPt",
-      "youtube": "https://www.youtube.com/channel/UCmu1kl1AM7oxnVlBVbgQKSg",
-      "bluesky": "https://bsky.app/profile/chibirobowiki.bsky.social"
+      "twitter": "https://twitter.com/ChibiRoboWiki",
+      "youtube": "https://www.youtube.com/channel/UCmu1kl1AM7oxnVlBVbgQKSg"
     },
     {
       "id": "dragalialost",
@@ -47,8 +47,8 @@
       "url": "https://dragalialost.wiki/w/$1",
       "mainpage": "Dragalia_Lost_Wiki",
       "interwiki": "dragaliawiki",
-      "twitter": "https://twitter.com/dragaliawiki",
-      "discord": "https://discord.gg/dragalialost"
+      "discord": "https://discord.gg/dragalialost",
+      "twitter": "https://twitter.com/dragaliawiki"
     },
     {
       "id": "drawntolife",
@@ -63,14 +63,14 @@
     },
     {
       "id": "dqwiki",
+      "former": true,
       "title": "Dragon Quest Wiki",
       "description": "Originally founded on Wikia, the Dragon Quest Wiki was largely inactive until FlyingRagnar became an admin in late 2009. The wiki went independent about a year later when it merged with the Dragon Quest Dictionary/Encyclopedia which was run by Zenithian and supported by the Dragon's Den.  The Dragon Quest Wiki aims to be the most complete resource for Dragon Quest information on the web. It continues to grow in the hope that one day the series will be as popular in the rest of the world as it is in Japan.",
       "logo": "/images/logos/dragonquestwiki.png",
       "url": "https://dragon-quest.org/wiki/$1",
       "mainpage": "Main_Page",
       "interwiki": "dragonquest",
-      "forums": "https://www.woodus.com/forums/forum/88-dragon-quest-wiki/",
-      "former": true
+      "forums": "https://www.woodus.com/forums/forum/88-dragon-quest-wiki/"
     },
     {
       "id": "fewiki",
@@ -81,10 +81,10 @@
       "mainpage": "Main_Page",
       "interwiki": "fireemblem",
       "forums": "http://www.niwanetwork.org/forums/index.php?board=39.0",
-      "twitter": "https://twitter.com/FEWikiOfficial",
+      "bluesky": "https://bsky.app/profile/fireemblemwiki.org",
       "discord": "https://discord.gg/FzRd5P4nyQ",
       "tumblr": "https://fireemblemwikiofficial.tumblr.com/",
-      "bluesky": "https://bsky.app/profile/fireemblemwiki.org"
+      "twitter": "https://twitter.com/FEWikiOfficial"
     },
     {
       "id": "fzerowiki",
@@ -95,9 +95,9 @@
       "mainpage": "F-Zero_Wiki",
       "interwiki": "fzerowiki",
       "chat": "https://mutecity.org/wiki/Special:WebChat",
-      "twitter": "https://twitter.com/MuteCity_org",
+      "discord": "https://discord.gg/pYghWh3",
       "facebook": "https://facebook.com/MuteCity.org",
-      "discord": "https://discord.gg/pYghWh3"
+      "twitter": "https://twitter.com/MuteCity_org"
     },
     {
       "id": "gsuwiki",
@@ -118,10 +118,10 @@
       "mainpage": "Main_Page",
       "interwiki": "harddrop",
       "forums": "https://harddrop.com/forums/",
-      "twitter": "https://twitter.com/harddrop",
-      "twitch": "https://www.twitch.tv/harddrop",
       "discord": "https://discord.gg/harddrop",
-      "facebook": "https://www.facebook.com/harddrop"
+      "facebook": "https://www.facebook.com/harddrop",
+      "twitch": "https://www.twitch.tv/harddrop",
+      "twitter": "https://twitter.com/harddrop"
     },
     {
       "id": "icaruspedia",
@@ -131,8 +131,8 @@
       "url": "https://www.kidicaruswiki.org/wiki/$1",
       "mainpage": "Main_Page",
       "interwiki": "icaruspedia",
-      "forums": "http://www.niwanetwork.org/forums/index.php?board=46.0",
       "chat": "https://www.kidicaruswiki.org/wiki/Icaruspedia:Skype",
+      "forums": "http://www.niwanetwork.org/forums/index.php?board=46.0",
       "discord": "https://discord.gg/pYghWh3"
     },
     {
@@ -143,9 +143,9 @@
       "url": "https://splatoonwiki.org/wiki/$1",
       "mainpage": "Main_Page",
       "interwiki": "inkipedia",
-      "twitter": "https://twitter.com/splatoonwiki",
-      "facebook": "https://www.facebook.com/Inkipedia",
       "discord": "https://discord.gg/42GwSvV4Pg",
+      "facebook": "https://www.facebook.com/Inkipedia",
+      "twitter": "https://twitter.com/splatoonwiki",
       "youtube": "https://www.youtube.com/Inkipedia"
     },
     {
@@ -156,9 +156,9 @@
       "url": "https://www.khwiki.com/$1",
       "mainpage": "",
       "interwiki": "khwiki",
+      "discord": "https://discord.gg/bavMzKu",
       "facebook": "https://www.facebook.com/khwikinet",
       "twitter": "https://twitter.com/KHWiki",
-      "discord": "https://discord.gg/bavMzKu",
       "youtube": "https://www.youtube.com/@KingdomHeartsWiki"
     },
     {
@@ -169,9 +169,9 @@
       "url": "https://kovopedia.com/wiki/$1",
       "mainpage": "Main_Page",
       "interwiki": "kovopedia",
-      "twitter": "https://twitter.com/Kovopedia",
+      "bluesky": "https://bsky.app/profile/kovopedia.com",
       "discord": "https://discord.com/invite/t9dT52fKM8",
-      "bluesky": "https://bsky.app/profile/kovopedia.com"
+      "twitter": "https://twitter.com/Kovopedia"
     },
     {
       "id": "lylatwiki",
@@ -182,9 +182,9 @@
       "mainpage": "Lylat_Wiki",
       "interwiki": "lylatwiki",
       "forums": "http://www.niwanetwork.org/forums/index.php?board=24.0",
-      "twitter": "https://twitter.com/LylatWiki",
+      "discord": "https://discord.gg/pYghWh3",
       "facebook": "https://www.facebook.com/LylatWiki/",
-      "discord": "https://discord.gg/pYghWh3"
+      "twitter": "https://twitter.com/LylatWiki"
     },
     {
       "id": "metroidwiki",
@@ -195,9 +195,9 @@
       "mainpage": "Main_Page",
       "interwiki": "metroidwiki",
       "forums": "http://www.niwanetwork.org/forums/index.php?board=14.0",
-      "twitter": "https://twitter.com/MetroidWikiNIWA",
-      "facebook": "https://www.facebook.com/MetroidWiki",
       "discord": "https://discord.gg/pYghWh3",
+      "facebook": "https://www.facebook.com/MetroidWiki",
+      "twitter": "https://twitter.com/MetroidWikiNIWA",
       "youtube": "https://www.youtube.com/user/TheMetroidWiki"
     },
     {
@@ -218,13 +218,13 @@
       "url": "https://mysterydungeonwiki.com/wiki/$1",
       "mainpage": "Mystery_Dungeon_Franchise_Wiki",
       "interwiki": "mdfw",
-      "instagram": "https://www.instagram.com/mysterydungeonwiki/",
-      "twitter": "https://twitter.com/mdfw_en",
-      "facebook": "https://www.facebook.com/groups/814669675747116/",
+      "bluesky": "https://bsky.app/profile/mdfw.bsky.social",
       "discord": "https://discord.gg/4dKnfpW",
+      "facebook": "https://www.facebook.com/groups/814669675747116/",
+      "instagram": "https://www.instagram.com/mysterydungeonwiki/",
       "reddit": "https://www.reddit.com/r/MysteryDungeonWiki/",
-      "youtube": "https://www.youtube.com/@MDFW",
-      "bluesky": "https://bsky.app/profile/mdfw.bsky.social"
+      "twitter": "https://twitter.com/mdfw_en",
+      "youtube": "https://www.youtube.com/@MDFW"
     },
     {
       "id": "nintendowiki",
@@ -235,7 +235,7 @@
       "mainpage": "Main_Page",
       "interwiki": "nwiki",
       "forums": "http://www.niwanetwork.org/forums/index.php?board=3.0",
-      "discord": "https://discord.gg/59Mq6qB" 
+      "discord": "https://discord.gg/59Mq6qB"
     },
     {
       "id": "nookipedia",
@@ -245,12 +245,12 @@
       "url": "https://nookipedia.com/wiki/$1",
       "mainpage": "Main_Page",
       "interwiki": "nookipedia",
-      "instagram": "https://www.instagram.com/nookipedia/",
-      "twitter": "https://www.twitter.com/nookipedia",
-      "facebook": "https://www.facebook.com/nookipedia",
-      "discord": "https://discord.gg/cpQ5tJV",
       "bluesky": "https://bsky.app/profile/nookipedia.com",
-      "mastodon": "https://tanuki.social/@nookipedia"
+      "discord": "https://discord.gg/cpQ5tJV",
+      "facebook": "https://www.facebook.com/nookipedia",
+      "instagram": "https://www.instagram.com/nookipedia/",
+      "mastodon": "https://tanuki.social/@nookipedia",
+      "twitter": "https://www.twitter.com/nookipedia"
     },
     {
       "id": "pikipedia",
@@ -260,11 +260,11 @@
       "url": "https://www.pikminwiki.com/$1",
       "mainpage": "",
       "interwiki": "pikipedia",
-      "forums": "https://www.pikminwiki.com/Forum:Index",
       "chat": "https://www.pikminwiki.com/Pikipedia:Chat",
-      "twitter": "https://twitter.com/PikipediaTweets",
+      "forums": "https://www.pikminwiki.com/Forum:Index",
+      "discord": "https://discord.gg/zbRN59XFHb",
       "facebook": "https://www.facebook.com/Pikipedia",
-      "discord": "https://discord.gg/zbRN59XFHb"
+      "twitter": "https://twitter.com/PikipediaTweets"
     },
     {
       "id": "pikifanon",
@@ -317,10 +317,10 @@
       "url": "https://strategywiki.org/wiki/$1",
       "mainpage": "Main_Page",
       "interwiki": "strategywiki",
-      "twitter": "https://twitter.com/StrategyWiki",
-      "facebook": "https://www.facebook.com/StrategyWiki",
+      "bluesky": "https://bsky.app/profile/strategywiki.org",
       "discord": "https://discord.gg/pYghWh3",
-      "bluesky": "https://bsky.app/profile/strategywiki.org"
+      "facebook": "https://www.facebook.com/StrategyWiki",
+      "twitter": "https://twitter.com/StrategyWiki"
     },
     {
       "id": "supermariowiki",
@@ -330,11 +330,11 @@
       "url": "https://www.mariowiki.com/$1",
       "mainpage": "",
       "interwiki": "mariowiki",
-      "forums": "https://www.marioboards.com/",
       "chat": "https://www.mariowiki.com/MarioWiki:Chat",
-      "twitter": "https://twitter.com/SMWikiOfficial",
+      "forums": "https://www.marioboards.com/",
+      "discord": "https://discord.gg/w48g6zm",
       "facebook": "https://www.facebook.com/smwiki",
-      "discord": "https://discord.gg/w48g6zm"
+      "twitter": "https://twitter.com/SMWikiOfficial"
     },
     {
       "id": "ukikipedia",
@@ -344,8 +344,8 @@
       "url": "https://ukikipedia.net/wiki/$1",
       "mainpage": "Main_Page",
       "interwiki": "ukikipedia",
-      "twitter": "https://twitter.com/Ukikipedia",
-      "discord": "https://discord.gg/YJcJ7Wq"
+      "discord": "https://discord.gg/YJcJ7Wq",
+      "twitter": "https://twitter.com/Ukikipedia"
     },
     {
       "id": "warswiki",
@@ -376,10 +376,10 @@
       "mainpage": "Kirby_Wiki",
       "interwiki": "wikirby",
       "forums": "http://www.niwanetwork.org/forums/index.php?board=13.0",
-      "facebook": "https://facebook.com/wikirby",
+      "bluesky": "https://bsky.app/profile/wikirby.com",
       "discord": "https://discord.gg/4y9BPyj",
-      "twitter": "https://twitter.com/WiKirby_86",
-      "bluesky": "https://bsky.app/profile/wikirby.com"
+      "facebook": "https://facebook.com/wikirby",
+      "twitter": "https://twitter.com/WiKirby_86"
     },
     {
       "id": "xenoserieswiki",
@@ -390,8 +390,8 @@
       "mainpage": "Main_Page",
       "interwiki": "xenoseries",
       "discord": "https://discord.gg/F7nFZhr",
-      "twitter": "https://twitter.com/XenoSeriesWiki",
-      "mastodon": "https://mastodon.social/@XenoSeriesWiki"
+      "mastodon": "https://mastodon.social/@XenoSeriesWiki",
+      "twitter": "https://twitter.com/XenoSeriesWiki"
     },
     {
       "id": "zeldawiki",
@@ -401,11 +401,11 @@
       "url": "https://zeldawiki.wiki/wiki/$1",
       "mainpage": "Main_Page",
       "interwiki": "zeldawiki",
-      "twitter": "https://twitter.com/zeldawiki",
-      "facebook": "https://www.facebook.com/zeldawiki",
-      "discord": "https://discord.gg/eJnnvYb",
       "bluesky": "https://bsky.app/profile/zeldawiki.bsky.social",
-      "mastodon": "https://mastodon.social/@ZeldaWiki"
+      "discord": "https://discord.gg/eJnnvYb",
+      "facebook": "https://www.facebook.com/zeldawiki",
+      "mastodon": "https://mastodon.social/@ZeldaWiki",
+      "twitter": "https://twitter.com/zeldawiki"
     }
   ],
   "it": [
@@ -417,9 +417,9 @@
       "url": "https://pikminitalia.it/wiki/$1",
       "mainpage": "Pagina_principale",
       "instagram": "https://www.instagram.com/pikminitalia/",
-      "twitter": "https://twitter.com/PikminItalia",
       "telegram": "https://t.me/tanadeipikmin",
       "twitch": "https://www.twitch.tv/latanadeipikmin",
+      "twitter": "https://twitter.com/PikminItalia",
       "youtube": "https://www.youtube.com/pokemoncentralvideo"
     },
     {
@@ -429,11 +429,11 @@
       "logo": "/images/logos/pokemoncentral.png",
       "url": "https://wiki.pokemoncentral.it/$1",
       "mainpage": "Home",
-      "forums": "https://forum.pokemoncentral.it/",
       "chat": "https://telegram.me/pcentralchat",
+      "forums": "https://forum.pokemoncentral.it/",
       "instagram": "https://www.instagram.com/pokemoncentral_official",
-      "twitter": "https://twitter.com/pokemoncentral",
       "telegram": "https://telegram.me/pokemoncentral",
+      "twitter": "https://twitter.com/pokemoncentral",
       "youtube": "https://www.youtube.com/pokemoncentralvideo"
     },
     {
@@ -443,13 +443,13 @@
       "logo": "/images/logos/mariowikiit.png",
       "url": "https://www.mariowiki.it/$1",
       "mainpage": "Pagina_principale",
-      "instagram": "https://www.instagram.com/mariocastle.it/",
-      "twitter": "https://twitter.com/mariocastle_it",
-      "twitch": "https://twitch.tv/mariocastle",
       "discord": "https://discord.gg/WYgHZnv",
+      "instagram": "https://www.instagram.com/mariocastle.it/",
       "telegram": "https://telegram.me/mariocastle",
-      "youtube": "https://youtube.com/mariocastlechannel",
-      "tiktok": "https://www.tiktok.com/@mariocastle.it"
+      "tiktok": "https://www.tiktok.com/@mariocastle.it",
+      "twitch": "https://twitch.tv/mariocastle",
+      "twitter": "https://twitter.com/mariocastle_it",
+      "youtube": "https://youtube.com/mariocastlechannel"
     },
     {
       "id": "wikiboundit",
@@ -458,10 +458,10 @@
       "logo": "/images/logos/wikiboundit.png",
       "url": "https://it.wikibound.info/wiki/$1",
       "mainpage": "Pagina_principale",
-      "twitter": "https://twitter.com/wikibound_it",
-      "facebook": "https://www.facebook.com/WikiBoundITA",
       "discord": "https://discord.gg/7TqG99n",
-      "telegram": "https://t.me/wikibound"
+      "facebook": "https://www.facebook.com/WikiBoundITA",
+      "telegram": "https://t.me/wikibound",
+      "twitter": "https://twitter.com/wikibound_it"
     },
     {
       "id": "xenopediait",
@@ -471,12 +471,12 @@
       "url": "https://www.xenopedia.it/$1",
       "mainpage": "Pagina_principale",
       "chat": "https://t.me/XenobladeRAlpha",
-      "instagram": "https://www.instagram.com/xenobladeralpha",
-      "twitter": "https://twitter.com/XenobladeRAlpha",
-      "twitch": "https://www.twitch.tv/xenobladeuniverseralpha",
-      "facebook": "https://www.facebook.com/XenobladeRAlpha",
       "discord": "https://discord.gg/A9vZCUP",
+      "facebook": "https://www.facebook.com/XenobladeRAlpha",
+      "instagram": "https://www.instagram.com/xenobladeralpha",
       "telegram": "https://t.me/XenobladeItalia",
+      "twitch": "https://www.twitch.tv/xenobladeuniverseralpha",
+      "twitter": "https://twitter.com/XenobladeRAlpha",
       "youtube": "https://www.youtube.com/channel/UCh-L-JnEoO6grNN73xUTWtA"
     }
   ],
@@ -489,8 +489,8 @@
       "url": "https://mariowiki.net/wiki/$1",
       "mainpage": "MarioWiki:Hauptseite",
       "forums": "https://mario-forum.net/",
-      "facebook": "https://www.facebook.com/mariowiki.net",
-      "discord": "https://discord.gg/mXA6bR8"
+      "discord": "https://discord.gg/mXA6bR8",
+      "facebook": "https://www.facebook.com/mariowiki.net"
     },
     {
       "id": "zeldapendium",
@@ -510,8 +510,8 @@
       "logo": "/images/logos/frinkipedia.png",
       "url": "https://fr.splatoonwiki.org/wiki/$1",
       "mainpage": "Accueil",
-      "twitter": "https://twitter.com/splatoonwiki_FR",
-      "discord": "https://discord.gg/f3ArbHcYMF"
+      "discord": "https://discord.gg/f3ArbHcYMF",
+      "twitter": "https://twitter.com/splatoonwiki_FR"
     }
   ]
 }
