@@ -249,7 +249,8 @@
       "twitter": "https://www.twitter.com/nookipedia",
       "facebook": "https://www.facebook.com/nookipedia",
       "discord": "https://discord.gg/cpQ5tJV",
-      "bluesky": "https://bsky.app/profile/nookipedia.com"
+      "bluesky": "https://bsky.app/profile/nookipedia.com",
+      "mastodon": "https://tanuki.social/@nookipedia"
     },
     {
       "id": "pikipedia",
@@ -389,7 +390,8 @@
       "mainpage": "Main_Page",
       "interwiki": "xenoseries",
       "discord": "https://discord.gg/F7nFZhr",
-      "twitter": "https://twitter.com/XenoSeriesWiki"
+      "twitter": "https://twitter.com/XenoSeriesWiki",
+      "mastodon": "https://mastodon.social/@XenoSeriesWiki"
     },
     {
       "id": "zeldawiki",
@@ -402,7 +404,8 @@
       "twitter": "https://twitter.com/zeldawiki",
       "facebook": "https://www.facebook.com/zeldawiki",
       "discord": "https://discord.gg/eJnnvYb",
-      "bluesky": "https://bsky.app/profile/zeldawiki.bsky.social"
+      "bluesky": "https://bsky.app/profile/zeldawiki.bsky.social",
+      "mastodon": "https://mastodon.social/@ZeldaWiki"
     }
   ],
   "it": [

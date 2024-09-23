@@ -9,7 +9,8 @@
     "twitter": "https://twitter.com/Bulbagarden",
     "facebook": "https://www.facebook.com/Bulbagarden",
     "discord": "https://discord.gg/bulbagarden",
-    "bluesky": "https://bsky.app/profile/bulbagarden.bsky.social"
+    "bluesky": "https://bsky.app/profile/bulbagarden.bsky.social",
+    "mastodon": "https://mastodon.social/@bulbagarden"
   },
   {
     "id": "doomwiki",
@@ -18,7 +19,8 @@
     "logo": "/images/logos/doomwiki.png",
     "url": "http://doomwiki.org/wiki/Entryway",
     "contenturl": "http://doomwiki.org/wiki/$1",
-    "twitter": "https://twitter.com/doomwiki"
+    "twitter": "https://twitter.com/doomwiki",
+    "mastodon": "https://mastodon.gamedev.place/@doomwiki"
   },
   {
     "id": "falloutwiki",
