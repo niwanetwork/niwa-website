@@ -217,37 +217,37 @@ class NiwaDataHelper
 			$links .= $this->generateMemberLink($member->chat, "Chat");
 		};
 		if (isset($member->discord)) {
-			$links .= $this->generateMemberLink($member->discord, '<img src="/images/discord.png" alt="Discord" width="20" />');
+			$links .= $this->generateMemberLink($member->discord, '<img src="/images/social/discord.png" alt="Discord" width="20" />');
 		};
 		if (isset($member->instagram)) {
-			$links .= $this->generateMemberLink($member->instagram, '<img src="/images/instagram.png" alt="Instagram" width="20" />');
+			$links .= $this->generateMemberLink($member->instagram, '<img src="/images/social/instagram.png" alt="Instagram" width="20" />');
 		};
 		if (isset($member->twitter)) {
-			$links .= $this->generateMemberLink($member->twitter, '<img src="/images/twitter.png" alt="Twitter" width="20" />');
+			$links .= $this->generateMemberLink($member->twitter, '<img src="/images/social/twitter.png" alt="Twitter" width="20" />');
 		};
 		if (isset($member->mastodon)) {
-			$links .= $this->generateMemberLink($member->mastodon, '<img src="/images/mastodon.png" alt="Mastodon" width="20" />');
+			$links .= $this->generateMemberLink($member->mastodon, '<img src="/images/social/mastodon.png" alt="Mastodon" width="20" />');
 		};
 		if (isset($member->bluesky)) {
-			$links .= $this->generateMemberLink($member->bluesky, '<img src="/images/bluesky.png" alt="Bluesky" width="20" />');
+			$links .= $this->generateMemberLink($member->bluesky, '<img src="/images/social/bluesky.png" alt="Bluesky" width="20" />');
 		};
 		if (isset($member->twitch)) {
-			$links .= $this->generateMemberLink($member->twitch, '<img src="/images/twitch.png" alt="Twitch" width="20" />');
+			$links .= $this->generateMemberLink($member->twitch, '<img src="/images/social/twitch.png" alt="Twitch" width="20" />');
 		};
 		if (isset($member->facebook)) {
-			$links .= $this->generateMemberLink($member->facebook, '<img src="/images/facebook.png" alt="Facebook" width="20" />');
+			$links .= $this->generateMemberLink($member->facebook, '<img src="/images/social/facebook.png" alt="Facebook" width="20" />');
 		};
 		if (isset($member->tumblr)) {
-			$links .= $this->generateMemberLink($member->tumblr, '<img src="/images/tumblr.png" alt="Tumblr" width="20" />');
+			$links .= $this->generateMemberLink($member->tumblr, '<img src="/images/social/tumblr.png" alt="Tumblr" width="20" />');
 		};
 		if (isset($member->reddit)) {
-			$links .= $this->generateMemberLink($member->reddit, '<img src="/images/reddit.png" alt="Reddit" width="20" />');
+			$links .= $this->generateMemberLink($member->reddit, '<img src="/images/social/reddit.png" alt="Reddit" width="20" />');
 		};
 		if (isset($member->telegram)) {
-			$links .= $this->generateMemberLink($member->telegram, '<img src="/images/telegram.png" alt="Telegram" width="20" />');
+			$links .= $this->generateMemberLink($member->telegram, '<img src="/images/social/telegram.png" alt="Telegram" width="20" />');
 		};
 		if (isset($member->youtube)) {
-			$links .= $this->generateMemberLink($member->youtube, '<img src="/images/youtube.png" alt="YouTube" width="20" />');
+			$links .= $this->generateMemberLink($member->youtube, '<img src="/images/social/youtube.png" alt="YouTube" width="20" />');
 		};
 
 		return $links;
