@@ -246,6 +246,9 @@ class NiwaDataHelper
 		if (isset($member->telegram)) {
 			$links .= $this->generateMemberLink($member->telegram, '<img src="/images/social/telegram.png" alt="Telegram" width="20" />');
 		};
+		if (isset($member->tiktok)) {
+			$links .= $this->generateMemberLink($member->tiktok, '<img src="/images/social/tiktok.png" alt="TikTok" width="20" />');
+		};
 		if (isset($member->youtube)) {
 			$links .= $this->generateMemberLink($member->youtube, '<img src="/images/social/youtube.png" alt="YouTube" width="20" />');
 		};
