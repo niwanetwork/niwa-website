@@ -84,6 +84,16 @@
     "url": "https://seiwanetwork.org/"
   },
   {
+    "id": "twewy",
+    "title": "SEIWA",
+    "description": "The Wiki Ends with You has been dedicated to documenting Square Enix's The World Ends with You series since it was founded on Wikia (now Fandom) in 2008. The Wiki became independent on July 27th, 2024, the 17th anniversary of the series.",
+    "logo": "/images/logos/twewy.png",
+    "url": "https://twewy.wiki/",
+    "contenturl": "https://twewy.wiki/wiki/$1",
+    "twitter": "https://x.com/TWEWY_Wiki",
+    "discord": "https://discord.gg/Ze9bNW4Phn"
+  },
+  {
     "id": "wikifang",
     "title": "Wikifang",
     "description": "Wikifang is an independent wiki on the chain of Smilesoft games, namely the Keitai Denjuu Telefang series, the GachaSta! Dino Device series, and Network Adventure Bugsite.",
