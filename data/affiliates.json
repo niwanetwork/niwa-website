@@ -66,6 +66,20 @@
     "contenturl": "https://koeitecmo.wiki/wiki/$1"
   },
   {
+    "id": "mysterydungeonwiki",
+    "title": "Mystery Dungeon Franchise Wiki",
+    "description": "The Mystery Dungeon Franchise Wiki (MDFW) is the Library of Alexandria for everything Mystery Dungeon related.",
+    "logo": "/images/logos/mysterydungeonwiki.png",
+    "url": "https://mysterydungeonwiki.com/wiki/Mystery_Dungeon_Franchise_Wiki",
+    "bluesky": "https://bsky.app/profile/mdfw.bsky.social",
+    "discord": "https://discord.gg/4dKnfpW",
+    "facebook": "https://www.facebook.com/groups/814669675747116/",
+    "instagram": "https://www.instagram.com/mysterydungeonwiki/",
+    "reddit": "https://www.reddit.com/r/MysteryDungeonWiki/",
+    "twitter": "https://twitter.com/mdfw_en",
+    "youtube": "https://www.youtube.com/@MDFW"
+  },
+  {
     "id": "obeymewiki",
     "title": "The Obey Me Wiki",
     "description": "The Obey Me Wiki is all about the demon-romancing mobile games Obey Me! and Obey Me! Nightbringer made by NTT Solmare.",
