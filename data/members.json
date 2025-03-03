@@ -212,6 +212,7 @@
     },
     {
       "id": "mysterydungeonwiki",
+      "former": true,
       "title": "Mystery Dungeon Franchise Wiki",
       "description": "The Mystery Dungeon Franchise Wiki (MDFW) is the Library of Alexandria for everything Mystery Dungeon related.",
       "logo": "/images/logos/mysterydungeonwiki.png",
