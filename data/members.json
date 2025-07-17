@@ -514,6 +514,18 @@
       "mainpage": "Accueil",
       "discord": "https://discord.gg/f3ArbHcYMF",
       "twitter": "https://twitter.com/splatoonwiki_FR"
+    },
+    {
+      "id": "zeldawikifr",
+      "title": "Zelda Wiki FR",
+      "description": "Zelda Wiki FR is a French-speaking wiki created by Korao on May 8, 2008. It's dedicated to the universe of The Legend of Zelda, one of Nintendo's most iconic series. This wiki aims to be the largest French-language resource available on the subject, and welcomes anyone who wants to contribute and be part of this collaborative project. The wiki also has a Discord for chatting with fans and a Bluesky to follow their journey.",
+      "logo": "/images/logos/zeldawikifr.png",
+      "url": "https://fr.zeldawiki.wiki/wiki/$1",
+      "mainpage": "Zelda_Wiki",
+      "interwiki": "zeldawikifr",
+      "bluesky": "https://bsky.app/profile/zeldawikifr.bsky.social",
+      "discord": "https://discord.gg/p9KZVRa",
+      "youtube": "https://www.youtube.com/@zeldawiki2883"
     }
   ]
 }
