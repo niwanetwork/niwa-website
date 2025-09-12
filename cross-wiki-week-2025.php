@@ -71,6 +71,7 @@ THE SOFTWARE IS PROVIDED 'AS IS', WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLI
             <li>Participants must have an account on the wiki(s) they are contributing to for a chance to win.</li>
             <li>Each contributor's edits are ranked 1 to 10. The more substantial your contributions are, the higher chance you have of winning the prize!</li>
             <li>Contributions should improve the wiki in some way. More substantial contributions mean more entries into the contest.</li>
+            <li>Contributions made with the use of LLMs are ineligible for Cross-Wiki Week. Some NIWA wikis do not allow the use of LLMs, and we also want to ensure a level playing field for all contributors.</li>
             <li>Each wiki is a bit different! Become familiar with the differing guidelines, styling, and policies of each wiki. Reach out to each wiki's help resources if you have any questions.</li>
         </ul>
 
