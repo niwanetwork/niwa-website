@@ -80,9 +80,7 @@ THE SOFTWARE IS PROVIDED 'AS IS', WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLI
         <a name="guide"></a>
         <h1 id="Editing Guide">Editing Guides</h1>
 
-        Coming soon!
-
-        <!-- <h2 class="text-center">English Wiki Guides</h2>
+        <h2 class="text-center">English Wiki Guides</h2>
         <div class="text-center cww-grid">
             <?php
             $wikis = $dataHelper->getMemberWikis('en', TRUE);
@@ -102,9 +100,9 @@ THE SOFTWARE IS PROVIDED 'AS IS', WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLI
                 ";
             }
             ?>
-        </div> -->
+        </div>
 
-        <!-- <h2 class="text-center">French Wiki Guides</h2>
+        <h2 class="text-center">French Wiki Guides</h2>
         <div class="text-center cww-grid">
             <?php
             $wikis = $dataHelper->getMemberWikis('fr', TRUE);
@@ -122,9 +120,9 @@ THE SOFTWARE IS PROVIDED 'AS IS', WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLI
                 ";
             }
             ?>
-        </div> -->
+        </div>
 
-        <!-- <h2 class="text-center">Italian Wiki Guides</h2>
+        <h2 class="text-center">Italian Wiki Guides</h2>
         <div class="text-center cww-grid">
             <?php
             $wikis = $dataHelper->getMemberWikis('it', TRUE);
@@ -142,7 +140,7 @@ THE SOFTWARE IS PROVIDED 'AS IS', WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLI
                 ";
             }
             ?>
-        </div> -->
+        </div>
 
         <br><br>
 
