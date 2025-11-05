@@ -516,6 +516,17 @@
       "twitter": "https://twitter.com/splatoonwiki_FR"
     },
     {
+      "id": "wikimariofr",
+      "title": "Wiki Mario",
+      "description": "Le Wiki Mario est une encyclopédie francophone qui traite de l'univers du célèbre plombier moustachu de Nintendo depuis 2009. Notre wiki a pour ambition de devenir la ressource francophone la plus complète dédiée à l'univers Super Mario et ses séries associées. Depuis 2025, notre wiki est devenu indépendant et aspire à devenir le représentant de la communauté francophone dédiée à la mascotte de Nintendo ! N'hésitez pas à nous rendre visite !",
+      "logo": "/images/logos/wikimariofr.png",
+      "url": "https://wikimario.fr/$1",
+      "mainpage": "Wiki_Mario",
+      "instagram": "https://www.instagram.com/wikimariofr",
+      "bluesky": "https://bsky.app/profile/wikimario.fr",
+      "twitter": "https://x.com/wikimariofr"
+    },
+    {
       "id": "zeldawikifr",
       "title": "Zelda Wiki FR",
       "description": "Zelda Wiki FR is a French-speaking wiki created by Korao on May 8, 2008. It's dedicated to the universe of The Legend of Zelda, one of Nintendo's most iconic series. This wiki aims to be the largest French-language resource available on the subject, and welcomes anyone who wants to contribute and be part of this collaborative project. The wiki also has a Discord for chatting with fans and a Bluesky to follow their journey.",
