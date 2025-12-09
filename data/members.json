@@ -516,6 +516,15 @@
       "twitter": "https://twitter.com/splatoonwiki_FR"
     },
     {
+      "id": "wikikirbyfr",
+      "title": "Wiki Kirby",
+      "description": "Depuis 2009, le Wiki Kirby francophone traite de l'univers vidéoludique du protagoniste éponyme, créé par HAL Laboratory et édité par Nintendo. C'est depuis 2025 que le Wiki a décidé de sauter le pas en devenant un wiki indépendant, tout en conservant son image !",
+      "logo": "/images/logos/wikikirbyfr.png",
+      "url": "https://wiki-kirby.fr/wiki/$1",
+      "mainpage": "Accueil",
+      "discord": "https://discord.com/invite/dkxyXS75"
+    },
+    {
       "id": "wikimariofr",
       "title": "Wiki Mario",
       "description": "Le Wiki Mario est une encyclopédie francophone qui traite de l'univers du célèbre plombier moustachu de Nintendo depuis 2009. Notre wiki a pour ambition de devenir la ressource francophone la plus complète dédiée à l'univers Super Mario et ses séries associées. Depuis 2025, notre wiki est devenu indépendant et aspire à devenir le représentant de la communauté francophone dédiée à la mascotte de Nintendo ! N'hésitez pas à nous rendre visite !",
