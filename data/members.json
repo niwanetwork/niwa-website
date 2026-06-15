@@ -331,11 +331,12 @@
       "url": "https://www.mariowiki.com/$1",
       "mainpage": "",
       "interwiki": "mariowiki",
-      "chat": "https://www.mariowiki.com/MarioWiki:Chat",
       "forums": "https://www.marioboards.com/",
-      "discord": "https://discord.gg/w48g6zm",
+      "bluesky": "https://bsky.app/profile/mariowiki.com",
+      "discord": "https://www.mariowiki.com/MarioWiki:Discord_servers",
       "facebook": "https://www.facebook.com/smwiki",
-      "twitter": "https://twitter.com/SMWikiOfficial"
+      "twitter": "https://x.com/SMWikiOfficial",
+      "youtube": "https://www.youtube.com/@MarioWiki"
     },
     {
       "id": "ukikipedia",
