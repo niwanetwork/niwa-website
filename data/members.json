@@ -229,7 +229,7 @@
     },
     {
       "id": "nintendowiki",
-      "title": "Nintendo Wiki",
+      "title": "NintendoWiki",
       "description": "Created on May 12, 2010, NintendoWiki (N-Wiki) is a collaborative project by the NIWA team to create an encyclopedia dedicated to Nintendo, being the company around which all other NIWA content is focused. It ranges from mainstream information such as the games and people who work for the company, to the most obscure info like patents and interesting trivia.",
       "logo": "/images/logos/nintendowiki.png",
       "url": "https://niwanetwork.org/wiki/$1",
@@ -468,7 +468,7 @@
     },
     {
       "id": "xenopediait",
-      "title": "Xenopedia (IT)",
+      "title": "Xenopedia",
       "description": "La Xenopedia è il primo wiki italiano completamente dedicato alla serie Xenoblade Chronicles, con qualche accenno alla serie Xeno in generale. È nata il 26 gennaio 2019 all\"interno del circuito NiwiN.",
       "logo": "/images/logos/xenopediait.png",
       "url": "https://www.xenopedia.it/$1",
