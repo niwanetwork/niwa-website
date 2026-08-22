@@ -111,7 +111,7 @@
     },
     {
       "id": "harddrop",
-      "title": "Hard Drop - Tetris Wiki",
+      "title": "Hard Drop Tetris Wiki",
       "description": "The Tetris Wiki was founded by Tetris fans for Tetris fans on tetrisconcept.com in March 2006. The Tetris Wiki torch was passed to harddrop.com in July 2009. Hard Drop is a Tetris community for all Tetris players, regardless of skill or what version of Tetris you play.",
       "logo": "/images/logos/harddrop.png",
       "url": "https://harddrop.com/wiki/$1",
@@ -229,7 +229,7 @@
     },
     {
       "id": "nintendowiki",
-      "title": "Nintendo Wiki",
+      "title": "NintendoWiki",
       "description": "Created on May 12, 2010, NintendoWiki (N-Wiki) is a collaborative project by the NIWA team to create an encyclopedia dedicated to Nintendo, being the company around which all other NIWA content is focused. It ranges from mainstream information such as the games and people who work for the company, to the most obscure info like patents and interesting trivia.",
       "logo": "/images/logos/nintendowiki.png",
       "url": "https://niwanetwork.org/wiki/$1",
@@ -456,7 +456,7 @@
     },
     {
       "id": "wikiboundit",
-      "title": "Wikibound (IT)",
+      "title": "WikiBound (IT)",
       "description": "WikiBound è il wiki italiano interamente dedicato alla serie di EarthBound/Mother. È stata fondata il 1° novembre 2018 e si è unita al circuito NiwiN il 26 gennaio.",
       "logo": "/images/logos/wikiboundit.png",
       "url": "https://it.wikibound.info/wiki/$1",
@@ -468,7 +468,7 @@
     },
     {
       "id": "xenopediait",
-      "title": "Xenopedia (IT)",
+      "title": "Xenopedia",
       "description": "La Xenopedia è il primo wiki italiano completamente dedicato alla serie Xenoblade Chronicles, con qualche accenno alla serie Xeno in generale. È nata il 26 gennaio 2019 all'interno del circuito NiwiN.",
       "logo": "/images/logos/xenopediait.png",
       "url": "https://www.xenopedia.it/$1",
