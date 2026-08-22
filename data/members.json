@@ -423,12 +423,12 @@
       "telegram": "https://t.me/tanadeipikmin",
       "twitch": "https://www.twitch.tv/latanadeipikmin",
       "twitter": "https://twitter.com/PikminItalia",
-      "youtube": "https://www.youtube.com/pokemoncentralvideo"
+      "youtube": "https://www.youtube.com/@pikminitalia"
     },
     {
       "id": "pokemoncentral",
       "title": "Pokémon Central Wiki",
-      "description": "Pokémon Central Wiki è un\"enciclopedia Pokémon in lingua italiana. È stata creata il 28 marzo 2008 da Gkx e Ipergorilla. Il 19 agosto 2010 è entrata a far parte del progetto Encyclopædiæ Pokémonis.",
+      "description": "Pokémon Central Wiki è un'enciclopedia Pokémon in lingua italiana. È stata creata il 28 marzo 2008 da Gkx e Ipergorilla. Il 19 agosto 2010 è entrata a far parte del progetto Encyclopædiæ Pokémonis.",
       "logo": "/images/logos/pokemoncentral.png",
       "url": "https://wiki.pokemoncentral.it/$1",
       "mainpage": "Home",
@@ -469,7 +469,7 @@
     {
       "id": "xenopediait",
       "title": "Xenopedia (IT)",
-      "description": "La Xenopedia è il primo wiki italiano completamente dedicato alla serie Xenoblade Chronicles, con qualche accenno alla serie Xeno in generale. È nata il 26 gennaio 2019 all\"interno del circuito NiwiN.",
+      "description": "La Xenopedia è il primo wiki italiano completamente dedicato alla serie Xenoblade Chronicles, con qualche accenno alla serie Xeno in generale. È nata il 26 gennaio 2019 all'interno del circuito NiwiN.",
       "logo": "/images/logos/xenopediait.png",
       "url": "https://www.xenopedia.it/$1",
       "mainpage": "Pagina_principale",
