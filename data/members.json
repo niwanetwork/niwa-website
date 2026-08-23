@@ -285,7 +285,8 @@
       "logo": "/images/logos/rhythmheavenwiki.png",
       "url": "https://rhwiki.net/wiki/$1",
       "mainpage": "Home",
-      "interwiki": "rhythmheaven"
+      "interwiki": "rhythmheaven",
+      "discord": "https://discord.gg/GZMYWfEFFP"
     },
     {
       "id": "smashwiki",
