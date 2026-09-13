@@ -27,6 +27,16 @@
         "page": "F-Zero_Wiki:Cross-Wiki_Week"
       },
       {
+        "id": "harddrop",
+        "title": "Cross-Wiki Guide",
+        "page": "Hard_Drop_Tetris_Wiki:Cross-Wiki_Week"
+      },
+      {
+        "id": "icaruspedia",
+        "title": "Cross-Wiki Guide",
+        "page": "Icaruspedia:Cross-Wiki_Week"
+      },
+      {
         "id": "inkipedia",
         "title": "Cross-Wiki Guide",
         "page": "Inkipedia:Cross-Wiki_Week"
@@ -87,6 +97,11 @@
         "page": "SmashWiki:Cross-Wiki_Week"
       },
       {
+        "id": "strategywiki",
+        "title": "Cross-Wiki Guide",
+        "page": "StrategyWiki:Cross-Wiki_Week"
+      },
+      {
         "id": "supermariowiki",
         "title": "Cross-Wiki Guide",
         "page": "MarioWiki:Cross-Wiki_Week"
@@ -124,9 +139,19 @@
         "page": "Pikipedia:Cross-Wiki_Week"
       },
       {
+        "id": "pokemoncentral",
+        "title": "Cross-Wiki Guide",
+        "page": "Meta:Cross-Wiki_Week"
+      },
+      {
         "id": "supermariowikiit",
         "title": "Cross-Wiki Guide",
         "page": "Super_Mario_Wiki:Cross-Wiki_Week"
+      },
+      {
+        "id": "xenopediait",
+        "title": "Cross-Wiki Guide",
+        "page": "Meta:Cross-Wiki_Week"
       }
     ],
     "fr": [

@@ -1,5 +1,5 @@
 <?php
-$title = 'Cross-Wiki Week 2025';
+$title = 'Cross-Wiki Week 2026';
 include('_header.php');
 include('_api.php');
 $dataHelper = new NiwaDataHelper();
