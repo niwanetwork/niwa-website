@@ -29,5 +29,6 @@
   </div>
 
   <?php include('_menu.php'); ?>
+  <?php include('_banner.php'); ?>
 
   <div id="content">
