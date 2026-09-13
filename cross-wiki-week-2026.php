@@ -51,13 +51,13 @@ THE SOFTWARE IS PROVIDED 'AS IS', WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLI
         <br><br>
         <div style="width: 100%; text-align: center;">
             <form>
-                <button style="font-size: 1.1em;" formaction="https://forms.gle/7Hk3EYCh2qQd9Khd8">Sign-up</button>
+                <button style="font-size: 1.1em;" formaction="https://cloud.systemtheta.net/apps/forms/s/QETeaK4TpeW6tyNPrTtLgZor">Sign-up</button>
             </form>
         </div>
 
         <br>
 
-        If you forget to add the hashtag to your edit(s), or make a contribution that doesn't allow for edit summaries (like uploading a file), you can submit those edits via <a href="https://forms.gle/bL9oAqZL686ZSA1HA">this form</a>.
+        If you forget to add the hashtag to your edit(s), or make a contribution that doesn't allow for edit summaries (like uploading a file), you can submit those edits via <a href="https://cloud.systemtheta.net/apps/forms/s/6itWQrT8JBoBA4AoDxnb2tjg">this form</a>.
 
         <br>
 
@@ -86,7 +86,7 @@ THE SOFTWARE IS PROVIDED 'AS IS', WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLI
             $wikis = $dataHelper->getMemberWikis('en', TRUE);
             $affiliates = $dataHelper->getAffiliates();
             $wikis = array_merge($wikis, $affiliates);
-            foreach ($dataHelper->getCWW('2025', 'en') as $cww) {
+            foreach ($dataHelper->getCWW('2026', 'en') as $cww) {
                 $id = $cww->id;
                 $wiki = $wikis[array_search($id, array_column($wikis, 'id'))];
                 echo "
@@ -106,7 +106,7 @@ THE SOFTWARE IS PROVIDED 'AS IS', WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLI
         <div class="text-center cww-grid">
             <?php
             $wikis = $dataHelper->getMemberWikis('fr', TRUE);
-            foreach ($dataHelper->getCWW('2025', 'fr') as $cww) {
+            foreach ($dataHelper->getCWW('2026', 'fr') as $cww) {
                 $id = $cww->id;
                 $wiki = $wikis[array_search($id, array_column($wikis, 'id'))];
                 echo "
@@ -126,7 +126,7 @@ THE SOFTWARE IS PROVIDED 'AS IS', WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLI
         <div class="text-center cww-grid">
             <?php
             $wikis = $dataHelper->getMemberWikis('it', TRUE);
-            foreach ($dataHelper->getCWW('2025', 'it') as $cww) {
+            foreach ($dataHelper->getCWW('2026', 'it') as $cww) {
                 $id = $cww->id;
                 $wiki = $wikis[array_search($id, array_column($wikis, 'id'))];
                 echo "
