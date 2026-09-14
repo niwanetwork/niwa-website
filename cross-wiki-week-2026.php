@@ -162,7 +162,7 @@ THE SOFTWARE IS PROVIDED 'AS IS', WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLI
         <span style="font-size: 70%;">
             Disclaimer: There is no purchase necessary to win. Participants need only meet the requirements listed in the rules above.
             In questionable cases, final discretion of eligibility is determined by the host of the event.
-            The prize will be two $20/€20 Nintendo e-Shop Gift Cards.
+            The prize will be at least three $20/€20 Nintendo e-Shop Gift Cards, distributed among winners.
             If participant is in a country where an e-Shop Gift Card is not usable (region restrictions, no e-Shop support, etc.), another prize of equal value will be coordinated with the winner.
             Winner is determined by a random drawing after contributions are judged on a 1-10 scale by event organizers. Organizers cannot win the prize.
         </span>
