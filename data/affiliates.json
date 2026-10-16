@@ -65,6 +65,17 @@
     "url": "https://koeitecmo.wiki/wiki/Main_Page",
     "contenturl": "https://koeitecmo.wiki/wiki/$1"
   },
+{
+    "id": "littletailwiki",
+    "title": "Little Tail Wiki",
+    "description": "Little Tail Wiki is an independently-run encyclopedia for all things Little Tail Bronx.",
+    "logo": "/images/logos/littletailwiki.png",
+    "url": "https://littletail.wiki/Main_Page",
+    "contenturl": "https://littletail.wiki/$1",
+    "discord": "https://discord.gg/nK2QTFqFXb",
+    "twitter": "https://twitter.com/littletailwiki",
+    "forums": "https://littletail.wiki/Special:WikiForum"
+  },
   {
     "id": "mysterydungeonwiki",
     "title": "Mystery Dungeon Franchise Wiki",
@@ -154,15 +165,4 @@
     "url": "https://jaytheham.com/zcw/Main_Page",
     "contenturl": "https://jaytheham.com/zcw/$1"
   },
-  {
-    "id": "littletailwiki",
-    "title": "Little Tail Wiki",
-    "description": "Little Tail Wiki is an independently-run encyclopedia for all things Little Tail Bronx.",
-    "logo": "/images/logos/littletailwiki.png",
-    "url": "https://littletail.wiki/Main_Page",
-    "contenturl": "https://littletail.wiki/$1",
-    "discord": "https://discord.gg/nK2QTFqFXb",
-    "twitter": "https://twitter.com/littletailwiki",
-    "forums": "https://littletail.wiki/Special:WikiForum"
-  }
-]
+ } 
